@@ -1,0 +1,442 @@
+Region_Name,Output_Title,Output_value
+CA,Base Ls value (MW),-9000.0
+CA,E_Solar_ELCC (MW),4000.0
+CA,E_Solar_CapCred,0.36992509016924074
+CA,E_On_Wind_ELCC (MW),1500.0
+CA,E_On_Wind_CapCred,0.2590584090359573
+CA,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 1 CapCred,0.5
+CA,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 1 CapCred,0.5
+CA,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 2 CapCred,0.5
+CA,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 2 CapCred,0.5
+CA,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 3 CapCred,0.5
+CA,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 3 CapCred,0.5
+CA,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 4 CapCred,0.5
+CA,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 4 CapCred,0.5
+CA,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 5 CapCred,0.5
+CA,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 5 CapCred,0.5
+CA,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 6 CapCred,0.5
+CA,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 6 CapCred,0.5
+CA,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 7 CapCred,0.5
+CA,Iter 2: New VRE Cluster 7 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 7 CapCred,0.5
+CA,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 8 CapCred,0.5
+CA,Iter 2: New VRE Cluster 8 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 8 CapCred,0.5
+CA,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 9 CapCred,0.5
+CA,Iter 2: New VRE Cluster 9 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 9 CapCred,0.5
+CA,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 10 CapCred,0.5
+CA,Iter 2: New VRE Cluster 10 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 10 CapCred,0.5
+CA,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+CA,Iter 1: New VRE Cluster 11 CapCred,0.5
+CA,Iter 2: New VRE Cluster 11 ELCC (MW),500.0
+CA,Iter 2: New VRE Cluster 11 CapCred,0.5
+NW,Base Ls value (MW),18500.0
+NW,E_Solar_ELCC (MW),500.0
+NW,E_Solar_CapCred,1.2603982858583314
+NW,E_On_Wind_ELCC (MW),3000.0
+NW,E_On_Wind_CapCred,0.3171515561569688
+NW,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 1 CapCred,0.5
+NW,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+NW,Iter 2: New VRE Cluster 1 CapCred,0.5
+NW,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 2 CapCred,0.5
+NW,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+NW,Iter 2: New VRE Cluster 2 CapCred,0.5
+NW,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 3 CapCred,0.5
+NW,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+NW,Iter 2: New VRE Cluster 3 CapCred,0.5
+NW,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 4 CapCred,0.5
+NW,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+NW,Iter 2: New VRE Cluster 4 CapCred,0.5
+NW,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 5 CapCred,0.5
+NW,Iter 2: New VRE Cluster 5 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 5 CapCred,1.0
+NW,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 6 CapCred,0.5
+NW,Iter 2: New VRE Cluster 6 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 6 CapCred,1.0
+NW,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 7 CapCred,0.5
+NW,Iter 2: New VRE Cluster 7 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 7 CapCred,1.0
+NW,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 8 CapCred,0.5
+NW,Iter 2: New VRE Cluster 8 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 8 CapCred,1.0
+NW,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 9 CapCred,0.5
+NW,Iter 2: New VRE Cluster 9 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 9 CapCred,1.0
+NW,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 10 CapCred,0.5
+NW,Iter 2: New VRE Cluster 10 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 10 CapCred,1.0
+NW,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+NW,Iter 1: New VRE Cluster 11 CapCred,0.5
+NW,Iter 2: New VRE Cluster 11 ELCC (MW),1000.0
+NW,Iter 2: New VRE Cluster 11 CapCred,1.0
+SW,Base Ls value (MW),12500.0
+SW,E_Solar_ELCC (MW),2500.0
+SW,E_Solar_CapCred,0.4561461127228274
+SW,E_On_Wind_ELCC (MW),1000.0
+SW,E_On_Wind_CapCred,0.19689690478065688
+SW,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 1 CapCred,0.5
+SW,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 1 CapCred,0.5
+SW,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 2 CapCred,0.5
+SW,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 2 CapCred,0.5
+SW,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 3 CapCred,0.5
+SW,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 3 CapCred,0.5
+SW,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 4 CapCred,0.5
+SW,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 4 CapCred,0.5
+SW,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 5 CapCred,0.5
+SW,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 5 CapCred,0.5
+SW,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 6 CapCred,0.5
+SW,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 6 CapCred,0.5
+SW,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 7 CapCred,0.5
+SW,Iter 2: New VRE Cluster 7 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 7 CapCred,0.5
+SW,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 8 CapCred,0.5
+SW,Iter 2: New VRE Cluster 8 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 8 CapCred,0.5
+SW,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 9 CapCred,0.5
+SW,Iter 2: New VRE Cluster 9 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 9 CapCred,0.5
+SW,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 10 CapCred,0.5
+SW,Iter 2: New VRE Cluster 10 ELCC (MW),500.0
+SW,Iter 2: New VRE Cluster 10 CapCred,0.5
+SW,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+SW,Iter 1: New VRE Cluster 11 CapCred,0.5
+SW,Iter 2: New VRE Cluster 11 ELCC (MW),1000.0
+SW,Iter 2: New VRE Cluster 11 CapCred,1.0
+TX,Base Ls value (MW),-7500.0
+TX,E_Solar_ELCC (MW),1500.0
+TX,E_Solar_CapCred,1.1015642211940955
+TX,E_On_Wind_ELCC (MW),3000.0
+TX,E_On_Wind_CapCred,0.1400220301327409
+TX,Iter 1: New VRE Cluster 1 ELCC (MW),1000.0
+TX,Iter 1: New VRE Cluster 1 CapCred,1.0
+TX,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 1 CapCred,0.5
+TX,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 2 CapCred,0.5
+TX,Iter 2: New VRE Cluster 2 ELCC (MW),1000.0
+TX,Iter 2: New VRE Cluster 2 CapCred,1.0
+TX,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 3 CapCred,0.5
+TX,Iter 2: New VRE Cluster 3 ELCC (MW),1000.0
+TX,Iter 2: New VRE Cluster 3 CapCred,1.0
+TX,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 4 CapCred,0.5
+TX,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 4 CapCred,0.5
+TX,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 5 CapCred,0.5
+TX,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 5 CapCred,0.5
+TX,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 6 CapCred,0.5
+TX,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 6 CapCred,0.5
+TX,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 7 CapCred,0.5
+TX,Iter 2: New VRE Cluster 7 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 7 CapCred,0.5
+TX,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 8 CapCred,0.5
+TX,Iter 2: New VRE Cluster 8 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 8 CapCred,0.5
+TX,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 9 CapCred,0.5
+TX,Iter 2: New VRE Cluster 9 ELCC (MW),1000.0
+TX,Iter 2: New VRE Cluster 9 CapCred,1.0
+TX,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 10 CapCred,0.5
+TX,Iter 2: New VRE Cluster 10 ELCC (MW),1000.0
+TX,Iter 2: New VRE Cluster 10 CapCred,1.0
+TX,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+TX,Iter 1: New VRE Cluster 11 CapCred,0.5
+TX,Iter 2: New VRE Cluster 11 ELCC (MW),500.0
+TX,Iter 2: New VRE Cluster 11 CapCred,0.5
+N_CEN,Base Ls value (MW),14500.0
+N_CEN,E_Solar_ELCC (MW),500.0
+N_CEN,E_Solar_CapCred,0.7092198581560284
+N_CEN,E_On_Wind_ELCC (MW),2500.0
+N_CEN,E_On_Wind_CapCred,0.12190661952944044
+N_CEN,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 1 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 1 CapCred,0.5
+N_CEN,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 2 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 2 CapCred,0.5
+N_CEN,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 3 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 3 CapCred,0.5
+N_CEN,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 4 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 4 CapCred,0.5
+N_CEN,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 5 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 5 CapCred,0.5
+N_CEN,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 6 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 6 CapCred,0.5
+N_CEN,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 7 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 7 ELCC (MW),1000.0
+N_CEN,Iter 2: New VRE Cluster 7 CapCred,1.0
+N_CEN,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 8 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 8 ELCC (MW),1000.0
+N_CEN,Iter 2: New VRE Cluster 8 CapCred,1.0
+N_CEN,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 9 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 9 ELCC (MW),1000.0
+N_CEN,Iter 2: New VRE Cluster 9 CapCred,1.0
+N_CEN,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 10 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 10 ELCC (MW),1000.0
+N_CEN,Iter 2: New VRE Cluster 10 CapCred,1.0
+N_CEN,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+N_CEN,Iter 1: New VRE Cluster 11 CapCred,0.5
+N_CEN,Iter 2: New VRE Cluster 11 ELCC (MW),500.0
+N_CEN,Iter 2: New VRE Cluster 11 CapCred,0.5
+CEN,Base Ls value (MW),15500.0
+CEN,E_Solar_ELCC (MW),500.0
+CEN,E_Solar_CapCred,1.486767766874814
+CEN,E_On_Wind_ELCC (MW),1500.0
+CEN,E_On_Wind_CapCred,0.08173941474579043
+CEN,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 1 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 1 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 2 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 2 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 3 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 3 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 4 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 4 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 5 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 5 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 6 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 6 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 7 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 7 ELCC (MW),500.0
+CEN,Iter 2: New VRE Cluster 7 CapCred,0.5
+CEN,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 8 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 8 ELCC (MW),1000.0
+CEN,Iter 2: New VRE Cluster 8 CapCred,1.0
+CEN,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 9 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 9 ELCC (MW),1000.0
+CEN,Iter 2: New VRE Cluster 9 CapCred,1.0
+CEN,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 10 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 10 ELCC (MW),1000.0
+CEN,Iter 2: New VRE Cluster 10 CapCred,1.0
+CEN,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+CEN,Iter 1: New VRE Cluster 11 CapCred,0.5
+CEN,Iter 2: New VRE Cluster 11 ELCC (MW),1000.0
+CEN,Iter 2: New VRE Cluster 11 CapCred,1.0
+SE,Base Ls value (MW),48500.0
+SE,E_Solar_ELCC (MW),2500.0
+SE,E_Solar_CapCred,0.48673169402098787
+SE,E_On_Wind_ELCC (MW),500.0
+SE,E_On_Wind_CapCred,17.361111111111107
+SE,Iter 1: New VRE Cluster 1 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 1 CapCred,1.0
+SE,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 1 CapCred,0.5
+SE,Iter 1: New VRE Cluster 2 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 2 CapCred,1.0
+SE,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 2 CapCred,0.5
+SE,Iter 1: New VRE Cluster 3 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 3 CapCred,1.0
+SE,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 3 CapCred,0.5
+SE,Iter 1: New VRE Cluster 4 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 4 CapCred,1.0
+SE,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 4 CapCred,0.5
+SE,Iter 1: New VRE Cluster 5 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 5 CapCred,1.0
+SE,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 5 CapCred,0.5
+SE,Iter 1: New VRE Cluster 6 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 6 CapCred,1.0
+SE,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 6 CapCred,0.5
+SE,Iter 1: New VRE Cluster 7 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 7 CapCred,1.0
+SE,Iter 2: New VRE Cluster 7 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 7 CapCred,0.5
+SE,Iter 1: New VRE Cluster 8 ELCC (MW),1000.0
+SE,Iter 1: New VRE Cluster 8 CapCred,1.0
+SE,Iter 2: New VRE Cluster 8 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 8 CapCred,0.5
+SE,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+SE,Iter 1: New VRE Cluster 9 CapCred,0.5
+SE,Iter 2: New VRE Cluster 9 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 9 CapCred,0.5
+SE,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+SE,Iter 1: New VRE Cluster 10 CapCred,0.5
+SE,Iter 2: New VRE Cluster 10 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 10 CapCred,0.5
+SE,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+SE,Iter 1: New VRE Cluster 11 CapCred,0.5
+SE,Iter 2: New VRE Cluster 11 ELCC (MW),500.0
+SE,Iter 2: New VRE Cluster 11 CapCred,0.5
+MID_AT,Base Ls value (MW),27000.0
+MID_AT,E_Solar_ELCC (MW),1000.0
+MID_AT,E_Solar_CapCred,0.5682786838665682
+MID_AT,E_On_Wind_ELCC (MW),500.0
+MID_AT,E_On_Wind_CapCred,0.10948585442760793
+MID_AT,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 1 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 1 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 2 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 2 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 2 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 3 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 3 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 3 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 4 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 4 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 4 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 5 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 5 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 5 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 6 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 6 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 6 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 7 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 7 ELCC (MW),1000.0
+MID_AT,Iter 2: New VRE Cluster 7 CapCred,1.0
+MID_AT,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 8 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 8 ELCC (MW),1000.0
+MID_AT,Iter 2: New VRE Cluster 8 CapCred,1.0
+MID_AT,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 9 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 9 ELCC (MW),1000.0
+MID_AT,Iter 2: New VRE Cluster 9 CapCred,1.0
+MID_AT,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 10 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 10 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 10 CapCred,0.5
+MID_AT,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+MID_AT,Iter 1: New VRE Cluster 11 CapCred,0.5
+MID_AT,Iter 2: New VRE Cluster 11 ELCC (MW),500.0
+MID_AT,Iter 2: New VRE Cluster 11 CapCred,0.5
+NE,Base Ls value (MW),15500.0
+NE,E_Solar_ELCC (MW),500.0
+NE,E_Solar_CapCred,0.6138735420503375
+NE,E_On_Wind_ELCC (MW),500.0
+NE,E_On_Wind_CapCred,0.15621582778767146
+NE,Iter 1: New VRE Cluster 1 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 1 CapCred,0.5
+NE,Iter 2: New VRE Cluster 1 ELCC (MW),500.0
+NE,Iter 2: New VRE Cluster 1 CapCred,0.5
+NE,Iter 1: New VRE Cluster 2 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 2 CapCred,0.5
+NE,Iter 2: New VRE Cluster 2 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 2 CapCred,1.0
+NE,Iter 1: New VRE Cluster 3 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 3 CapCred,0.5
+NE,Iter 2: New VRE Cluster 3 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 3 CapCred,1.0
+NE,Iter 1: New VRE Cluster 4 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 4 CapCred,0.5
+NE,Iter 2: New VRE Cluster 4 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 4 CapCred,1.0
+NE,Iter 1: New VRE Cluster 5 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 5 CapCred,0.5
+NE,Iter 2: New VRE Cluster 5 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 5 CapCred,1.0
+NE,Iter 1: New VRE Cluster 6 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 6 CapCred,0.5
+NE,Iter 2: New VRE Cluster 6 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 6 CapCred,1.0
+NE,Iter 1: New VRE Cluster 7 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 7 CapCred,0.5
+NE,Iter 2: New VRE Cluster 7 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 7 CapCred,1.0
+NE,Iter 1: New VRE Cluster 8 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 8 CapCred,0.5
+NE,Iter 2: New VRE Cluster 8 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 8 CapCred,1.0
+NE,Iter 1: New VRE Cluster 9 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 9 CapCred,0.5
+NE,Iter 2: New VRE Cluster 9 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 9 CapCred,1.0
+NE,Iter 1: New VRE Cluster 10 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 10 CapCred,0.5
+NE,Iter 2: New VRE Cluster 10 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 10 CapCred,1.0
+NE,Iter 1: New VRE Cluster 11 ELCC (MW),500.0
+NE,Iter 1: New VRE Cluster 11 CapCred,0.5
+NE,Iter 2: New VRE Cluster 11 ELCC (MW),1000.0
+NE,Iter 2: New VRE Cluster 11 CapCred,1.0
