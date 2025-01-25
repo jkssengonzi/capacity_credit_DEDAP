@@ -1,0 +1,3682 @@
+,id,operational_status,capacity_mw,technology_description,OEO_region
+5,2160,existing,5,Solar Photovoltaic,SE
+6,2168,existing,2,Solar Photovoltaic,SE
+7,2169,existing,4.8,Solar Photovoltaic,SE
+9,2172,existing,10,Solar Photovoltaic,SE
+10,2173,existing,10,Solar Photovoltaic,SE
+11,2174,existing,10,Solar Photovoltaic,SE
+12,2175,existing,10,Solar Photovoltaic,SE
+13,2176,existing,10,Solar Photovoltaic,SE
+14,2177,existing,5,Solar Photovoltaic,SE
+15,2178,existing,3.4,Solar Photovoltaic,SE
+16,2180,existing,1.5,Solar Photovoltaic,SE
+17,2181,existing,299.3,Onshore Wind Turbine,CEN
+18,2182,existing,297.8,Onshore Wind Turbine,CEN
+19,2183,existing,27.3,Solar Photovoltaic,SW
+27,2193,existing,81,Solar Photovoltaic,CEN
+28,2195,existing,1.9,Solar Photovoltaic,SE
+29,2196,existing,1.9,Solar Photovoltaic,SE
+30,2197,existing,1.9,Solar Photovoltaic,SE
+31,2198,existing,4.9,Solar Photovoltaic,SE
+32,2199,existing,4.9,Solar Photovoltaic,SE
+33,2200,existing,4.9,Solar Photovoltaic,SE
+34,2201,existing,10.7,Solar Photovoltaic,CA
+35,2202,existing,2.9,Solar Photovoltaic,CA
+36,2203,existing,0.5,Solar Photovoltaic,MID_AT
+37,2204,existing,0.5,Solar Photovoltaic,MID_AT
+38,2205,existing,4.1,Solar Photovoltaic,SE
+39,2206,existing,4.8,Solar Photovoltaic,SE
+40,2207,existing,5.5,Solar Photovoltaic,NE
+41,2208,existing,2.2,Solar Photovoltaic,NE
+42,2209,existing,5.5,Solar Photovoltaic,NE
+54,2225,existing,2.5,Solar Photovoltaic,NE
+55,2226,existing,1.8,Solar Photovoltaic,MID_AT
+56,2227,existing,2.5,Solar Photovoltaic,CEN
+57,2230,existing,5,Solar Photovoltaic,SE
+59,2239,existing,1.1,Solar Photovoltaic,SE
+60,2240,existing,1.9,Solar Photovoltaic,NE
+61,2241,existing,3.5,Solar Photovoltaic,CA
+62,2242,existing,3.5,Solar Photovoltaic,SE
+67,2247,existing,1.2,Solar Photovoltaic,MID_AT
+68,2248,existing,1.5,Solar Photovoltaic,TX
+69,2254,existing,1.2,Solar Photovoltaic,SW
+70,2255,existing,1.5,Solar Photovoltaic,MID_AT
+72,2260,existing,1,Solar Photovoltaic,SW
+73,2261,existing,2,Solar Photovoltaic,N_CEN
+77,2266,existing,1,Solar Photovoltaic,SE
+80,2269,existing,1,Solar Photovoltaic,MID_AT
+81,2276,existing,0.9,Solar Photovoltaic,N_CEN
+82,2277,existing,0.9,Solar Photovoltaic,N_CEN
+83,2278,existing,0.9,Solar Photovoltaic,N_CEN
+84,2279,existing,0.9,Solar Photovoltaic,N_CEN
+85,2280,existing,0.9,Solar Photovoltaic,N_CEN
+86,2281,existing,0.9,Solar Photovoltaic,N_CEN
+87,2282,existing,0.9,Solar Photovoltaic,N_CEN
+88,2306,existing,1,Solar Photovoltaic,SE
+89,2316,existing,1.9,Solar Photovoltaic,SW
+90,2317,existing,1,Solar Photovoltaic,NE
+91,2318,existing,1,Solar Photovoltaic,NE
+92,2319,existing,1.5,Solar Photovoltaic,MID_AT
+93,2321,existing,1.4,Solar Photovoltaic,SE
+94,2323,existing,5,Solar Photovoltaic,SE
+95,2324,existing,5,Solar Photovoltaic,SE
+96,2325,existing,5,Solar Photovoltaic,SE
+97,2326,existing,25,Onshore Wind Turbine,NW
+100,2329,existing,5.2,Solar Photovoltaic,CA
+104,2346,existing,2.5,Solar Photovoltaic,CEN
+105,2347,existing,5,Solar Photovoltaic,MID_AT
+106,2348,existing,3,Solar Photovoltaic,SE
+107,2354,existing,1,Solar Photovoltaic,NE
+108,2355,existing,5,Solar Photovoltaic,NE
+109,2356,existing,3,Solar Photovoltaic,SW
+110,2357,existing,3,Solar Photovoltaic,SW
+111,2358,existing,3,Solar Photovoltaic,SW
+112,2359,existing,1,Solar Photovoltaic,CA
+113,2360,existing,5.3,Solar Photovoltaic,CA
+114,2361,existing,1,Solar Photovoltaic,CA
+115,2362,existing,1,Solar Photovoltaic,CA
+117,2367,existing,1.3,Solar Photovoltaic,SW
+119,2373,existing,3.9,Solar Photovoltaic,NE
+120,2374,existing,2,Solar Photovoltaic,SE
+121,2375,existing,5,Solar Photovoltaic,SE
+122,2376,existing,5,Solar Photovoltaic,SE
+123,2377,existing,5,Solar Photovoltaic,SE
+124,2378,existing,3,Solar Photovoltaic,CEN
+125,2379,existing,5,Solar Photovoltaic,SE
+126,2380,existing,5,Solar Photovoltaic,SE
+127,2381,existing,5,Solar Photovoltaic,SE
+128,2382,existing,5,Solar Photovoltaic,SE
+129,2383,existing,5,Solar Photovoltaic,SE
+130,2384,existing,5,Solar Photovoltaic,SE
+131,2385,existing,5,Solar Photovoltaic,SE
+132,2386,existing,50,Solar Photovoltaic,SW
+134,2406,existing,9.9,Solar Photovoltaic,MID_AT
+135,2407,existing,9.9,Solar Photovoltaic,MID_AT
+136,2408,existing,5,Solar Photovoltaic,N_CEN
+138,2411,existing,3,Solar Photovoltaic,NE
+139,2414,existing,1.9,Onshore Wind Turbine,CA
+140,2415,existing,1.9,Onshore Wind Turbine,CA
+141,2427,existing,2.5,Solar Photovoltaic,MID_AT
+142,2428,existing,8.1,Solar Photovoltaic,MID_AT
+143,2429,existing,2.8,Solar Photovoltaic,N_CEN
+144,2430,existing,74.5,Solar Photovoltaic,SE
+145,2432,existing,74.5,Solar Photovoltaic,SE
+146,2434,existing,56.3,Solar Photovoltaic,NW
+150,2439,existing,2,Solar Photovoltaic,NE
+151,2440,existing,2,Solar Photovoltaic,NE
+152,2442,existing,75,Onshore Wind Turbine,SW
+153,2443,existing,30,Onshore Wind Turbine,NE
+154,2448,existing,5,Solar Photovoltaic,MID_AT
+155,2449,existing,2,Solar Photovoltaic,NE
+156,2450,existing,74.5,Solar Photovoltaic,SE
+167,2464,existing,74.5,Solar Photovoltaic,SE
+168,2466,existing,74.5,Solar Photovoltaic,SE
+169,2467,existing,74.5,Solar Photovoltaic,SE
+170,2468,existing,74.5,Solar Photovoltaic,SE
+171,2469,existing,5,Solar Photovoltaic,SE
+172,2470,existing,1,Solar Photovoltaic,NE
+173,2471,existing,1.9,Solar Photovoltaic,NE
+174,2472,existing,2,Solar Photovoltaic,NE
+175,2473,existing,2,Solar Photovoltaic,NE
+184,2484,existing,1.9,Solar Photovoltaic,NE
+185,2485,existing,2,Solar Photovoltaic,NE
+186,2486,existing,5,Solar Photovoltaic,NE
+187,2487,existing,4,Solar Photovoltaic,NE
+188,2488,existing,7,Solar Photovoltaic,CA
+189,2489,existing,1.5,Onshore Wind Turbine,MID_AT
+190,2490,existing,1.5,Onshore Wind Turbine,MID_AT
+191,2491,existing,1.5,Onshore Wind Turbine,MID_AT
+192,2492,existing,1.5,Onshore Wind Turbine,MID_AT
+193,2493,existing,2,Solar Photovoltaic,NE
+194,2494,existing,1.5,Onshore Wind Turbine,NE
+197,2501,existing,2,Solar Photovoltaic,SW
+199,2503,existing,4.3,Solar Photovoltaic,CA
+200,2504,existing,6.1,Solar Photovoltaic,MID_AT
+201,2505,existing,10,Solar Photovoltaic,SE
+202,2507,existing,29.9,Onshore Wind Turbine,CEN
+203,2508,existing,7.9,Solar Photovoltaic,MID_AT
+204,2509,existing,50,Solar Photovoltaic,TX
+205,2511,existing,300,Onshore Wind Turbine,TX
+206,2512,existing,2.5,Solar Photovoltaic,NE
+207,2513,existing,2,Solar Photovoltaic,MID_AT
+208,2514,existing,1.9,Solar Photovoltaic,CA
+209,2515,existing,100.5,Onshore Wind Turbine,TX
+210,2516,existing,5,Solar Photovoltaic,SE
+211,2517,existing,20,Solar Photovoltaic,CA
+212,2518,existing,5,Solar Photovoltaic,SE
+213,2519,existing,1.9,Solar Photovoltaic,CA
+214,2520,existing,1,Solar Photovoltaic,CA
+215,2524,existing,9.9,Solar Photovoltaic,NW
+216,2525,existing,20,Solar Photovoltaic,CA
+218,2529,existing,1,Solar Photovoltaic,N_CEN
+219,2530,existing,1,Solar Photovoltaic,N_CEN
+220,2531,existing,1,Solar Photovoltaic,N_CEN
+221,2534,existing,2,Solar Photovoltaic,NE
+222,2535,existing,4.9,Solar Photovoltaic,N_CEN
+223,2536,existing,5,Solar Photovoltaic,SE
+224,2537,existing,20,Solar Photovoltaic,SW
+229,2553,existing,1,Solar Photovoltaic,CEN
+230,2556,existing,1,Solar Photovoltaic,CA
+231,2557,existing,3.8,Solar Photovoltaic,N_CEN
+232,2560,existing,20,Solar Photovoltaic,CA
+233,2562,existing,10.5,Solar Photovoltaic,N_CEN
+234,2563,existing,1,Solar Photovoltaic,N_CEN
+235,2564,existing,1,Solar Photovoltaic,N_CEN
+236,2565,existing,1,Solar Photovoltaic,N_CEN
+237,2566,existing,1,Solar Photovoltaic,N_CEN
+238,2567,existing,1,Solar Photovoltaic,N_CEN
+239,2568,existing,1,Solar Photovoltaic,N_CEN
+240,2569,existing,1,Solar Photovoltaic,N_CEN
+241,2570,existing,1,Solar Photovoltaic,N_CEN
+242,2571,existing,1,Solar Photovoltaic,N_CEN
+243,2572,existing,1,Solar Photovoltaic,N_CEN
+244,2573,existing,1,Solar Photovoltaic,N_CEN
+245,2574,existing,1,Solar Photovoltaic,N_CEN
+246,2575,existing,1,Solar Photovoltaic,N_CEN
+247,2576,existing,1,Solar Photovoltaic,N_CEN
+248,2577,existing,1,Solar Photovoltaic,N_CEN
+249,2578,existing,1,Solar Photovoltaic,N_CEN
+250,2579,existing,1,Solar Photovoltaic,N_CEN
+251,2580,existing,1,Solar Photovoltaic,N_CEN
+252,2581,existing,1,Solar Photovoltaic,N_CEN
+253,2582,existing,1,Solar Photovoltaic,N_CEN
+254,2583,existing,1,Solar Photovoltaic,N_CEN
+255,2584,existing,1,Solar Photovoltaic,N_CEN
+256,2585,existing,1,Solar Photovoltaic,N_CEN
+257,2586,existing,1,Solar Photovoltaic,N_CEN
+260,2593,existing,6.8,Onshore Wind Turbine,CEN
+261,2594,existing,1.7,Onshore Wind Turbine,CEN
+262,2595,existing,4.1,Solar Photovoltaic,SE
+263,2596,existing,5,Solar Photovoltaic,SE
+267,2607,existing,1,Solar Photovoltaic,CEN
+268,2608,existing,2.8,Solar Photovoltaic,MID_AT
+269,2609,existing,2,Solar Photovoltaic,SE
+270,2610,existing,2,Solar Photovoltaic,SE
+271,2611,existing,2,Solar Photovoltaic,SE
+272,2612,existing,1.3,Solar Photovoltaic,N_CEN
+274,2617,existing,3,Solar Photovoltaic,CA
+275,2618,existing,1,Solar Photovoltaic,MID_AT
+276,2619,existing,2,Solar Photovoltaic,MID_AT
+277,2620,existing,2.3,Solar Photovoltaic,NE
+278,2621,existing,1.7,Onshore Wind Turbine,N_CEN
+280,2623,existing,1,Solar Photovoltaic,NE
+281,2624,existing,2.4,Solar Photovoltaic,NE
+282,2626,existing,4.5,Solar Photovoltaic,NE
+284,2628,existing,99.3,Onshore Wind Turbine,N_CEN
+285,2629,existing,2,Solar Photovoltaic,NE
+290,2634,existing,253,Onshore Wind Turbine,TX
+291,2635,existing,250,Onshore Wind Turbine,TX
+292,2641,existing,1.5,Solar Photovoltaic,N_CEN
+293,2642,existing,2,Solar Photovoltaic,N_CEN
+294,2643,existing,1,Solar Photovoltaic,N_CEN
+295,2644,existing,1,Solar Photovoltaic,N_CEN
+296,2645,existing,1.1,Solar Photovoltaic,N_CEN
+297,2646,existing,2.2,Solar Photovoltaic,N_CEN
+298,2647,existing,1,Solar Photovoltaic,N_CEN
+299,2648,existing,1,Solar Photovoltaic,N_CEN
+300,2649,existing,1,Solar Photovoltaic,N_CEN
+301,2650,existing,20,Solar Photovoltaic,SW
+302,2651,existing,50,Solar Photovoltaic,SW
+303,2653,existing,32.9,Onshore Wind Turbine,N_CEN
+304,2654,existing,74.5,Onshore Wind Turbine,N_CEN
+305,2655,existing,41.6,Onshore Wind Turbine,N_CEN
+306,2657,existing,1.1,Solar Photovoltaic,SE
+307,2658,existing,1,Solar Photovoltaic,NE
+308,2659,existing,1,Solar Photovoltaic,NE
+309,2660,existing,2,Solar Photovoltaic,NE
+310,2661,existing,1.9,Solar Photovoltaic,NE
+311,2662,existing,5,Solar Photovoltaic,NE
+312,2663,existing,1.8,Solar Photovoltaic,N_CEN
+313,2664,existing,4.7,Solar Photovoltaic,NE
+314,2665,existing,5,Solar Photovoltaic,NE
+315,2668,existing,9.5,Solar Photovoltaic,CA
+316,2670,existing,3.3,Solar Photovoltaic,NE
+317,2671,existing,2,Solar Photovoltaic,NE
+318,2672,existing,4,Onshore Wind Turbine,NE
+319,2673,existing,5.4,Solar Photovoltaic,N_CEN
+320,2675,existing,2.7,Solar Photovoltaic,CA
+321,2676,existing,1,Solar Photovoltaic,NE
+322,2678,existing,2,Solar Photovoltaic,NE
+323,2679,existing,1,Solar Photovoltaic,MID_AT
+324,2680,existing,163,Onshore Wind Turbine,TX
+325,2681,existing,2.9,Solar Photovoltaic,NE
+326,2682,existing,3.5,Solar Photovoltaic,NE
+327,2683,existing,3.1,Solar Photovoltaic,SE
+328,2684,existing,2,Solar Photovoltaic,NE
+329,2685,existing,2,Solar Photovoltaic,NE
+330,2687,existing,1.7,Solar Photovoltaic,MID_AT
+331,2688,existing,2.2,Solar Photovoltaic,MID_AT
+332,2689,existing,1.2,Solar Photovoltaic,MID_AT
+333,2690,existing,1.1,Solar Photovoltaic,CA
+334,2691,existing,2.3,Solar Photovoltaic,CA
+335,2692,existing,3.8,Solar Photovoltaic,CA
+336,2693,existing,0.4,Solar Photovoltaic,MID_AT
+337,2694,existing,1,Solar Photovoltaic,MID_AT
+338,2695,existing,0.2,Solar Photovoltaic,MID_AT
+339,2696,existing,0.6,Solar Photovoltaic,MID_AT
+340,2697,existing,0.5,Solar Photovoltaic,MID_AT
+341,2698,existing,1.7,Solar Photovoltaic,MID_AT
+342,2699,existing,1.2,Solar Photovoltaic,MID_AT
+343,2700,existing,1.6,Solar Photovoltaic,MID_AT
+344,2701,existing,2.5,Solar Photovoltaic,MID_AT
+345,2702,existing,3,Solar Photovoltaic,N_CEN
+346,2703,existing,5,Solar Photovoltaic,N_CEN
+347,2704,existing,5,Solar Photovoltaic,N_CEN
+348,2705,existing,3.9,Solar Photovoltaic,N_CEN
+349,2706,existing,5,Solar Photovoltaic,N_CEN
+350,2707,existing,5,Solar Photovoltaic,N_CEN
+351,2708,existing,5,Solar Photovoltaic,N_CEN
+353,2710,existing,5,Solar Photovoltaic,N_CEN
+354,2716,existing,1,Solar Photovoltaic,CA
+355,2717,existing,2.3,Solar Photovoltaic,CEN
+356,2718,existing,1.4,Solar Photovoltaic,SW
+357,2719,existing,2.8,Solar Photovoltaic,SW
+358,2720,existing,1.3,Solar Photovoltaic,SW
+359,2721,existing,1.4,Solar Photovoltaic,MID_AT
+360,2723,existing,2,Solar Photovoltaic,NE
+361,2724,existing,2,Solar Photovoltaic,NE
+362,2725,existing,1.6,Solar Photovoltaic,NE
+363,2726,existing,1.7,Solar Photovoltaic,NE
+364,2727,existing,1.7,Solar Photovoltaic,NE
+368,2733,existing,1.8,Solar Photovoltaic,MID_AT
+369,2734,existing,1,Solar Photovoltaic,MID_AT
+370,2735,existing,6,Solar Photovoltaic,MID_AT
+371,2737,existing,1.6,Solar Photovoltaic,MID_AT
+372,2738,existing,7.4,Solar Photovoltaic,MID_AT
+373,2739,existing,1.3,Solar Photovoltaic,MID_AT
+374,2740,existing,1,Solar Photovoltaic,MID_AT
+375,2741,existing,1.4,Solar Photovoltaic,MID_AT
+376,2743,existing,2,Solar Photovoltaic,SE
+377,2744,existing,4.5,Solar Photovoltaic,NE
+378,2745,existing,1.6,Solar Photovoltaic,SE
+380,2747,existing,4.9,Solar Photovoltaic,N_CEN
+381,2748,existing,3.9,Solar Photovoltaic,N_CEN
+384,2751,existing,2,Solar Photovoltaic,CA
+385,2752,existing,3,Solar Photovoltaic,CA
+386,2754,existing,8.8,Solar Photovoltaic,SE
+387,2755,existing,15,Solar Photovoltaic,MID_AT
+388,2761,existing,5,Solar Photovoltaic,SE
+389,2762,existing,3.1,Solar Photovoltaic,MID_AT
+390,2763,existing,1,Solar Photovoltaic,MID_AT
+391,2765,existing,5,Solar Photovoltaic,SE
+392,2766,existing,5,Solar Photovoltaic,SE
+393,2768,existing,1.1,Solar Photovoltaic,MID_AT
+394,2769,existing,6,Solar Photovoltaic,NE
+395,2770,existing,15.4,Solar Photovoltaic,TX
+396,2771,existing,1.3,Solar Photovoltaic,MID_AT
+397,2772,existing,1.8,Solar Photovoltaic,MID_AT
+398,2773,existing,1.3,Solar Photovoltaic,MID_AT
+399,2774,existing,1.5,Solar Photovoltaic,MID_AT
+403,2778,existing,2,Solar Photovoltaic,MID_AT
+404,2779,existing,1,Solar Photovoltaic,MID_AT
+405,2780,existing,12.8,Solar Photovoltaic,SW
+406,2781,existing,3,Solar Photovoltaic,MID_AT
+407,2782,existing,6.2,Solar Photovoltaic,MID_AT
+408,2783,existing,5,Solar Photovoltaic,SE
+410,2785,existing,1.5,Solar Photovoltaic,MID_AT
+411,2786,existing,1,Solar Photovoltaic,NE
+412,2787,existing,1,Solar Photovoltaic,NE
+413,2788,existing,0.5,Solar Photovoltaic,NE
+414,2789,existing,3,Solar Photovoltaic,NE
+415,2790,existing,8.3,Solar Photovoltaic,MID_AT
+416,2791,existing,1.3,Solar Photovoltaic,NE
+417,2792,existing,1,Solar Photovoltaic,NE
+418,2793,existing,2.3,Solar Photovoltaic,MID_AT
+425,2800,existing,20,Solar Photovoltaic,NW
+426,2801,existing,3.1,Solar Photovoltaic,MID_AT
+427,2802,existing,2.5,Solar Photovoltaic,MID_AT
+428,2803,existing,2,Solar Photovoltaic,CA
+429,2804,existing,3,Solar Photovoltaic,CA
+430,2805,existing,160,Onshore Wind Turbine,TX
+432,2807,existing,19.7,Solar Photovoltaic,SE
+433,2808,existing,2,Solar Photovoltaic,MID_AT
+434,2809,existing,4.5,Solar Photovoltaic,MID_AT
+435,2810,existing,2,Solar Photovoltaic,NE
+436,2811,existing,6,Solar Photovoltaic,MID_AT
+437,2812,existing,2,Solar Photovoltaic,NE
+438,2813,existing,13.6,Solar Photovoltaic,MID_AT
+439,2814,existing,6.8,Solar Photovoltaic,MID_AT
+440,2815,existing,1.5,Solar Photovoltaic,MID_AT
+441,2816,existing,8.2,Solar Photovoltaic,MID_AT
+442,2817,existing,1,Solar Photovoltaic,NE
+443,2818,existing,1,Solar Photovoltaic,NE
+444,2819,existing,1.3,Solar Photovoltaic,NE
+445,2820,existing,7.5,Solar Photovoltaic,MID_AT
+446,2821,existing,7,Solar Photovoltaic,MID_AT
+447,2822,existing,4.5,Solar Photovoltaic,MID_AT
+451,2833,existing,1,Solar Photovoltaic,N_CEN
+452,2834,existing,1,Solar Photovoltaic,N_CEN
+453,2835,existing,1,Solar Photovoltaic,N_CEN
+454,2836,existing,1,Solar Photovoltaic,N_CEN
+455,2837,existing,1,Solar Photovoltaic,N_CEN
+456,2838,existing,1,Solar Photovoltaic,N_CEN
+457,2839,existing,1,Solar Photovoltaic,N_CEN
+458,2840,existing,1,Solar Photovoltaic,N_CEN
+459,2841,existing,1,Solar Photovoltaic,N_CEN
+460,2842,existing,1,Solar Photovoltaic,N_CEN
+461,2843,existing,1,Solar Photovoltaic,N_CEN
+462,2844,existing,1,Solar Photovoltaic,N_CEN
+463,2845,existing,1,Solar Photovoltaic,N_CEN
+464,2846,existing,1,Solar Photovoltaic,N_CEN
+465,2847,existing,1,Solar Photovoltaic,N_CEN
+466,2848,existing,1,Solar Photovoltaic,N_CEN
+467,2849,existing,1,Solar Photovoltaic,N_CEN
+468,2850,existing,1,Solar Photovoltaic,N_CEN
+469,2851,existing,1,Solar Photovoltaic,N_CEN
+470,2852,existing,1,Solar Photovoltaic,N_CEN
+471,2853,existing,1,Solar Photovoltaic,N_CEN
+472,2854,existing,1,Solar Photovoltaic,N_CEN
+473,2855,existing,1,Solar Photovoltaic,N_CEN
+474,2856,existing,1,Solar Photovoltaic,N_CEN
+475,2857,existing,1,Solar Photovoltaic,N_CEN
+476,2858,existing,1,Solar Photovoltaic,N_CEN
+477,2859,existing,1,Solar Photovoltaic,N_CEN
+478,2860,existing,1,Solar Photovoltaic,N_CEN
+479,2861,existing,1,Solar Photovoltaic,N_CEN
+480,2862,existing,1,Solar Photovoltaic,N_CEN
+481,2863,existing,1,Solar Photovoltaic,N_CEN
+482,2864,existing,1,Solar Photovoltaic,N_CEN
+483,2865,existing,2,Solar Photovoltaic,NE
+485,2867,existing,3,Solar Photovoltaic,MID_AT
+486,2868,existing,1.4,Solar Photovoltaic,MID_AT
+487,2869,existing,2.8,Solar Photovoltaic,CEN
+488,2870,existing,2.8,Solar Photovoltaic,CEN
+489,2871,existing,2.8,Solar Photovoltaic,CEN
+490,2872,existing,2.8,Solar Photovoltaic,CEN
+493,2875,existing,18.4,Solar Photovoltaic,SE
+500,2882,existing,5,Onshore Wind Turbine,NE
+504,2889,existing,1,Solar Photovoltaic,N_CEN
+505,2890,existing,1,Solar Photovoltaic,N_CEN
+506,2891,existing,1,Solar Photovoltaic,N_CEN
+507,2892,existing,1,Solar Photovoltaic,N_CEN
+508,2893,existing,1,Solar Photovoltaic,N_CEN
+509,2894,existing,1,Solar Photovoltaic,N_CEN
+510,2895,existing,1,Solar Photovoltaic,N_CEN
+511,2896,existing,1,Solar Photovoltaic,N_CEN
+513,2901,existing,280.6,Onshore Wind Turbine,CEN
+514,2902,existing,200,Onshore Wind Turbine,CEN
+515,2903,existing,200,Onshore Wind Turbine,CEN
+516,2904,existing,1,Solar Photovoltaic,CEN
+517,2905,existing,0.2,Solar Photovoltaic,SW
+518,2906,existing,0.2,Solar Photovoltaic,SW
+519,2907,existing,0.1,Solar Photovoltaic,SW
+520,2908,existing,1,Solar Photovoltaic,SW
+521,2909,existing,1,Solar Photovoltaic,SW
+523,2911,existing,50,Solar Photovoltaic,TX
+524,2913,existing,7.4,Solar Photovoltaic,SE
+525,2914,existing,10.6,Solar Photovoltaic,SE
+526,2917,existing,2,Solar Photovoltaic,NE
+528,2921,existing,200.9,Onshore Wind Turbine,CEN
+529,2923,existing,2,Solar Photovoltaic,MID_AT
+530,2924,existing,2,Solar Photovoltaic,MID_AT
+531,2925,existing,2,Solar Photovoltaic,MID_AT
+532,2926,existing,2,Solar Photovoltaic,MID_AT
+533,2927,existing,2,Solar Photovoltaic,MID_AT
+534,2928,existing,2,Solar Photovoltaic,MID_AT
+535,2929,existing,2,Solar Photovoltaic,MID_AT
+536,2930,existing,2,Solar Photovoltaic,MID_AT
+540,2934,existing,10,Solar Photovoltaic,SE
+541,2935,existing,71.4,Solar Photovoltaic,SE
+542,2936,existing,174,Onshore Wind Turbine,CEN
+544,2938,existing,300,Onshore Wind Turbine,CEN
+545,2941,existing,1,Solar Photovoltaic,NE
+546,2942,existing,2.3,Solar Photovoltaic,N_CEN
+547,2943,existing,5,Solar Photovoltaic,SE
+554,2953,existing,200,Onshore Wind Turbine,TX
+555,2954,existing,1.4,Solar Photovoltaic,NE
+558,2958,existing,1.5,Solar Photovoltaic,NE
+559,2959,existing,107.4,Onshore Wind Turbine,CEN
+560,2960,existing,107.4,Onshore Wind Turbine,CEN
+561,2961,existing,16,Solar Photovoltaic,MID_AT
+562,2962,existing,20,Solar Photovoltaic,MID_AT
+563,2963,existing,5,Solar Photovoltaic,SE
+564,2964,existing,6.8,Solar Photovoltaic,SE
+565,2965,existing,5,Solar Photovoltaic,SE
+566,2966,existing,2,Solar Photovoltaic,SE
+567,2967,existing,3.9,Solar Photovoltaic,N_CEN
+568,2968,existing,7,Solar Photovoltaic,N_CEN
+569,2970,existing,2,Solar Photovoltaic,SE
+570,2974,existing,1.2,Solar Photovoltaic,NE
+571,2977,existing,20,Solar Photovoltaic,MID_AT
+572,2978,existing,6.5,Solar Photovoltaic,NE
+573,2979,existing,208.3,Onshore Wind Turbine,CEN
+576,2983,existing,8,Solar Photovoltaic,NW
+577,2984,existing,3,Solar Photovoltaic,NE
+578,2985,existing,1,Solar Photovoltaic,NE
+579,2986,existing,2,Solar Photovoltaic,NE
+580,2987,existing,4,Solar Photovoltaic,NE
+581,2988,existing,60,Solar Photovoltaic,MID_AT
+582,2990,existing,3.5,Solar Photovoltaic,NE
+584,2992,existing,1,Solar Photovoltaic,NE
+585,2993,existing,3.5,Solar Photovoltaic,NE
+587,2996,existing,1.5,Solar Photovoltaic,NE
+588,2997,existing,10,Solar Photovoltaic,MID_AT
+589,2998,existing,4.4,Solar Photovoltaic,SW
+590,2999,existing,5,Solar Photovoltaic,SE
+591,3001,existing,5.3,Solar Photovoltaic,SE
+592,3002,existing,5,Solar Photovoltaic,SE
+593,3003,existing,5,Solar Photovoltaic,SE
+594,3004,existing,5,Solar Photovoltaic,SE
+597,3009,existing,249.9,Onshore Wind Turbine,CEN
+598,3010,existing,54,Solar Photovoltaic,CA
+599,3011,existing,54,Solar Photovoltaic,CA
+600,3018,existing,184,Onshore Wind Turbine,N_CEN
+601,3019,existing,2.5,Solar Photovoltaic,SE
+602,3020,existing,1,Solar Photovoltaic,SE
+603,3022,existing,79.2,Solar Photovoltaic,SE
+604,3024,existing,150,Solar Photovoltaic,TX
+605,3025,existing,5,Solar Photovoltaic,SE
+606,3026,existing,5,Solar Photovoltaic,SE
+607,3027,existing,5,Solar Photovoltaic,SE
+608,3028,existing,5,Solar Photovoltaic,SE
+609,3029,existing,5,Solar Photovoltaic,SE
+610,3030,existing,5,Solar Photovoltaic,SE
+611,3031,existing,225,Onshore Wind Turbine,CEN
+612,3032,existing,2.1,Solar Photovoltaic,N_CEN
+623,3050,existing,4.9,Solar Photovoltaic,NE
+629,3057,existing,20,Solar Photovoltaic,CA
+630,3059,existing,8,Solar Photovoltaic,SE
+631,3060,existing,16,Solar Photovoltaic,SE
+632,3061,existing,52.5,Solar Photovoltaic,SE
+633,3062,existing,5,Solar Photovoltaic,SE
+634,3063,existing,50,Solar Photovoltaic,SE
+635,3066,existing,5,Solar Photovoltaic,SE
+636,3067,existing,9.9,Solar Photovoltaic,NW
+637,3068,existing,1.9,Solar Photovoltaic,NE
+638,3071,existing,147.2,Onshore Wind Turbine,CEN
+639,3072,existing,1,Solar Photovoltaic,SE
+640,3073,existing,1.3,Solar Photovoltaic,NE
+641,3074,existing,1.9,Onshore Wind Turbine,N_CEN
+642,3075,existing,35,Solar Photovoltaic,SE
+643,3076,existing,71,Solar Photovoltaic,SE
+644,3077,existing,5,Solar Photovoltaic,SE
+645,3078,existing,2.2,Solar Photovoltaic,NE
+647,3080,existing,6.8,Solar Photovoltaic,SE
+648,3081,existing,8.5,Solar Photovoltaic,N_CEN
+649,3082,existing,5.5,Solar Photovoltaic,N_CEN
+650,3083,existing,10,Solar Photovoltaic,N_CEN
+651,3084,existing,4,Solar Photovoltaic,N_CEN
+652,3085,existing,10,Solar Photovoltaic,N_CEN
+653,3086,existing,3.5,Solar Photovoltaic,N_CEN
+654,3087,existing,3.5,Solar Photovoltaic,N_CEN
+655,3088,existing,7.5,Solar Photovoltaic,N_CEN
+656,3089,existing,4.5,Solar Photovoltaic,N_CEN
+657,3090,existing,4.5,Solar Photovoltaic,N_CEN
+658,3091,existing,5.5,Solar Photovoltaic,N_CEN
+659,3092,existing,6.5,Solar Photovoltaic,N_CEN
+660,3093,existing,6.5,Solar Photovoltaic,N_CEN
+661,3094,existing,4,Solar Photovoltaic,N_CEN
+662,3095,existing,6,Solar Photovoltaic,N_CEN
+663,3096,existing,10,Solar Photovoltaic,N_CEN
+664,3097,existing,2,Solar Photovoltaic,NE
+667,3100,existing,3,Solar Photovoltaic,CA
+668,3101,existing,1.6,Solar Photovoltaic,SE
+669,3102,existing,10,Solar Photovoltaic,SW
+670,3104,existing,3,Solar Photovoltaic,CA
+671,3105,existing,2,Solar Photovoltaic,NE
+672,3106,existing,2,Solar Photovoltaic,NE
+674,3111,existing,125.6,Onshore Wind Turbine,TX
+675,3112,existing,1,Solar Photovoltaic,MID_AT
+676,3113,existing,1,Solar Photovoltaic,MID_AT
+677,3114,existing,1.7,Solar Photovoltaic,MID_AT
+678,3115,existing,2,Solar Photovoltaic,NE
+679,3116,existing,2,Solar Photovoltaic,SW
+680,3117,existing,1.5,Solar Photovoltaic,MID_AT
+681,3118,existing,1.3,Solar Photovoltaic,NE
+682,3119,existing,3.2,Solar Photovoltaic,NE
+683,3120,existing,2.5,Solar Photovoltaic,NE
+684,3121,existing,2,Solar Photovoltaic,NE
+685,3124,existing,4,Solar Photovoltaic,MID_AT
+686,3125,existing,3.5,Solar Photovoltaic,MID_AT
+687,3126,existing,5,Solar Photovoltaic,MID_AT
+688,3127,existing,25,Onshore Wind Turbine,NW
+689,3128,existing,20,Solar Photovoltaic,CA
+690,3129,existing,4.9,Solar Photovoltaic,MID_AT
+691,3133,existing,2.1,Solar Photovoltaic,SE
+692,3134,existing,1,Solar Photovoltaic,NE
+693,3135,existing,1.7,Solar Photovoltaic,NE
+694,3136,existing,1.2,Solar Photovoltaic,NE
+695,3139,existing,1.3,Solar Photovoltaic,NE
+696,3140,existing,1,Solar Photovoltaic,TX
+697,3142,existing,100.8,Onshore Wind Turbine,MID_AT
+698,3143,existing,18,Solar Photovoltaic,SE
+700,3145,existing,40,Solar Photovoltaic,SW
+701,3147,existing,1.5,Solar Photovoltaic,MID_AT
+705,3151,existing,1.6,Solar Photovoltaic,NE
+706,3152,existing,2,Solar Photovoltaic,NE
+707,3153,existing,1.6,Solar Photovoltaic,MID_AT
+712,3158,existing,2.8,Solar Photovoltaic,NE
+714,3160,existing,1.9,Solar Photovoltaic,NE
+715,3161,existing,1.9,Solar Photovoltaic,NE
+716,3162,existing,2.6,Solar Photovoltaic,NE
+717,3163,existing,2,Solar Photovoltaic,NE
+718,3164,existing,3.9,Solar Photovoltaic,NE
+719,3165,existing,1,Solar Photovoltaic,NE
+720,3166,existing,1.1,Solar Photovoltaic,CA
+721,3167,existing,50,Solar Photovoltaic,SW
+722,3168,existing,1,Solar Photovoltaic,SE
+723,3169,existing,1.2,Solar Photovoltaic,MID_AT
+724,3170,existing,1,Solar Photovoltaic,CA
+725,3171,existing,40,Solar Photovoltaic,NW
+727,3173,existing,2,Solar Photovoltaic,NE
+728,3174,existing,2,Solar Photovoltaic,NE
+730,3178,existing,3.4,Solar Photovoltaic,SE
+731,3179,existing,3.7,Solar Photovoltaic,MID_AT
+732,3180,existing,118.5,Solar Photovoltaic,TX
+733,3181,existing,17,Solar Photovoltaic,N_CEN
+734,3183,existing,80,Solar Photovoltaic,SW
+735,3184,existing,2,Solar Photovoltaic,NE
+736,3187,existing,2.2,Solar Photovoltaic,CA
+737,3188,existing,2,Solar Photovoltaic,TX
+738,3189,existing,5,Solar Photovoltaic,CA
+739,3190,existing,2,Solar Photovoltaic,NE
+740,3191,existing,1.7,Solar Photovoltaic,NE
+741,3192,existing,1.6,Solar Photovoltaic,NE
+742,3193,existing,20,Solar Photovoltaic,MID_AT
+746,3198,existing,4.9,Solar Photovoltaic,MID_AT
+747,3199,existing,4.9,Solar Photovoltaic,SE
+748,3200,existing,5.2,Solar Photovoltaic,MID_AT
+749,3201,existing,276,Onshore Wind Turbine,TX
+750,3202,existing,50,Solar Photovoltaic,SW
+751,3203,existing,4,Solar Photovoltaic,CA
+752,3204,existing,2.2,Solar Photovoltaic,NE
+753,3205,existing,5.2,Solar Photovoltaic,N_CEN
+754,3206,existing,5.2,Solar Photovoltaic,SE
+755,3207,existing,5.2,Solar Photovoltaic,SE
+756,3208,existing,70,Solar Photovoltaic,CEN
+757,3209,existing,70,Solar Photovoltaic,CEN
+758,3210,existing,9.1,Onshore Wind Turbine,NE
+759,3211,existing,5.2,Solar Photovoltaic,SE
+760,3212,existing,5.2,Solar Photovoltaic,SE
+761,3213,existing,5.2,Solar Photovoltaic,SE
+762,3214,existing,4.9,Solar Photovoltaic,SE
+763,3215,existing,4.9,Solar Photovoltaic,SE
+764,3216,existing,4.9,Solar Photovoltaic,SE
+765,3217,existing,4.9,Solar Photovoltaic,SE
+766,3218,existing,4.9,Solar Photovoltaic,SE
+767,3219,existing,5,Solar Photovoltaic,MID_AT
+770,3224,existing,20.1,Solar Photovoltaic,NE
+772,3226,existing,60,Solar Photovoltaic,CA
+774,3230,existing,20,Solar Photovoltaic,CA
+776,3232,existing,5,Solar Photovoltaic,MID_AT
+777,3233,existing,60,Solar Photovoltaic,SE
+778,3234,existing,20,Solar Photovoltaic,SW
+779,3235,existing,65,Solar Photovoltaic,SE
+780,3236,existing,5,Solar Photovoltaic,MID_AT
+781,3240,existing,7.7,Solar Photovoltaic,MID_AT
+783,3245,existing,100,Solar Photovoltaic,TX
+784,3246,existing,1.5,Solar Photovoltaic,SE
+785,3247,existing,5.2,Solar Photovoltaic,SE
+786,3248,existing,5.2,Solar Photovoltaic,SE
+791,3253,existing,5.2,Solar Photovoltaic,SE
+792,3254,existing,151.2,Onshore Wind Turbine,TX
+793,3255,existing,1.6,Solar Photovoltaic,NE
+794,3258,existing,5.2,Solar Photovoltaic,MID_AT
+795,3260,existing,5,Solar Photovoltaic,SE
+799,3268,existing,150,Onshore Wind Turbine,CEN
+800,3269,existing,150,Onshore Wind Turbine,CEN
+801,3270,existing,2,Solar Photovoltaic,MID_AT
+802,3271,existing,100,Solar Photovoltaic,SW
+803,3272,existing,30,Solar Photovoltaic,SW
+804,3273,existing,1.9,Solar Photovoltaic,SW
+808,3277,existing,2,Solar Photovoltaic,N_CEN
+809,3278,existing,19.6,Solar Photovoltaic,N_CEN
+810,3279,existing,28.4,Solar Photovoltaic,N_CEN
+811,3284,existing,2,Solar Photovoltaic,NE
+814,3287,existing,27.6,Onshore Wind Turbine,N_CEN
+815,3288,existing,92.8,Onshore Wind Turbine,N_CEN
+816,3289,existing,119.6,Onshore Wind Turbine,N_CEN
+817,3290,existing,61.1,Onshore Wind Turbine,N_CEN
+818,3291,existing,1,Solar Photovoltaic,SW
+820,3293,existing,230,Onshore Wind Turbine,TX
+821,3294,existing,230,Onshore Wind Turbine,TX
+822,3295,existing,16,Solar Photovoltaic,SE
+823,3296,existing,50,Solar Photovoltaic,CA
+824,3297,existing,10,Solar Photovoltaic,NW
+825,3298,existing,10,Solar Photovoltaic,NW
+826,3299,existing,4.5,Solar Photovoltaic,NW
+827,3300,existing,10,Solar Photovoltaic,NW
+828,3301,existing,9,Solar Photovoltaic,NW
+829,3302,existing,6,Solar Photovoltaic,NW
+830,3303,existing,39.9,Onshore Wind Turbine,MID_AT
+831,3310,existing,1.8,Solar Photovoltaic,MID_AT
+835,3314,existing,79.7,Onshore Wind Turbine,N_CEN
+836,3315,existing,108.7,Onshore Wind Turbine,N_CEN
+837,3316,existing,61.9,Onshore Wind Turbine,N_CEN
+838,3319,existing,16.1,Onshore Wind Turbine,CA
+839,3320,existing,1.2,Solar Photovoltaic,SW
+840,3321,existing,20,Solar Photovoltaic,MID_AT
+841,3322,existing,19,Solar Photovoltaic,MID_AT
+842,3324,existing,17,Solar Photovoltaic,MID_AT
+843,3326,existing,35.8,Onshore Wind Turbine,CEN
+844,3327,existing,4.9,Solar Photovoltaic,SE
+845,3328,existing,4.9,Solar Photovoltaic,SE
+846,3329,existing,11.4,Solar Photovoltaic,CA
+847,3330,existing,20,Solar Photovoltaic,CA
+848,3332,existing,150,Solar Photovoltaic,SW
+849,3333,existing,100,Solar Photovoltaic,SW
+850,3334,existing,52,Solar Photovoltaic,SE
+851,3335,existing,30,Solar Photovoltaic,SW
+852,3336,existing,52,Solar Photovoltaic,SE
+856,3341,existing,3,Solar Photovoltaic,SW
+859,3347,existing,10.2,Solar Photovoltaic,SE
+860,3353,existing,5,Solar Photovoltaic,SE
+861,3356,existing,30,Solar Photovoltaic,SW
+862,3359,existing,7.8,Solar Photovoltaic,SW
+863,3360,existing,3,Solar Photovoltaic,CA
+864,3361,existing,20,Solar Photovoltaic,CA
+865,3362,existing,20,Solar Photovoltaic,CA
+866,3363,existing,1.9,Solar Photovoltaic,NE
+867,3364,existing,1.5,Solar Photovoltaic,CA
+869,3366,existing,2,Solar Photovoltaic,CA
+870,3367,existing,2,Solar Photovoltaic,NE
+871,3371,existing,148.4,Onshore Wind Turbine,CEN
+873,3375,existing,2.7,Solar Photovoltaic,MID_AT
+874,3376,existing,5.9,Solar Photovoltaic,MID_AT
+875,3377,existing,4.4,Solar Photovoltaic,MID_AT
+884,3386,existing,73.4,Onshore Wind Turbine,CEN
+885,3387,existing,100,Solar Photovoltaic,SW
+886,3392,existing,80,Onshore Wind Turbine,NW
+887,3393,existing,28.1,Solar Photovoltaic,SW
+888,3394,existing,5,Solar Photovoltaic,SE
+889,3395,existing,198,Onshore Wind Turbine,CEN
+890,3396,existing,1,Solar Photovoltaic,CA
+891,3397,existing,2,Solar Photovoltaic,CA
+896,3402,existing,5,Solar Photovoltaic,MID_AT
+897,3403,existing,4,Solar Photovoltaic,N_CEN
+898,3404,existing,2,Solar Photovoltaic,N_CEN
+900,3409,existing,4,Solar Photovoltaic,SW
+901,3410,existing,4,Solar Photovoltaic,SW
+902,3420,existing,10,Solar Photovoltaic,CA
+905,3423,existing,4.9,Solar Photovoltaic,SE
+906,3424,existing,5.2,Solar Photovoltaic,N_CEN
+907,3425,existing,5.2,Solar Photovoltaic,N_CEN
+908,3426,existing,30,Solar Photovoltaic,CA
+915,3433,existing,185,Solar Photovoltaic,CA
+916,3434,existing,2,Solar Photovoltaic,NE
+917,3435,existing,4.5,Solar Photovoltaic,CA
+920,3438,existing,1.5,Solar Photovoltaic,NE
+921,3439,existing,1,Solar Photovoltaic,NE
+922,3440,existing,1.4,Solar Photovoltaic,MID_AT
+923,3441,existing,10.8,Solar Photovoltaic,CA
+924,3442,existing,2.5,Solar Photovoltaic,NE
+947,3467,existing,1,Solar Photovoltaic,CA
+948,3468,existing,200,Onshore Wind Turbine,CEN
+949,3469,existing,149.3,Onshore Wind Turbine,TX
+952,3476,existing,50.4,Onshore Wind Turbine,TX
+953,3477,existing,5,Solar Photovoltaic,MID_AT
+954,3478,existing,5,Solar Photovoltaic,MID_AT
+955,3479,existing,5,Solar Photovoltaic,MID_AT
+956,3489,existing,1.2,Solar Photovoltaic,MID_AT
+957,3490,existing,2,Solar Photovoltaic,SE
+958,3491,existing,2,Solar Photovoltaic,SE
+959,3492,existing,10,Solar Photovoltaic,SW
+960,3493,existing,10.5,Solar Photovoltaic,SW
+961,3494,existing,9.5,Solar Photovoltaic,SW
+962,3495,existing,10,Solar Photovoltaic,SW
+963,3500,existing,3.3,Solar Photovoltaic,CA
+965,3502,existing,4,Solar Photovoltaic,SE
+966,3503,existing,3,Solar Photovoltaic,MID_AT
+967,3504,existing,5,Solar Photovoltaic,MID_AT
+968,3505,existing,5,Solar Photovoltaic,SE
+969,3506,existing,5,Solar Photovoltaic,CA
+970,3507,existing,50,Solar Photovoltaic,CA
+971,3508,existing,85,Solar Photovoltaic,CA
+974,3511,existing,2,Solar Photovoltaic,CA
+975,3512,existing,2,Solar Photovoltaic,CA
+976,3515,existing,5,Solar Photovoltaic,SE
+977,3540,existing,1,Solar Photovoltaic,CA
+978,3541,existing,1.2,Solar Photovoltaic,CA
+979,3542,existing,142.6,Onshore Wind Turbine,SW
+980,3543,existing,1.3,Solar Photovoltaic,CA
+981,3544,existing,2,Solar Photovoltaic,NE
+982,3545,existing,50.8,Solar Photovoltaic,SE
+983,3546,existing,6.5,Solar Photovoltaic,SE
+984,3547,existing,6.5,Solar Photovoltaic,SE
+985,3548,existing,181.7,Onshore Wind Turbine,SW
+986,3550,existing,60.8,Onshore Wind Turbine,SW
+987,3551,existing,1.5,Solar Photovoltaic,CA
+989,3556,existing,5,Solar Photovoltaic,SE
+990,3557,existing,5,Solar Photovoltaic,SE
+991,3558,existing,2,Solar Photovoltaic,SE
+992,3559,existing,5,Solar Photovoltaic,SE
+993,3560,existing,103,Onshore Wind Turbine,MID_AT
+994,3561,existing,3.5,Solar Photovoltaic,SE
+1000,3567,existing,2,Solar Photovoltaic,SE
+1001,3568,existing,1.5,Onshore Wind Turbine,MID_AT
+1002,3569,existing,1.5,Onshore Wind Turbine,MID_AT
+1003,3570,existing,1.5,Onshore Wind Turbine,MID_AT
+1004,3571,existing,80,Solar Photovoltaic,MID_AT
+1005,3572,existing,1.5,Onshore Wind Turbine,MID_AT
+1006,3574,existing,3,Solar Photovoltaic,SE
+1010,3580,existing,2.6,Solar Photovoltaic,SE
+1013,3583,existing,3,Solar Photovoltaic,N_CEN
+1014,3584,existing,1,Solar Photovoltaic,N_CEN
+1015,3585,existing,1,Solar Photovoltaic,NE
+1016,3586,existing,1,Solar Photovoltaic,NE
+1017,3587,existing,1.5,Solar Photovoltaic,NE
+1018,3588,existing,1.2,Solar Photovoltaic,MID_AT
+1019,3589,existing,1.4,Solar Photovoltaic,NW
+1020,3590,existing,2.2,Solar Photovoltaic,NE
+1021,3591,existing,3,Solar Photovoltaic,NE
+1023,3593,existing,5,Solar Photovoltaic,SE
+1024,3594,existing,2,Solar Photovoltaic,SE
+1025,3595,existing,5,Solar Photovoltaic,SE
+1026,3596,existing,2,Solar Photovoltaic,SE
+1027,3597,existing,249.7,Onshore Wind Turbine,TX
+1032,3602,existing,2,Solar Photovoltaic,SE
+1034,3604,existing,1.7,Solar Photovoltaic,NE
+1035,3605,existing,2,Solar Photovoltaic,NE
+1036,3606,existing,1,Solar Photovoltaic,NE
+1037,3607,existing,1,Solar Photovoltaic,MID_AT
+1038,3616,existing,34.8,Solar Photovoltaic,CA
+1039,3617,existing,36.3,Solar Photovoltaic,CA
+1040,3618,existing,38.7,Solar Photovoltaic,CA
+1041,3619,existing,32.1,Solar Photovoltaic,CA
+1042,3620,existing,32,Solar Photovoltaic,CA
+1043,3621,existing,33.9,Solar Photovoltaic,CA
+1044,3622,existing,33.2,Solar Photovoltaic,CA
+1045,3623,existing,20,Solar Photovoltaic,CA
+1046,3625,existing,1.6,Solar Photovoltaic,MID_AT
+1047,3626,existing,104,Onshore Wind Turbine,N_CEN
+1048,3627,existing,300,Onshore Wind Turbine,TX
+1049,3628,existing,3,Solar Photovoltaic,CA
+1050,3629,existing,3.7,Solar Photovoltaic,CA
+1054,3633,existing,1.5,Solar Photovoltaic,CA
+1055,3634,existing,1.5,Solar Photovoltaic,CA
+1056,3635,existing,76.5,Solar Photovoltaic,SE
+1057,3636,existing,20,Solar Photovoltaic,CA
+1058,3637,existing,15,Solar Photovoltaic,CA
+1059,3638,existing,20,Solar Photovoltaic,CA
+1060,3639,existing,20,Solar Photovoltaic,CA
+1061,3640,existing,15.8,Solar Photovoltaic,CA
+1062,3641,existing,4,Solar Photovoltaic,NE
+1063,3642,existing,4.6,Solar Photovoltaic,NE
+1064,3643,existing,2.2,Solar Photovoltaic,NE
+1065,3644,existing,2,Solar Photovoltaic,NE
+1066,3645,existing,2,Solar Photovoltaic,SE
+1067,3646,existing,5.1,Solar Photovoltaic,SE
+1068,3648,existing,198.6,Onshore Wind Turbine,CEN
+1069,3649,existing,20,Solar Photovoltaic,NW
+1070,3650,existing,60,Solar Photovoltaic,NW
+1071,3651,existing,1.6,Solar Photovoltaic,NE
+1072,3653,existing,4.4,Solar Photovoltaic,NE
+1073,3654,existing,101.2,Solar Photovoltaic,SE
+1074,3655,existing,51,Solar Photovoltaic,SE
+1075,3656,existing,16,Solar Photovoltaic,SW
+1077,3658,existing,74.5,Solar Photovoltaic,SE
+1078,3659,existing,0.5,Solar Photovoltaic,CA
+1079,3660,existing,0.6,Solar Photovoltaic,CA
+1080,3661,existing,2.1,Solar Photovoltaic,CA
+1081,3662,existing,110,Onshore Wind Turbine,TX
+1082,3663,existing,75,Solar Photovoltaic,SE
+1083,3664,existing,2.3,Solar Photovoltaic,NW
+1084,3665,existing,4.8,Solar Photovoltaic,NE
+1085,3666,existing,2,Solar Photovoltaic,SE
+1086,3667,existing,2.2,Solar Photovoltaic,NE
+1088,3669,existing,4.9,Solar Photovoltaic,SE
+1089,3670,existing,1.9,Solar Photovoltaic,SE
+1090,3671,existing,1.9,Solar Photovoltaic,SE
+1091,3672,existing,1.5,Solar Photovoltaic,SE
+1092,3673,existing,85.9,Onshore Wind Turbine,CA
+1093,3674,existing,4.5,Solar Photovoltaic,SE
+1094,3675,existing,1.5,Solar Photovoltaic,N_CEN
+1095,3676,existing,1.5,Solar Photovoltaic,N_CEN
+1096,3677,existing,24.9,Solar Photovoltaic,NE
+1097,3678,existing,202,Solar Photovoltaic,TX
+1099,3681,existing,20,Solar Photovoltaic,CA
+1100,3682,existing,2.1,Solar Photovoltaic,MID_AT
+1101,3683,existing,1.6,Solar Photovoltaic,MID_AT
+1102,3684,existing,7.3,Solar Photovoltaic,CA
+1103,3686,existing,130,Solar Photovoltaic,CA
+1104,3687,existing,1,Solar Photovoltaic,CA
+1105,3689,existing,1.1,Solar Photovoltaic,MID_AT
+1106,3691,existing,20,Solar Photovoltaic,CA
+1107,3692,existing,3,Solar Photovoltaic,CA
+1109,3695,existing,13,Solar Photovoltaic,SW
+1110,3696,existing,2.8,Solar Photovoltaic,NE
+1112,3699,existing,1.9,Solar Photovoltaic,N_CEN
+1113,3700,existing,1,Solar Photovoltaic,N_CEN
+1114,3701,existing,1,Solar Photovoltaic,N_CEN
+1117,3704,existing,3,Onshore Wind Turbine,MID_AT
+1119,3706,existing,74.5,Solar Photovoltaic,SE
+1120,3707,existing,151.8,Onshore Wind Turbine,CEN
+1121,3708,existing,20,Solar Photovoltaic,NW
+1122,3709,existing,20,Solar Photovoltaic,NW
+1123,3710,existing,20,Solar Photovoltaic,NW
+1124,3711,existing,20,Solar Photovoltaic,NW
+1125,3712,existing,52,Solar Photovoltaic,SW
+1126,3713,existing,15,Solar Photovoltaic,CA
+1127,3714,existing,1.6,Solar Photovoltaic,SE
+1128,3715,existing,1.6,Solar Photovoltaic,SE
+1129,3716,existing,1,Solar Photovoltaic,NE
+1130,3717,existing,1,Solar Photovoltaic,NE
+1131,3721,existing,13.5,Solar Photovoltaic,MID_AT
+1132,3722,existing,3,Solar Photovoltaic,SE
+1134,3727,existing,160,Solar Photovoltaic,TX
+1136,3729,existing,74.5,Solar Photovoltaic,SE
+1139,3732,existing,1.1,Solar Photovoltaic,N_CEN
+1140,3733,existing,1.1,Solar Photovoltaic,N_CEN
+1141,3734,existing,1.1,Solar Photovoltaic,N_CEN
+1142,3735,existing,1.1,Solar Photovoltaic,N_CEN
+1143,3736,existing,1.1,Solar Photovoltaic,N_CEN
+1144,3737,existing,1.1,Solar Photovoltaic,N_CEN
+1145,3738,existing,1.1,Solar Photovoltaic,N_CEN
+1146,3739,existing,1.1,Solar Photovoltaic,N_CEN
+1147,3740,existing,1.1,Solar Photovoltaic,N_CEN
+1148,3741,existing,1.1,Solar Photovoltaic,N_CEN
+1149,3742,existing,1.5,Solar Photovoltaic,NE
+1150,3743,existing,19.2,Solar Photovoltaic,CA
+1151,3744,existing,1.5,Solar Photovoltaic,CA
+1152,3745,existing,75,Solar Photovoltaic,CA
+1153,3746,existing,100,Solar Photovoltaic,CA
+1154,3747,existing,150,Onshore Wind Turbine,SW
+1155,3748,existing,250,Onshore Wind Turbine,SW
+1156,3749,existing,4.9,Solar Photovoltaic,SE
+1157,3750,existing,196.7,Onshore Wind Turbine,TX
+1160,3754,existing,208,Onshore Wind Turbine,MID_AT
+1163,3757,existing,12.8,Solar Photovoltaic,SE
+1164,3758,existing,62.1,Onshore Wind Turbine,SW
+1165,3759,existing,40,Solar Photovoltaic,CA
+1166,3760,existing,20,Solar Photovoltaic,CA
+1167,3761,existing,20,Solar Photovoltaic,CA
+1168,3762,existing,20,Solar Photovoltaic,CA
+1171,3765,existing,3,Solar Photovoltaic,SW
+1174,3768,existing,1.8,Solar Photovoltaic,SE
+1175,3769,existing,1.8,Solar Photovoltaic,SE
+1176,3770,existing,3.8,Solar Photovoltaic,SE
+1182,3778,existing,3.5,Solar Photovoltaic,SE
+1184,3780,existing,1.4,Solar Photovoltaic,CA
+1185,3781,existing,12,Solar Photovoltaic,CEN
+1186,3782,existing,80,Solar Photovoltaic,SW
+1187,3783,existing,50.4,Solar Photovoltaic,SW
+1188,3784,existing,80,Solar Photovoltaic,SE
+1189,3785,existing,207.2,Onshore Wind Turbine,TX
+1190,3786,existing,1.5,Solar Photovoltaic,CA
+1191,3787,existing,80,Solar Photovoltaic,SW
+1192,3788,existing,205.3,Solar Photovoltaic,CA
+1193,3789,existing,20,Solar Photovoltaic,CA
+1194,3790,existing,20,Solar Photovoltaic,CA
+1195,3791,existing,60,Solar Photovoltaic,CA
+1196,3792,existing,205.3,Solar Photovoltaic,CA
+1203,3799,existing,5,Solar Photovoltaic,SE
+1204,3800,existing,5,Solar Photovoltaic,SE
+1205,3803,existing,3,Solar Photovoltaic,SW
+1208,3806,existing,5,Solar Photovoltaic,SE
+1209,3807,existing,5,Solar Photovoltaic,SE
+1210,3808,existing,5,Solar Photovoltaic,SE
+1211,3809,existing,4.5,Solar Photovoltaic,NE
+1214,3823,existing,15,Solar Photovoltaic,SW
+1215,3825,existing,5,Solar Photovoltaic,SE
+1216,3826,existing,1,Solar Photovoltaic,CA
+1217,3827,existing,20,Solar Photovoltaic,CA
+1218,3828,existing,5,Solar Photovoltaic,SE
+1223,3833,existing,5,Solar Photovoltaic,SE
+1224,3834,existing,2,Solar Photovoltaic,MID_AT
+1225,3837,existing,2,Solar Photovoltaic,SE
+1228,3841,existing,2.1,Solar Photovoltaic,MID_AT
+1229,3842,existing,1,Solar Photovoltaic,MID_AT
+1230,3845,existing,5,Solar Photovoltaic,SE
+1231,3846,existing,20,Solar Photovoltaic,CA
+1232,3847,existing,5,Solar Photovoltaic,SE
+1233,3848,existing,3,Solar Photovoltaic,MID_AT
+1234,3849,existing,148,Solar Photovoltaic,SE
+1235,3850,existing,103,Solar Photovoltaic,SE
+1236,3851,existing,30,Solar Photovoltaic,SE
+1237,3853,existing,20,Solar Photovoltaic,SE
+1238,3855,existing,178.2,Onshore Wind Turbine,CEN
+1239,3856,existing,15,Solar Photovoltaic,SE
+1241,3866,existing,31,Solar Photovoltaic,SE
+1242,3867,existing,62.3,Solar Photovoltaic,N_CEN
+1243,3868,existing,20,Solar Photovoltaic,SE
+1244,3869,existing,1.3,Solar Photovoltaic,NE
+1245,3870,existing,13,Solar Photovoltaic,CA
+1246,3874,existing,20,Solar Photovoltaic,CA
+1247,3875,existing,1.9,Solar Photovoltaic,SE
+1248,3876,existing,2.5,Solar Photovoltaic,NE
+1249,3877,existing,30,Solar Photovoltaic,SE
+1250,3878,existing,30,Solar Photovoltaic,SE
+1251,3879,existing,30,Solar Photovoltaic,SE
+1252,3880,existing,30,Solar Photovoltaic,SE
+1253,3881,existing,2.6,Solar Photovoltaic,MID_AT
+1255,3883,existing,1,Solar Photovoltaic,NE
+1256,3884,existing,5,Solar Photovoltaic,SE
+1257,3885,existing,5,Solar Photovoltaic,MID_AT
+1258,3886,existing,2.5,Solar Photovoltaic,MID_AT
+1259,3887,existing,5,Solar Photovoltaic,MID_AT
+1260,3888,existing,4.6,Solar Photovoltaic,MID_AT
+1261,3889,existing,100,Solar Photovoltaic,N_CEN
+1262,3890,existing,150,Solar Photovoltaic,MID_AT
+1263,3891,existing,1.2,Solar Photovoltaic,SW
+1264,3892,existing,1.2,Solar Photovoltaic,SW
+1265,3893,existing,2,Solar Photovoltaic,SW
+1289,3917,existing,0.8,Solar Photovoltaic,MID_AT
+1290,3918,existing,1.6,Solar Photovoltaic,MID_AT
+1291,3919,existing,1,Solar Photovoltaic,SE
+1292,3920,existing,3.2,Solar Photovoltaic,MID_AT
+1293,3921,existing,1,Solar Photovoltaic,MID_AT
+1294,3922,existing,155,Solar Photovoltaic,CA
+1295,3923,existing,1.9,Solar Photovoltaic,NE
+1296,3924,existing,50,Onshore Wind Turbine,CEN
+1297,3925,existing,150,Onshore Wind Turbine,CEN
+1300,3928,existing,1.9,Solar Photovoltaic,SE
+1301,3929,existing,1,Solar Photovoltaic,N_CEN
+1302,3930,existing,5,Solar Photovoltaic,SE
+1303,3931,existing,5,Solar Photovoltaic,SE
+1304,3932,existing,4.9,Solar Photovoltaic,SE
+1305,3934,existing,5,Solar Photovoltaic,SE
+1306,3935,existing,79,Solar Photovoltaic,SW
+1307,3937,existing,5,Solar Photovoltaic,SE
+1308,3938,existing,5,Solar Photovoltaic,SE
+1309,3939,existing,2.5,Solar Photovoltaic,N_CEN
+1310,3940,existing,2,Solar Photovoltaic,NE
+1311,3941,existing,3,Solar Photovoltaic,NE
+1312,3942,existing,3,Solar Photovoltaic,NE
+1313,3943,existing,10,Solar Photovoltaic,SW
+1314,3944,existing,4.4,Solar Photovoltaic,SW
+1315,3945,existing,5.2,Solar Photovoltaic,SE
+1317,3947,existing,1.7,Onshore Wind Turbine,SW
+1320,3950,existing,41.8,Solar Photovoltaic,SW
+1321,3951,existing,51.8,Solar Photovoltaic,SW
+1325,3955,existing,10.3,Solar Photovoltaic,MID_AT
+1332,3962,existing,1.5,Solar Photovoltaic,SW
+1339,3971,existing,1.3,Solar Photovoltaic,CA
+1340,3972,existing,1.5,Onshore Wind Turbine,MID_AT
+1341,3973,existing,5,Solar Photovoltaic,MID_AT
+1349,3985,existing,1.2,Solar Photovoltaic,NW
+1350,3986,existing,1.4,Solar Photovoltaic,NE
+1351,3987,existing,1,Solar Photovoltaic,NE
+1352,3988,existing,3,Solar Photovoltaic,SW
+1353,3989,existing,3,Solar Photovoltaic,SW
+1362,4001,existing,5,Solar Photovoltaic,NE
+1363,4002,existing,4.3,Solar Photovoltaic,NE
+1364,4003,existing,12.6,Solar Photovoltaic,SW
+1365,4004,existing,47.7,Solar Photovoltaic,SE
+1366,4005,existing,2.6,Solar Photovoltaic,NE
+1367,4007,existing,3,Solar Photovoltaic,NE
+1378,4018,existing,1,Solar Photovoltaic,N_CEN
+1379,4019,existing,2,Solar Photovoltaic,MID_AT
+1380,4020,existing,1.6,Solar Photovoltaic,SE
+1381,4021,existing,1.5,Solar Photovoltaic,NE
+1382,4022,existing,4.8,Solar Photovoltaic,NE
+1383,4023,existing,1.5,Solar Photovoltaic,NE
+1384,4024,existing,2,Solar Photovoltaic,NE
+1391,4031,existing,5,Solar Photovoltaic,SE
+1392,4032,existing,5,Solar Photovoltaic,SE
+1393,4033,existing,5,Solar Photovoltaic,SE
+1397,4040,existing,2.2,Solar Photovoltaic,NE
+1398,4041,existing,3.5,Solar Photovoltaic,SE
+1399,4042,existing,1.3,Solar Photovoltaic,NE
+1400,4043,existing,1.2,Solar Photovoltaic,MID_AT
+1401,4044,existing,2.9,Solar Photovoltaic,NE
+1402,4045,existing,2.2,Solar Photovoltaic,MID_AT
+1403,4046,existing,1.2,Solar Photovoltaic,CA
+1404,4047,existing,14.4,Solar Photovoltaic,SW
+1405,4048,existing,2,Solar Photovoltaic,CA
+1406,4049,existing,3.5,Solar Photovoltaic,NE
+1407,4050,existing,2.7,Solar Photovoltaic,SE
+1408,4051,existing,1.5,Solar Photovoltaic,MID_AT
+1409,4052,existing,1.5,Solar Photovoltaic,SW
+1410,4053,existing,1.9,Solar Photovoltaic,NE
+1411,4054,existing,20,Solar Photovoltaic,CA
+1412,4055,existing,5,Solar Photovoltaic,CA
+1413,4056,existing,5,Solar Photovoltaic,CA
+1414,4057,existing,9,Solar Photovoltaic,CA
+1415,4058,existing,1.9,Onshore Wind Turbine,CEN
+1416,4059,existing,2.5,Onshore Wind Turbine,N_CEN
+1417,4060,existing,150,Onshore Wind Turbine,TX
+1418,4061,existing,150,Onshore Wind Turbine,TX
+1419,4062,existing,150,Onshore Wind Turbine,TX
+1420,4063,existing,3,Solar Photovoltaic,NE
+1421,4064,existing,2,Solar Photovoltaic,CA
+1422,4065,existing,2.8,Solar Photovoltaic,CEN
+1428,4071,existing,3,Onshore Wind Turbine,NE
+1429,4072,existing,1.5,Onshore Wind Turbine,NE
+1430,4073,existing,30,Solar Photovoltaic,CA
+1431,4074,existing,20,Solar Photovoltaic,CA
+1432,4082,existing,2,Solar Photovoltaic,NE
+1443,4093,existing,0.3,Solar Photovoltaic,NE
+1444,4094,existing,0.7,Solar Photovoltaic,NE
+1445,4095,existing,1.2,Solar Photovoltaic,MID_AT
+1446,4096,existing,1,Solar Photovoltaic,CEN
+1447,4097,existing,4,Solar Photovoltaic,CEN
+1448,4098,existing,95.3,Onshore Wind Turbine,TX
+1453,4103,existing,0.9,Solar Photovoltaic,N_CEN
+1454,4104,existing,2.3,Solar Photovoltaic,N_CEN
+1455,4105,existing,5,Solar Photovoltaic,SE
+1456,4106,existing,5,Solar Photovoltaic,SE
+1457,4107,existing,2,Solar Photovoltaic,NE
+1459,4109,existing,1,Solar Photovoltaic,CA
+1460,4110,existing,50,Solar Photovoltaic,SW
+1461,4117,existing,20,Solar Photovoltaic,NW
+1462,4118,existing,5,Solar Photovoltaic,SE
+1463,4121,existing,50,Solar Photovoltaic,SE
+1464,4122,existing,40,Solar Photovoltaic,SE
+1465,4123,existing,30,Solar Photovoltaic,SE
+1490,4148,existing,1.5,Solar Photovoltaic,CA
+1495,4153,existing,20,Solar Photovoltaic,MID_AT
+1496,4154,existing,150,Onshore Wind Turbine,CEN
+1497,4155,existing,2.2,Solar Photovoltaic,MID_AT
+1498,4156,existing,1.5,Solar Photovoltaic,NE
+1499,4158,existing,4.9,Solar Photovoltaic,SE
+1500,4160,existing,4.9,Solar Photovoltaic,SE
+1501,4161,existing,78.5,Solar Photovoltaic,SE
+1502,4162,existing,1.9,Solar Photovoltaic,SE
+1503,4164,existing,4.9,Solar Photovoltaic,SE
+1504,4165,existing,33.8,Solar Photovoltaic,SE
+1505,4166,existing,100,Solar Photovoltaic,SE
+1508,4169,existing,5,Solar Photovoltaic,SE
+1514,4179,existing,20,Solar Photovoltaic,CA
+1515,4180,existing,120,Solar Photovoltaic,SW
+1516,4181,existing,97.8,Onshore Wind Turbine,CEN
+1517,4182,existing,78,Onshore Wind Turbine,TX
+1518,4183,existing,1.9,Solar Photovoltaic,SW
+1519,4184,existing,1.2,Solar Photovoltaic,CA
+1520,4185,existing,1.6,Solar Photovoltaic,CA
+1526,4191,existing,5,Solar Photovoltaic,SE
+1530,4195,existing,4.8,Solar Photovoltaic,SE
+1531,4196,existing,5,Solar Photovoltaic,SE
+1532,4197,existing,5,Solar Photovoltaic,MID_AT
+1533,4198,existing,5,Solar Photovoltaic,MID_AT
+1534,4199,existing,5,Solar Photovoltaic,MID_AT
+1535,4201,existing,20,Solar Photovoltaic,CA
+1536,4202,existing,48.3,Onshore Wind Turbine,N_CEN
+1537,4203,existing,58,Onshore Wind Turbine,N_CEN
+1538,4204,existing,43.3,Onshore Wind Turbine,N_CEN
+1539,4205,existing,4.7,Onshore Wind Turbine,N_CEN
+1540,4206,existing,4.4,Solar Photovoltaic,NE
+1543,4209,existing,45,Solar Photovoltaic,SW
+1544,4210,existing,20,Solar Photovoltaic,CA
+1545,4211,existing,1,Solar Photovoltaic,CEN
+1546,4212,existing,8,Solar Photovoltaic,MID_AT
+1547,4213,existing,5.2,Solar Photovoltaic,MID_AT
+1548,4214,existing,77.7,Onshore Wind Turbine,NE
+1549,4215,existing,5,Solar Photovoltaic,MID_AT
+1550,4216,existing,3,Solar Photovoltaic,MID_AT
+1551,4217,existing,1.6,Solar Photovoltaic,NE
+1552,4218,existing,2,Solar Photovoltaic,NE
+1553,4219,existing,1.5,Solar Photovoltaic,NE
+1554,4220,existing,2,Solar Photovoltaic,NE
+1555,4221,existing,8,Onshore Wind Turbine,NE
+1556,4222,existing,299.7,Onshore Wind Turbine,TX
+1557,4223,existing,2.9,Solar Photovoltaic,SW
+1558,4224,existing,7.6,Solar Photovoltaic,SW
+1559,4225,existing,9.1,Solar Photovoltaic,SW
+1570,4246,existing,6,Solar Photovoltaic,SE
+1571,4247,existing,20,Solar Photovoltaic,CA
+1572,4248,existing,20,Solar Photovoltaic,CA
+1573,4249,existing,3.5,Solar Photovoltaic,SE
+1574,4250,existing,5,Solar Photovoltaic,SE
+1575,4251,existing,5,Solar Photovoltaic,SE
+1576,4252,existing,5,Solar Photovoltaic,SE
+1577,4253,existing,10,Solar Photovoltaic,MID_AT
+1578,4254,existing,20,Solar Photovoltaic,CA
+1579,4255,existing,14,Solar Photovoltaic,CA
+1580,4256,existing,1,Solar Photovoltaic,CA
+1581,4257,existing,2.5,Solar Photovoltaic,CA
+1582,4259,existing,5,Solar Photovoltaic,SE
+1583,4260,existing,5,Solar Photovoltaic,SE
+1584,4261,existing,5,Solar Photovoltaic,SE
+1585,4262,existing,5,Solar Photovoltaic,MID_AT
+1586,4263,existing,61,Solar Photovoltaic,SE
+1587,4264,existing,3,Solar Photovoltaic,SE
+1588,4265,existing,5,Solar Photovoltaic,SE
+1589,4266,existing,5,Solar Photovoltaic,SE
+1590,4267,existing,5,Solar Photovoltaic,SE
+1591,4268,existing,5,Solar Photovoltaic,SE
+1592,4269,existing,2,Solar Photovoltaic,SE
+1593,4270,existing,5,Solar Photovoltaic,SE
+1594,4271,existing,5,Solar Photovoltaic,SE
+1595,4273,existing,5,Solar Photovoltaic,SE
+1597,4275,existing,1.1,Solar Photovoltaic,NE
+1598,4278,existing,15.4,Solar Photovoltaic,SE
+1599,4280,existing,5,Solar Photovoltaic,SE
+1600,4281,existing,4,Solar Photovoltaic,SE
+1601,4282,existing,5,Solar Photovoltaic,SE
+1602,4283,existing,5,Solar Photovoltaic,SE
+1603,4284,existing,5,Solar Photovoltaic,SE
+1604,4285,existing,5,Solar Photovoltaic,SE
+1605,4286,existing,5,Solar Photovoltaic,SE
+1606,4287,existing,1,Solar Photovoltaic,SW
+1609,4290,existing,6.1,Solar Photovoltaic,SW
+1611,4292,existing,6.5,Solar Photovoltaic,SE
+1612,4293,existing,20,Solar Photovoltaic,CA
+1613,4294,existing,2,Solar Photovoltaic,SE
+1614,4295,existing,2,Solar Photovoltaic,SE
+1615,4296,existing,2,Solar Photovoltaic,SE
+1616,4297,existing,4.3,Solar Photovoltaic,SE
+1617,4298,existing,2,Solar Photovoltaic,CA
+1618,4299,existing,5,Solar Photovoltaic,MID_AT
+1619,4300,existing,14,Solar Photovoltaic,MID_AT
+1620,4301,existing,150,Onshore Wind Turbine,MID_AT
+1621,4302,existing,1.3,Solar Photovoltaic,MID_AT
+1622,4303,existing,1.5,Solar Photovoltaic,MID_AT
+1623,4304,existing,1.3,Solar Photovoltaic,MID_AT
+1624,4305,existing,1.6,Solar Photovoltaic,NE
+1625,4306,existing,3.6,Solar Photovoltaic,SE
+1626,4307,existing,1.5,Solar Photovoltaic,CA
+1627,4308,existing,1.8,Solar Photovoltaic,CA
+1628,4309,existing,1.5,Solar Photovoltaic,CA
+1629,4310,existing,1.5,Solar Photovoltaic,CA
+1630,4311,existing,1.5,Solar Photovoltaic,CA
+1631,4312,existing,20,Solar Photovoltaic,SE
+1632,4313,existing,5,Solar Photovoltaic,SE
+1633,4314,existing,5,Solar Photovoltaic,SE
+1634,4315,existing,105,Solar Photovoltaic,CA
+1635,4317,existing,20,Solar Photovoltaic,MID_AT
+1638,4320,existing,20,Solar Photovoltaic,CA
+1639,4321,existing,20,Solar Photovoltaic,MID_AT
+1640,4322,existing,12,Solar Photovoltaic,SE
+1642,4325,existing,60,Solar Photovoltaic,CA
+1643,4326,existing,20,Solar Photovoltaic,CA
+1644,4327,existing,5,Solar Photovoltaic,SE
+1645,4329,existing,3.5,Solar Photovoltaic,SE
+1646,4331,existing,5,Solar Photovoltaic,MID_AT
+1647,4332,existing,16,Solar Photovoltaic,MID_AT
+1648,4333,existing,5,Solar Photovoltaic,MID_AT
+1649,4335,existing,20,Solar Photovoltaic,MID_AT
+1650,4336,existing,4,Solar Photovoltaic,SE
+1651,4337,existing,4,Solar Photovoltaic,SE
+1652,4338,existing,5,Solar Photovoltaic,SE
+1653,4339,existing,4,Solar Photovoltaic,SE
+1654,4340,existing,5,Solar Photovoltaic,SE
+1655,4341,existing,3,Solar Photovoltaic,SE
+1656,4342,existing,4,Solar Photovoltaic,SE
+1657,4343,existing,5,Solar Photovoltaic,SE
+1658,4344,existing,5,Solar Photovoltaic,SE
+1659,4345,existing,5,Solar Photovoltaic,SE
+1660,4346,existing,5,Solar Photovoltaic,SE
+1661,4347,existing,5,Solar Photovoltaic,SE
+1662,4348,existing,5,Solar Photovoltaic,SE
+1663,4349,existing,5,Solar Photovoltaic,SE
+1664,4350,existing,10,Solar Photovoltaic,SE
+1665,4351,existing,5,Solar Photovoltaic,SE
+1667,4353,existing,4,Solar Photovoltaic,NE
+1668,4354,existing,10,Onshore Wind Turbine,NW
+1669,4355,existing,10,Onshore Wind Turbine,NW
+1670,4356,existing,10,Onshore Wind Turbine,NW
+1671,4357,existing,10,Onshore Wind Turbine,NW
+1672,4358,existing,10,Onshore Wind Turbine,NW
+1673,4359,existing,1.7,Solar Photovoltaic,MID_AT
+1674,4360,existing,4.9,Solar Photovoltaic,SE
+1675,4361,existing,4.9,Solar Photovoltaic,SE
+1676,4362,existing,4.9,Solar Photovoltaic,SE
+1677,4363,existing,2.2,Solar Photovoltaic,NE
+1678,4364,existing,3,Solar Photovoltaic,NE
+1679,4365,existing,3,Solar Photovoltaic,N_CEN
+1680,4366,existing,1,Solar Photovoltaic,N_CEN
+1681,4367,existing,3,Solar Photovoltaic,N_CEN
+1682,4368,existing,1,Solar Photovoltaic,N_CEN
+1683,4369,existing,1,Solar Photovoltaic,MID_AT
+1684,4370,existing,1,Solar Photovoltaic,MID_AT
+1685,4371,existing,2.2,Solar Photovoltaic,NE
+1686,4372,existing,2,Solar Photovoltaic,NE
+1687,4373,existing,249.9,Onshore Wind Turbine,CEN
+1688,4374,existing,17.5,Solar Photovoltaic,SE
+1689,4375,existing,14.4,Solar Photovoltaic,CA
+1690,4376,existing,19.9,Solar Photovoltaic,SW
+1691,4383,existing,1.8,Solar Photovoltaic,NE
+1692,4384,existing,20,Solar Photovoltaic,CA
+1693,4385,existing,2.5,Solar Photovoltaic,NE
+1697,4389,existing,1.9,Solar Photovoltaic,NE
+1698,4390,existing,1.5,Solar Photovoltaic,NE
+1699,4391,existing,3,Solar Photovoltaic,NE
+1700,4392,existing,2,Solar Photovoltaic,NE
+1701,4393,existing,1.5,Solar Photovoltaic,SW
+1709,4401,existing,299,Onshore Wind Turbine,CEN
+1710,4402,existing,1,Solar Photovoltaic,SE
+1711,4407,existing,5,Solar Photovoltaic,SW
+1712,4408,existing,10,Solar Photovoltaic,SW
+1713,4412,existing,2.5,Solar Photovoltaic,SE
+1714,4413,existing,80,Solar Photovoltaic,SE
+1715,4414,existing,20,Solar Photovoltaic,SE
+1717,4420,existing,5,Solar Photovoltaic,MID_AT
+1718,4421,existing,2,Solar Photovoltaic,NE
+1719,4422,existing,10,Solar Photovoltaic,SW
+1720,4423,existing,20,Solar Photovoltaic,CA
+1721,4424,existing,200.1,Onshore Wind Turbine,TX
+1722,4425,existing,20,Solar Photovoltaic,CA
+1723,4426,existing,7,Solar Photovoltaic,CA
+1739,4442,existing,19.5,Onshore Wind Turbine,CEN
+1740,4443,existing,3.4,Solar Photovoltaic,N_CEN
+1741,4444,existing,2.7,Solar Photovoltaic,N_CEN
+1742,4445,existing,2.7,Solar Photovoltaic,N_CEN
+1743,4446,existing,20,Solar Photovoltaic,CA
+1744,4447,existing,5,Solar Photovoltaic,SW
+1745,4448,existing,5,Solar Photovoltaic,MID_AT
+1748,4451,existing,5,Solar Photovoltaic,MID_AT
+1749,4452,existing,5,Solar Photovoltaic,MID_AT
+1753,4456,existing,7.5,Solar Photovoltaic,N_CEN
+1754,4457,existing,1.5,Solar Photovoltaic,CA
+1755,4458,existing,1.5,Solar Photovoltaic,CA
+1756,4459,existing,1.5,Solar Photovoltaic,CA
+1757,4468,existing,20,Onshore Wind Turbine,TX
+1758,4469,existing,2.1,Solar Photovoltaic,CA
+1763,4474,existing,20,Solar Photovoltaic,CA
+1764,4475,existing,19.8,Solar Photovoltaic,CA
+1765,4476,existing,20,Solar Photovoltaic,CA
+1766,4477,existing,1.5,Solar Photovoltaic,CA
+1767,4478,existing,1.5,Solar Photovoltaic,CA
+1768,4479,existing,1,Solar Photovoltaic,CA
+1769,4480,existing,20,Solar Photovoltaic,CA
+1770,4481,existing,10.5,Solar Photovoltaic,SW
+1771,4482,existing,2,Solar Photovoltaic,SE
+1772,4483,existing,1.3,Solar Photovoltaic,CA
+1773,4484,existing,17.5,Solar Photovoltaic,SW
+1774,4485,existing,5,Solar Photovoltaic,NE
+1775,4490,existing,1.5,Solar Photovoltaic,NE
+1776,4491,existing,2,Solar Photovoltaic,SW
+1790,4505,existing,4.8,Solar Photovoltaic,NE
+1791,4506,existing,80,Solar Photovoltaic,SW
+1792,4507,existing,80,Solar Photovoltaic,SW
+1793,4508,existing,80,Solar Photovoltaic,SW
+1794,4509,existing,80,Solar Photovoltaic,SW
+1795,4510,existing,200,Onshore Wind Turbine,TX
+1797,4514,existing,19.5,Solar Photovoltaic,CA
+1799,4516,existing,1.5,Solar Photovoltaic,SE
+1800,4517,existing,2,Solar Photovoltaic,SE
+1801,4518,existing,2,Solar Photovoltaic,SE
+1802,4519,existing,5,Solar Photovoltaic,NW
+1803,4524,existing,1.9,Solar Photovoltaic,MID_AT
+1804,4525,existing,1.8,Solar Photovoltaic,MID_AT
+1805,4526,existing,1,Solar Photovoltaic,MID_AT
+1806,4527,existing,2.2,Solar Photovoltaic,NE
+1807,4528,existing,1.1,Solar Photovoltaic,MID_AT
+1808,4529,existing,8.5,Solar Photovoltaic,MID_AT
+1809,4530,existing,4.9,Solar Photovoltaic,MID_AT
+1810,4531,existing,1.3,Solar Photovoltaic,MID_AT
+1811,4532,existing,1.4,Solar Photovoltaic,NE
+1812,4533,existing,1.4,Solar Photovoltaic,NE
+1813,4534,existing,1.4,Solar Photovoltaic,NE
+1814,4535,existing,1,Solar Photovoltaic,CA
+1815,4536,existing,1.5,Solar Photovoltaic,CA
+1816,4537,existing,3,Solar Photovoltaic,NE
+1819,4540,existing,108,Solar Photovoltaic,CA
+1823,4544,existing,5,Solar Photovoltaic,SE
+1825,4547,existing,18,Solar Photovoltaic,CA
+1826,4548,existing,2,Solar Photovoltaic,SE
+1827,4549,existing,211.2,Onshore Wind Turbine,TX
+1828,4550,existing,1.6,Onshore Wind Turbine,CA
+1829,4551,existing,1,Onshore Wind Turbine,CA
+1830,4552,existing,1,Onshore Wind Turbine,CA
+1831,4553,existing,1,Onshore Wind Turbine,CA
+1832,4554,existing,1,Solar Photovoltaic,MID_AT
+1837,4559,existing,1,Solar Photovoltaic,MID_AT
+1838,4560,existing,1.5,Solar Photovoltaic,CA
+1839,4561,existing,20,Solar Photovoltaic,CA
+1840,4562,existing,200,Onshore Wind Turbine,TX
+1841,4563,existing,200,Onshore Wind Turbine,TX
+1842,4564,existing,8,Solar Photovoltaic,MID_AT
+1843,4565,existing,5,Solar Photovoltaic,MID_AT
+1844,4566,existing,50,Solar Photovoltaic,CA
+1845,4567,existing,56,Solar Photovoltaic,CA
+1846,4568,existing,56,Solar Photovoltaic,CA
+1847,4569,existing,1.5,Onshore Wind Turbine,NE
+1848,4570,existing,1.5,Onshore Wind Turbine,NE
+1849,4571,existing,1.5,Onshore Wind Turbine,NE
+1850,4572,existing,1.5,Onshore Wind Turbine,NE
+1851,4573,existing,98.6,Onshore Wind Turbine,CEN
+1852,4574,existing,199,Onshore Wind Turbine,CEN
+1855,4577,existing,47.3,Solar Photovoltaic,CA
+1856,4578,existing,37.8,Solar Photovoltaic,CA
+1857,4579,existing,1.5,Onshore Wind Turbine,NE
+1858,4580,existing,1.5,Onshore Wind Turbine,NE
+1859,4581,existing,1.5,Onshore Wind Turbine,NE
+1860,4582,existing,1.5,Onshore Wind Turbine,NE
+1861,4583,existing,1.5,Onshore Wind Turbine,NE
+1862,4584,existing,1.5,Onshore Wind Turbine,NE
+1863,4585,existing,1.5,Solar Photovoltaic,CA
+1864,4586,existing,1.5,Solar Photovoltaic,CA
+1867,4591,existing,1.5,Solar Photovoltaic,MID_AT
+1869,4593,existing,105,Onshore Wind Turbine,MID_AT
+1870,4594,existing,1.5,Onshore Wind Turbine,NE
+1871,4596,existing,199,Onshore Wind Turbine,CEN
+1872,4597,existing,1,Solar Photovoltaic,CA
+1877,4603,existing,1,Solar Photovoltaic,MID_AT
+1878,4604,existing,1.3,Solar Photovoltaic,MID_AT
+1879,4605,existing,9.5,Solar Photovoltaic,NE
+1880,4606,existing,1.3,Solar Photovoltaic,NE
+1881,4607,existing,5,Solar Photovoltaic,NE
+1882,4608,existing,10,Solar Photovoltaic,CA
+1883,4609,existing,1.5,Solar Photovoltaic,CA
+1884,4610,existing,1.5,Solar Photovoltaic,CA
+1885,4611,existing,1.5,Solar Photovoltaic,CA
+1886,4612,existing,1.5,Solar Photovoltaic,CA
+1887,4613,existing,1.5,Solar Photovoltaic,CA
+1888,4614,existing,1.5,Solar Photovoltaic,CA
+1889,4615,existing,1.5,Solar Photovoltaic,CA
+1890,4618,existing,5,Solar Photovoltaic,CA
+1906,4634,existing,15,Solar Photovoltaic,CA
+1907,4636,existing,25,Solar Photovoltaic,SW
+1908,4637,existing,20,Solar Photovoltaic,CA
+1909,4638,existing,20,Solar Photovoltaic,CA
+1910,4639,existing,1.5,Solar Photovoltaic,MID_AT
+1912,4643,existing,155.4,Onshore Wind Turbine,TX
+1914,4646,existing,2,Solar Photovoltaic,NE
+1915,4647,existing,3,Solar Photovoltaic,NE
+1918,4650,existing,1,Solar Photovoltaic,SW
+1919,4651,existing,67.6,Onshore Wind Turbine,TX
+1920,4652,existing,20,Solar Photovoltaic,CA
+1921,4653,existing,99,Onshore Wind Turbine,CA
+1922,4654,existing,19.8,Onshore Wind Turbine,CA
+1923,4655,existing,100,Onshore Wind Turbine,CEN
+1924,4657,existing,3,Onshore Wind Turbine,N_CEN
+1925,4658,existing,3,Onshore Wind Turbine,N_CEN
+1926,4659,existing,3,Onshore Wind Turbine,N_CEN
+1927,4660,existing,3,Onshore Wind Turbine,N_CEN
+1928,4661,existing,3,Onshore Wind Turbine,N_CEN
+1929,4662,existing,3,Onshore Wind Turbine,N_CEN
+1930,4663,existing,3,Onshore Wind Turbine,N_CEN
+1931,4664,existing,3,Onshore Wind Turbine,N_CEN
+1932,4665,existing,3,Onshore Wind Turbine,N_CEN
+1933,4666,existing,39.9,Onshore Wind Turbine,NE
+1941,4674,existing,1.5,Solar Photovoltaic,CA
+1942,4675,existing,1.5,Solar Photovoltaic,CA
+1943,4676,existing,5,Solar Photovoltaic,SE
+1944,4678,existing,5,Solar Photovoltaic,SE
+1945,4679,existing,100,Solar Photovoltaic,TX
+1946,4680,existing,105,Solar Photovoltaic,TX
+1947,4681,existing,100,Solar Photovoltaic,TX
+1948,4682,existing,5.5,Solar Photovoltaic,TX
+1949,4683,existing,1.5,Solar Photovoltaic,CA
+1950,4684,existing,1.5,Solar Photovoltaic,CA
+1951,4685,existing,1.5,Solar Photovoltaic,CA
+1952,4686,existing,200,Onshore Wind Turbine,N_CEN
+1953,4687,existing,150,Onshore Wind Turbine,N_CEN
+1954,4688,existing,1.6,Solar Photovoltaic,SW
+1955,4689,existing,1.6,Solar Photovoltaic,SW
+1960,4694,existing,236,Onshore Wind Turbine,TX
+1961,4695,existing,5,Solar Photovoltaic,SE
+1962,4696,existing,5,Solar Photovoltaic,SE
+1963,4697,existing,2,Solar Photovoltaic,SE
+1964,4698,existing,2,Solar Photovoltaic,SE
+1965,4699,existing,15.8,Solar Photovoltaic,SE
+1966,4700,existing,80,Onshore Wind Turbine,CEN
+1967,4701,existing,7,Solar Photovoltaic,MID_AT
+1968,4702,existing,5,Solar Photovoltaic,MID_AT
+1969,4703,existing,15.8,Solar Photovoltaic,SE
+1970,4704,existing,20,Solar Photovoltaic,CA
+1971,4705,existing,1.5,Solar Photovoltaic,CA
+1973,4707,existing,1.5,Solar Photovoltaic,N_CEN
+1974,4708,existing,4,Solar Photovoltaic,NE
+1975,4709,existing,3,Solar Photovoltaic,NE
+1976,4710,existing,5,Solar Photovoltaic,MID_AT
+1977,4711,existing,5,Solar Photovoltaic,MID_AT
+1978,4712,existing,5,Solar Photovoltaic,MID_AT
+1979,4713,existing,5,Solar Photovoltaic,MID_AT
+1980,4714,existing,5,Solar Photovoltaic,SE
+1981,4715,existing,3.8,Solar Photovoltaic,N_CEN
+1982,4716,existing,5,Solar Photovoltaic,MID_AT
+1983,4717,existing,5,Solar Photovoltaic,MID_AT
+1984,4718,existing,1.5,Solar Photovoltaic,CA
+1985,4719,existing,29,Solar Photovoltaic,SW
+1986,4720,existing,1.5,Solar Photovoltaic,CA
+1987,4723,existing,40,Solar Photovoltaic,SE
+1988,4724,existing,5,Solar Photovoltaic,SE
+1989,4725,existing,5,Solar Photovoltaic,SE
+1990,4729,existing,5,Solar Photovoltaic,SE
+1991,4730,existing,5,Solar Photovoltaic,SE
+1992,4731,existing,5,Solar Photovoltaic,SE
+1993,4732,existing,20,Solar Photovoltaic,MID_AT
+1994,4733,existing,5,Solar Photovoltaic,MID_AT
+1995,4734,existing,20,Solar Photovoltaic,SE
+1996,4735,existing,5,Solar Photovoltaic,SE
+1999,4738,existing,100,Solar Photovoltaic,CA
+2000,4739,existing,5,Solar Photovoltaic,MID_AT
+2001,4740,existing,5,Solar Photovoltaic,MID_AT
+2002,4741,existing,30,Onshore Wind Turbine,MID_AT
+2003,4742,existing,3,Solar Photovoltaic,SE
+2004,4744,existing,1.8,Solar Photovoltaic,SW
+2008,4748,existing,4.5,Solar Photovoltaic,NE
+2009,4749,existing,1.1,Solar Photovoltaic,CA
+2010,4750,existing,1.1,Solar Photovoltaic,CA
+2011,4751,existing,5.6,Solar Photovoltaic,NE
+2012,4752,existing,1.3,Solar Photovoltaic,NE
+2013,4753,existing,2.6,Solar Photovoltaic,NE
+2014,4754,existing,1.9,Solar Photovoltaic,NE
+2015,4755,existing,1.1,Solar Photovoltaic,CA
+2016,4756,existing,1.1,Solar Photovoltaic,CA
+2017,4757,existing,1.3,Solar Photovoltaic,NE
+2018,4758,existing,1.3,Solar Photovoltaic,CA
+2019,4759,existing,1.1,Solar Photovoltaic,CA
+2020,4760,existing,3.2,Solar Photovoltaic,NE
+2021,4761,existing,5,Solar Photovoltaic,SE
+2022,4762,existing,5,Solar Photovoltaic,SE
+2023,4763,existing,2,Solar Photovoltaic,SE
+2024,4764,existing,3,Solar Photovoltaic,SE
+2025,4765,existing,3,Solar Photovoltaic,SE
+2026,4766,existing,1.5,Solar Photovoltaic,CA
+2027,4767,existing,1.9,Solar Photovoltaic,NE
+2028,4768,existing,2,Solar Photovoltaic,SE
+2029,4769,existing,2,Solar Photovoltaic,SE
+2030,4770,existing,165,Onshore Wind Turbine,TX
+2031,4771,existing,23.1,Solar Photovoltaic,SE
+2033,4773,existing,1.9,Solar Photovoltaic,SE
+2034,4774,existing,2,Solar Photovoltaic,SE
+2035,4775,existing,5,Solar Photovoltaic,SE
+2036,4776,existing,5,Solar Photovoltaic,SE
+2037,4777,existing,5,Solar Photovoltaic,SE
+2038,4778,existing,4.9,Solar Photovoltaic,CEN
+2039,4779,existing,5,Solar Photovoltaic,SE
+2040,4780,existing,5,Solar Photovoltaic,SE
+2041,4781,existing,2,Solar Photovoltaic,SE
+2042,4782,existing,4.9,Solar Photovoltaic,SE
+2043,4783,existing,5,Solar Photovoltaic,SE
+2044,4784,existing,5,Solar Photovoltaic,SE
+2045,4785,existing,4.9,Solar Photovoltaic,SE
+2046,4786,existing,1,Solar Photovoltaic,CA
+2047,4787,existing,1,Solar Photovoltaic,CA
+2048,4788,existing,10.1,Solar Photovoltaic,MID_AT
+2049,4789,existing,1,Solar Photovoltaic,CA
+2050,4790,existing,1,Solar Photovoltaic,CA
+2051,4791,existing,1.5,Solar Photovoltaic,CA
+2055,4796,existing,2,Solar Photovoltaic,NE
+2056,4797,existing,20,Solar Photovoltaic,CA
+2057,4798,existing,12,Solar Photovoltaic,CA
+2058,4799,existing,12,Solar Photovoltaic,CA
+2059,4800,existing,4.5,Solar Photovoltaic,NE
+2060,4801,existing,73.8,Onshore Wind Turbine,CEN
+2061,4802,existing,200.6,Onshore Wind Turbine,SW
+2062,4803,existing,5,Solar Photovoltaic,NE
+2063,4804,existing,4,Solar Photovoltaic,NE
+2064,4805,existing,1,Solar Photovoltaic,NE
+2065,4806,existing,1,Solar Photovoltaic,NE
+2066,4807,existing,4,Solar Photovoltaic,NE
+2067,4808,existing,1.5,Solar Photovoltaic,NE
+2068,4809,existing,10,Onshore Wind Turbine,NW
+2069,4810,existing,1,Solar Photovoltaic,NE
+2112,4865,existing,20.7,Onshore Wind Turbine,N_CEN
+2113,4866,existing,14.3,Onshore Wind Turbine,NE
+2114,4868,existing,200,Onshore Wind Turbine,TX
+2115,4870,existing,228,Onshore Wind Turbine,TX
+2116,4871,existing,108,Onshore Wind Turbine,CEN
+2117,4875,existing,278,Onshore Wind Turbine,N_CEN
+2118,4876,existing,1.5,Solar Photovoltaic,NE
+2119,4877,existing,2,Solar Photovoltaic,MID_AT
+2120,4878,existing,1,Solar Photovoltaic,CA
+2121,4879,existing,2.7,Solar Photovoltaic,MID_AT
+2123,4881,existing,2.4,Solar Photovoltaic,MID_AT
+2125,4883,existing,3,Onshore Wind Turbine,N_CEN
+2126,4884,existing,4,Solar Photovoltaic,SE
+2127,4885,existing,2,Solar Photovoltaic,SE
+2128,4886,existing,2,Solar Photovoltaic,SE
+2129,4887,existing,2.2,Solar Photovoltaic,NE
+2131,4891,existing,2.5,Solar Photovoltaic,NE
+2135,4895,existing,6,Solar Photovoltaic,SW
+2136,4896,existing,2,Solar Photovoltaic,NE
+2137,4897,existing,2,Solar Photovoltaic,SE
+2150,4910,existing,2,Solar Photovoltaic,SE
+2151,4911,existing,3.5,Solar Photovoltaic,SE
+2152,4917,existing,204,Onshore Wind Turbine,TX
+2153,4918,existing,1.5,Solar Photovoltaic,NE
+2154,4919,existing,2.5,Solar Photovoltaic,NE
+2155,4920,existing,1.5,Solar Photovoltaic,NE
+2156,4921,existing,3,Solar Photovoltaic,NE
+2157,4922,existing,2,Solar Photovoltaic,NE
+2158,4923,existing,1.5,Solar Photovoltaic,NE
+2159,4925,existing,0.8,Solar Photovoltaic,MID_AT
+2162,4928,existing,1,Onshore Wind Turbine,MID_AT
+2163,4929,existing,2,Onshore Wind Turbine,NE
+2164,4930,existing,2,Onshore Wind Turbine,NE
+2165,4931,existing,98,Onshore Wind Turbine,N_CEN
+2166,4932,existing,32,Solar Photovoltaic,SW
+2168,4934,existing,2,Solar Photovoltaic,N_CEN
+2169,4935,existing,2,Solar Photovoltaic,N_CEN
+2170,4936,existing,4,Solar Photovoltaic,SE
+2171,4937,existing,2,Solar Photovoltaic,NE
+2172,4938,existing,4.9,Solar Photovoltaic,NE
+2173,4939,existing,2.5,Solar Photovoltaic,NE
+2180,4946,existing,52.2,Solar Photovoltaic,SW
+2181,4947,existing,27,Solar Photovoltaic,CA
+2182,4948,existing,15,Solar Photovoltaic,CA
+2185,4951,existing,230.4,Onshore Wind Turbine,TX
+2189,4955,existing,9.7,Onshore Wind Turbine,NW
+2190,4962,existing,7.8,Solar Photovoltaic,MID_AT
+2191,4963,existing,74,Onshore Wind Turbine,CEN
+2192,4964,existing,200,Onshore Wind Turbine,CEN
+2197,4969,existing,1.6,Onshore Wind Turbine,N_CEN
+2198,4970,existing,98.8,Onshore Wind Turbine,CEN
+2202,4974,existing,1.7,Onshore Wind Turbine,NE
+2203,4975,existing,1.7,Onshore Wind Turbine,NE
+2204,4976,existing,20,Solar Photovoltaic,CA
+2205,4977,existing,15,Solar Photovoltaic,CA
+2206,4994,existing,20,Solar Photovoltaic,CA
+2207,4995,existing,20,Solar Photovoltaic,CA
+2208,4996,existing,19,Solar Photovoltaic,CA
+2209,4997,existing,45,Solar Photovoltaic,CA
+2210,4999,existing,73.1,Onshore Wind Turbine,CEN
+2215,5007,existing,102,Solar Photovoltaic,CA
+2216,5008,existing,2,Solar Photovoltaic,NE
+2217,5009,existing,19.8,Solar Photovoltaic,CA
+2218,5010,existing,13.6,Solar Photovoltaic,SW
+2219,5011,existing,4.1,Solar Photovoltaic,SW
+2220,5012,existing,10,Onshore Wind Turbine,NW
+2221,5013,existing,107.5,Onshore Wind Turbine,N_CEN
+2222,5014,existing,48,Onshore Wind Turbine,N_CEN
+2223,5015,existing,2,Solar Photovoltaic,NE
+2224,5016,existing,1,Solar Photovoltaic,CA
+2225,5017,existing,2,Solar Photovoltaic,NW
+2226,5022,existing,2.8,Solar Photovoltaic,CEN
+2227,5023,existing,1.5,Onshore Wind Turbine,NE
+2228,5024,existing,4.8,Solar Photovoltaic,SE
+2229,5025,existing,4.8,Solar Photovoltaic,SE
+2230,5026,existing,4.8,Solar Photovoltaic,SE
+2231,5027,existing,1,Solar Photovoltaic,CA
+2232,5028,existing,2.7,Solar Photovoltaic,N_CEN
+2233,5029,existing,4.8,Solar Photovoltaic,SE
+2234,5030,existing,8.5,Solar Photovoltaic,MID_AT
+2235,5031,existing,1.5,Solar Photovoltaic,CA
+2248,5044,existing,20,Solar Photovoltaic,MID_AT
+2249,5045,existing,2.8,Solar Photovoltaic,N_CEN
+2250,5052,existing,10,Onshore Wind Turbine,CEN
+2251,5053,existing,5,Onshore Wind Turbine,CEN
+2252,5054,existing,150,Onshore Wind Turbine,CEN
+2253,5055,existing,2,Solar Photovoltaic,NE
+2254,5056,existing,2.4,Solar Photovoltaic,NE
+2255,5057,existing,2,Solar Photovoltaic,NE
+2256,5058,existing,0.3,Solar Photovoltaic,NE
+2257,5059,existing,2.6,Solar Photovoltaic,NE
+2263,5065,existing,1.5,Onshore Wind Turbine,N_CEN
+2266,5074,existing,1.5,Onshore Wind Turbine,N_CEN
+2271,5082,existing,1.5,Solar Photovoltaic,CA
+2272,5083,existing,1.3,Solar Photovoltaic,CA
+2273,5084,existing,1.2,Solar Photovoltaic,CA
+2274,5085,existing,1,Solar Photovoltaic,MID_AT
+2275,5086,existing,24,Solar Photovoltaic,SW
+2276,5087,existing,26,Solar Photovoltaic,SW
+2277,5088,existing,26,Solar Photovoltaic,SW
+2278,5089,existing,26,Solar Photovoltaic,SW
+2279,5090,existing,25,Solar Photovoltaic,SW
+2280,5091,existing,28,Solar Photovoltaic,SW
+2281,5092,existing,26,Solar Photovoltaic,SW
+2282,5093,existing,27,Solar Photovoltaic,SW
+2283,5094,existing,21,Solar Photovoltaic,SW
+2284,5095,existing,26,Solar Photovoltaic,SW
+2288,5099,existing,1.5,Solar Photovoltaic,CA
+2289,5100,existing,1.8,Solar Photovoltaic,CA
+2290,5101,existing,5,Solar Photovoltaic,CA
+2291,5102,existing,2,Solar Photovoltaic,CA
+2292,5103,existing,50.4,Onshore Wind Turbine,N_CEN
+2293,5104,existing,5,Solar Photovoltaic,CA
+2294,5105,existing,2.5,Solar Photovoltaic,CA
+2295,5106,existing,40,Onshore Wind Turbine,MID_AT
+2296,5111,existing,298,Onshore Wind Turbine,CEN
+2299,5114,existing,299.7,Onshore Wind Turbine,CEN
+2301,5116,existing,0.5,Solar Photovoltaic,SW
+2302,5117,existing,175,Onshore Wind Turbine,N_CEN
+2303,5130,existing,2.4,Solar Photovoltaic,SE
+2304,5131,existing,16,Solar Photovoltaic,SE
+2305,5132,existing,29.4,Onshore Wind Turbine,N_CEN
+2306,5133,existing,20,Onshore Wind Turbine,N_CEN
+2307,5134,existing,1.2,Solar Photovoltaic,CA
+2308,5135,existing,1,Solar Photovoltaic,CA
+2309,5137,existing,2.5,Onshore Wind Turbine,N_CEN
+2310,5138,existing,2.5,Onshore Wind Turbine,N_CEN
+2311,5139,existing,140.8,Onshore Wind Turbine,N_CEN
+2312,5140,existing,119.6,Onshore Wind Turbine,N_CEN
+2313,5141,existing,251,Onshore Wind Turbine,N_CEN
+2314,5142,existing,4.7,Onshore Wind Turbine,N_CEN
+2315,5143,existing,86.8,Onshore Wind Turbine,N_CEN
+2316,5144,existing,115,Onshore Wind Turbine,N_CEN
+2317,5145,existing,89.2,Onshore Wind Turbine,N_CEN
+2318,5146,existing,89.1,Onshore Wind Turbine,N_CEN
+2319,5147,existing,100.8,Onshore Wind Turbine,N_CEN
+2320,5148,existing,16.4,Onshore Wind Turbine,N_CEN
+2321,5151,existing,4.9,Solar Photovoltaic,SE
+2322,5152,existing,5,Solar Photovoltaic,SE
+2323,5153,existing,8.6,Solar Photovoltaic,MID_AT
+2324,5154,existing,20,Solar Photovoltaic,NE
+2325,5155,existing,5,Solar Photovoltaic,SE
+2328,5158,existing,205,Onshore Wind Turbine,N_CEN
+2329,5159,existing,3,Solar Photovoltaic,NE
+2331,5161,existing,5,Solar Photovoltaic,SE
+2332,5162,existing,5,Solar Photovoltaic,SE
+2333,5163,existing,5,Solar Photovoltaic,SE
+2336,5166,existing,5,Solar Photovoltaic,SE
+2337,5167,existing,5,Solar Photovoltaic,SE
+2338,5168,existing,5,Solar Photovoltaic,SE
+2339,5169,existing,5,Solar Photovoltaic,SE
+2340,5170,existing,5,Solar Photovoltaic,SE
+2341,5171,existing,5,Solar Photovoltaic,SE
+2342,5172,existing,5,Solar Photovoltaic,SE
+2343,5173,existing,5,Solar Photovoltaic,SE
+2344,5174,existing,5,Solar Photovoltaic,SE
+2345,5175,existing,5,Solar Photovoltaic,SE
+2346,5176,existing,2,Solar Photovoltaic,SE
+2347,5177,existing,65,Solar Photovoltaic,SE
+2348,5178,existing,5,Solar Photovoltaic,MID_AT
+2349,5179,existing,5,Solar Photovoltaic,SE
+2350,5180,existing,5,Solar Photovoltaic,SE
+2351,5181,existing,20,Solar Photovoltaic,MID_AT
+2352,5182,existing,5,Solar Photovoltaic,SE
+2353,5183,existing,5,Solar Photovoltaic,SW
+2354,5184,existing,0.5,Solar Photovoltaic,SE
+2355,5185,existing,0.5,Solar Photovoltaic,SE
+2356,5186,existing,0.5,Solar Photovoltaic,SE
+2357,5187,existing,0.5,Solar Photovoltaic,SE
+2358,5188,existing,0.5,Solar Photovoltaic,SE
+2359,5189,existing,0.5,Solar Photovoltaic,SE
+2360,5190,existing,0.5,Solar Photovoltaic,SE
+2361,5191,existing,0.5,Solar Photovoltaic,SE
+2362,5192,existing,0.5,Solar Photovoltaic,SE
+2363,5193,existing,0.5,Solar Photovoltaic,NE
+2364,5194,existing,0.3,Solar Photovoltaic,NE
+2365,5195,existing,0.5,Solar Photovoltaic,NE
+2366,5196,existing,110,Onshore Wind Turbine,TX
+2367,5198,existing,51.8,Onshore Wind Turbine,CEN
+2373,5204,existing,30,Onshore Wind Turbine,SW
+2374,5205,existing,51,Solar Photovoltaic,SW
+2375,5206,existing,1,Solar Photovoltaic,SW
+2376,5207,existing,16.6,Solar Photovoltaic,CA
+2377,5208,existing,44,Onshore Wind Turbine,N_CEN
+2378,5209,existing,111,Onshore Wind Turbine,N_CEN
+2379,5210,existing,5,Solar Photovoltaic,SE
+2380,5211,existing,5,Solar Photovoltaic,SE
+2384,5219,existing,2.3,Solar Photovoltaic,NE
+2386,5221,existing,0.5,Solar Photovoltaic,MID_AT
+2387,5222,existing,0.8,Solar Photovoltaic,MID_AT
+2397,5248,existing,1.5,Solar Photovoltaic,CA
+2398,5249,existing,1.5,Solar Photovoltaic,CA
+2407,5258,existing,5,Solar Photovoltaic,SE
+2413,5264,existing,5,Solar Photovoltaic,SE
+2414,5265,existing,5,Solar Photovoltaic,SE
+2415,5266,existing,5,Solar Photovoltaic,SE
+2416,5267,existing,5,Solar Photovoltaic,SE
+2417,5268,existing,5,Solar Photovoltaic,SE
+2418,5269,existing,0.5,Solar Photovoltaic,SE
+2419,5270,existing,0.5,Solar Photovoltaic,SE
+2420,5271,existing,0.5,Solar Photovoltaic,SE
+2421,5272,existing,0.5,Solar Photovoltaic,SE
+2422,5273,existing,0.5,Solar Photovoltaic,SE
+2423,5274,existing,0.5,Solar Photovoltaic,SE
+2424,5275,existing,0.5,Solar Photovoltaic,SE
+2425,5276,existing,0.5,Solar Photovoltaic,SE
+2426,5277,existing,0.5,Solar Photovoltaic,SE
+2427,5278,existing,0.5,Solar Photovoltaic,SE
+2428,5287,existing,2,Solar Photovoltaic,SE
+2429,5288,existing,0.5,Solar Photovoltaic,SE
+2430,5289,existing,0.5,Solar Photovoltaic,SE
+2431,5290,existing,0.5,Solar Photovoltaic,SE
+2432,5291,existing,0.5,Solar Photovoltaic,SE
+2433,5292,existing,0.5,Solar Photovoltaic,SE
+2434,5293,existing,0.5,Solar Photovoltaic,SE
+2435,5294,existing,0.5,Solar Photovoltaic,SE
+2436,5295,existing,0.5,Solar Photovoltaic,SE
+2437,5304,existing,5,Solar Photovoltaic,SE
+2438,5305,existing,1.3,Solar Photovoltaic,MID_AT
+2439,5306,existing,1,Solar Photovoltaic,N_CEN
+2440,5307,existing,1,Solar Photovoltaic,N_CEN
+2441,5308,existing,1,Solar Photovoltaic,N_CEN
+2442,5309,existing,1.9,Solar Photovoltaic,SW
+2443,5310,existing,11.4,Solar Photovoltaic,MID_AT
+2444,5311,existing,19.4,Solar Photovoltaic,SE
+2445,5312,existing,5,Solar Photovoltaic,SE
+2446,5313,existing,1.5,Solar Photovoltaic,NE
+2447,5314,existing,2.5,Solar Photovoltaic,NE
+2448,5315,existing,1.5,Solar Photovoltaic,NE
+2449,5316,existing,1,Solar Photovoltaic,NE
+2450,5317,existing,2,Solar Photovoltaic,NE
+2451,5318,existing,2.5,Solar Photovoltaic,NE
+2452,5319,existing,1,Solar Photovoltaic,NE
+2455,5322,existing,5,Solar Photovoltaic,SE
+2456,5328,existing,194,Onshore Wind Turbine,TX
+2457,5329,existing,161,Onshore Wind Turbine,TX
+2458,5330,existing,200,Onshore Wind Turbine,TX
+2459,5331,existing,200,Onshore Wind Turbine,TX
+2460,5332,existing,250,Onshore Wind Turbine,CEN
+2461,5333,existing,8,Solar Photovoltaic,N_CEN
+2462,5334,existing,28.6,Onshore Wind Turbine,SW
+2463,5335,existing,34,Onshore Wind Turbine,SW
+2464,5336,existing,16.2,Onshore Wind Turbine,NE
+2467,5339,existing,205.7,Onshore Wind Turbine,CEN
+2470,5342,existing,257,Onshore Wind Turbine,TX
+2471,5343,existing,288.6,Onshore Wind Turbine,TX
+2472,5344,existing,1.5,Solar Photovoltaic,CA
+2473,5345,existing,2,Solar Photovoltaic,CA
+2474,5346,existing,2,Solar Photovoltaic,CA
+2475,5347,existing,1.5,Solar Photovoltaic,CA
+2476,5348,existing,1.5,Solar Photovoltaic,CA
+2477,5349,existing,2,Solar Photovoltaic,CA
+2478,5350,existing,1.5,Solar Photovoltaic,CA
+2479,5351,existing,1,Solar Photovoltaic,CA
+2480,5352,existing,1.5,Solar Photovoltaic,CA
+2481,5353,existing,1.5,Solar Photovoltaic,CA
+2482,5354,existing,1.5,Solar Photovoltaic,CA
+2483,5355,existing,1.5,Solar Photovoltaic,CA
+2484,5356,existing,1.5,Solar Photovoltaic,CA
+2485,5357,existing,5,Solar Photovoltaic,CA
+2486,5358,existing,1,Solar Photovoltaic,NE
+2487,5359,existing,1,Solar Photovoltaic,CA
+2490,5362,existing,5,Solar Photovoltaic,SE
+2491,5363,existing,4.5,Solar Photovoltaic,SE
+2492,5366,existing,5,Solar Photovoltaic,SE
+2493,5367,existing,5,Solar Photovoltaic,SE
+2494,5368,existing,3,Solar Photovoltaic,SE
+2495,5369,existing,3,Solar Photovoltaic,SE
+2496,5371,existing,4,Solar Photovoltaic,SE
+2497,5373,existing,3,Solar Photovoltaic,SE
+2498,5374,existing,5,Solar Photovoltaic,SE
+2499,5375,existing,3,Solar Photovoltaic,SE
+2500,5378,existing,5,Solar Photovoltaic,SE
+2501,5379,existing,5,Solar Photovoltaic,SE
+2502,5382,existing,5,Solar Photovoltaic,SE
+2503,5383,existing,8,Solar Photovoltaic,CA
+2504,5384,existing,181.7,Onshore Wind Turbine,TX
+2505,5385,existing,74.8,Onshore Wind Turbine,N_CEN
+2506,5386,existing,12,Solar Photovoltaic,CA
+2507,5387,existing,39.6,Solar Photovoltaic,TX
+2508,5388,existing,4.4,Solar Photovoltaic,TX
+2514,5402,existing,62.5,Solar Photovoltaic,CA
+2515,5403,existing,20,Solar Photovoltaic,CA
+2516,5404,existing,12,Solar Photovoltaic,CA
+2517,5405,existing,30.2,Solar Photovoltaic,TX
+2518,5406,existing,1.6,Solar Photovoltaic,SW
+2519,5407,existing,1.1,Solar Photovoltaic,SW
+2524,5412,existing,4,Solar Photovoltaic,N_CEN
+2525,5413,existing,2,Solar Photovoltaic,NE
+2526,5414,existing,20,Solar Photovoltaic,SE
+2527,5415,existing,2.5,Solar Photovoltaic,SE
+2536,5427,existing,400,Onshore Wind Turbine,CEN
+2537,5429,existing,78,Onshore Wind Turbine,N_CEN
+2538,5430,existing,13,Onshore Wind Turbine,N_CEN
+2539,5431,existing,100,Onshore Wind Turbine,N_CEN
+2540,5432,existing,1.3,Solar Photovoltaic,SW
+2547,5439,existing,51,Onshore Wind Turbine,NE
+2549,5442,existing,150.4,Onshore Wind Turbine,CEN
+2550,5443,existing,6.3,Solar Photovoltaic,NE
+2551,5444,existing,150,Onshore Wind Turbine,TX
+2552,5445,existing,2.6,Solar Photovoltaic,NE
+2558,5451,existing,110.4,Onshore Wind Turbine,N_CEN
+2559,5453,existing,5,Solar Photovoltaic,SE
+2560,5454,existing,5,Solar Photovoltaic,SE
+2561,5455,existing,5,Solar Photovoltaic,MID_AT
+2562,5456,existing,5,Solar Photovoltaic,SE
+2563,5457,existing,5,Solar Photovoltaic,SE
+2564,5458,existing,3.5,Solar Photovoltaic,SE
+2565,5459,existing,5,Solar Photovoltaic,SE
+2566,5460,existing,50.7,Onshore Wind Turbine,CEN
+2567,5461,existing,4,Solar Photovoltaic,MID_AT
+2568,5466,existing,1.7,Onshore Wind Turbine,NE
+2569,5467,existing,1.7,Onshore Wind Turbine,NE
+2570,5468,existing,80,Solar Photovoltaic,SW
+2571,5470,existing,200,Onshore Wind Turbine,N_CEN
+2572,5471,existing,200,Onshore Wind Turbine,N_CEN
+2573,5485,existing,2.3,Solar Photovoltaic,MID_AT
+2574,5486,existing,1.7,Solar Photovoltaic,MID_AT
+2575,5489,existing,3,Solar Photovoltaic,NE
+2576,5490,existing,20,Solar Photovoltaic,SE
+2577,5491,existing,1,Solar Photovoltaic,NE
+2578,5492,existing,37.9,Solar Photovoltaic,CA
+2579,5493,existing,37.9,Solar Photovoltaic,CA
+2580,5494,existing,37.9,Solar Photovoltaic,CA
+2581,5495,existing,37.9,Solar Photovoltaic,CA
+2582,5496,existing,37.9,Solar Photovoltaic,CA
+2583,5497,existing,34.1,Solar Photovoltaic,CA
+2584,5498,existing,75.9,Solar Photovoltaic,CA
+2585,5502,existing,16.2,Solar Photovoltaic,SW
+2586,5503,existing,35,Solar Photovoltaic,SW
+2587,5504,existing,36.6,Solar Photovoltaic,SW
+2588,5505,existing,35,Solar Photovoltaic,SW
+2589,5506,existing,35.7,Solar Photovoltaic,SW
+2590,5507,existing,37.2,Solar Photovoltaic,SW
+2591,5508,existing,27.9,Solar Photovoltaic,SW
+2592,5509,existing,26.4,Solar Photovoltaic,SW
+2593,5510,existing,2.6,Solar Photovoltaic,N_CEN
+2594,5511,existing,1.5,Solar Photovoltaic,CA
+2595,5512,existing,1.5,Solar Photovoltaic,CA
+2597,5518,existing,1,Solar Photovoltaic,CA
+2598,5520,existing,1,Solar Photovoltaic,CA
+2599,5521,existing,1,Solar Photovoltaic,CA
+2600,5522,existing,3,Solar Photovoltaic,SW
+2601,5523,existing,2,Solar Photovoltaic,MID_AT
+2602,5524,existing,3.4,Onshore Wind Turbine,MID_AT
+2608,5530,existing,30,Solar Photovoltaic,SE
+2609,5531,existing,10,Solar Photovoltaic,CA
+2610,5532,existing,20,Solar Photovoltaic,CA
+2611,5533,existing,0.5,Solar Photovoltaic,CA
+2612,5534,existing,1,Solar Photovoltaic,CA
+2617,5539,existing,1.8,Solar Photovoltaic,NE
+2618,5540,existing,20,Solar Photovoltaic,SE
+2621,5543,existing,20,Solar Photovoltaic,CA
+2622,5544,existing,22.8,Onshore Wind Turbine,NE
+2623,5547,existing,1.2,Solar Photovoltaic,SE
+2624,5550,existing,18,Solar Photovoltaic,CA
+2625,5551,existing,9,Solar Photovoltaic,N_CEN
+2627,5554,existing,1.5,Solar Photovoltaic,CA
+2628,5555,existing,1.5,Solar Photovoltaic,CA
+2629,5556,existing,1.5,Solar Photovoltaic,CA
+2630,5557,existing,1.5,Solar Photovoltaic,CA
+2631,5558,existing,25.7,Onshore Wind Turbine,NE
+2632,5559,existing,8.5,Onshore Wind Turbine,NE
+2636,5563,existing,5,Solar Photovoltaic,SE
+2637,5564,existing,3,Solar Photovoltaic,SW
+2638,5565,existing,2.2,Solar Photovoltaic,SW
+2639,5566,existing,3,Solar Photovoltaic,SW
+2640,5567,existing,3,Solar Photovoltaic,SW
+2641,5568,existing,3,Solar Photovoltaic,SW
+2642,5569,existing,3,Solar Photovoltaic,SW
+2643,5570,existing,3,Solar Photovoltaic,SW
+2644,5572,existing,211.2,Onshore Wind Turbine,TX
+2646,5574,existing,74.8,Onshore Wind Turbine,CEN
+2647,5578,existing,51.7,Solar Photovoltaic,CA
+2648,5579,existing,51.7,Solar Photovoltaic,CA
+2649,5580,existing,51.7,Solar Photovoltaic,CA
+2651,5582,existing,18.5,Solar Photovoltaic,CA
+2652,5583,existing,1,Solar Photovoltaic,SW
+2653,5584,existing,1,Solar Photovoltaic,SW
+2654,5585,existing,100.3,Onshore Wind Turbine,N_CEN
+2655,5586,existing,2,Solar Photovoltaic,NE
+2656,5593,existing,3,Solar Photovoltaic,NE
+2657,5594,existing,1.5,Solar Photovoltaic,CA
+2658,5595,existing,1,Solar Photovoltaic,CA
+2659,5596,existing,74.8,Onshore Wind Turbine,N_CEN
+2661,5598,existing,1.5,Solar Photovoltaic,CA
+2664,5601,existing,2.3,Solar Photovoltaic,CEN
+2671,5608,existing,0.9,Solar Photovoltaic,SE
+2672,5609,existing,0.9,Solar Photovoltaic,SE
+2673,5610,existing,266.8,Onshore Wind Turbine,NW
+2676,5613,existing,5,Solar Photovoltaic,MID_AT
+2677,5614,existing,3.2,Solar Photovoltaic,NE
+2679,5616,existing,7.9,Solar Photovoltaic,MID_AT
+2685,5622,existing,1.5,Solar Photovoltaic,NE
+2693,5630,existing,10.1,Solar Photovoltaic,N_CEN
+2695,5632,existing,5,Solar Photovoltaic,NE
+2696,5633,existing,8.6,Solar Photovoltaic,N_CEN
+2697,5634,existing,10,Solar Photovoltaic,N_CEN
+2699,5636,existing,2,Solar Photovoltaic,NE
+2700,5638,existing,2,Onshore Wind Turbine,SW
+2701,5639,existing,2,Onshore Wind Turbine,SW
+2702,5640,existing,2,Onshore Wind Turbine,SW
+2703,5641,existing,2,Onshore Wind Turbine,SW
+2704,5642,existing,1,Solar Photovoltaic,SW
+2707,5645,existing,5.7,Solar Photovoltaic,CA
+2708,5646,existing,20,Solar Photovoltaic,SW
+2709,5647,existing,2.5,Solar Photovoltaic,SW
+2710,5648,existing,25.2,Solar Photovoltaic,CA
+2711,5649,existing,25.2,Solar Photovoltaic,CA
+2712,5650,existing,29,Solar Photovoltaic,CA
+2713,5651,existing,29,Solar Photovoltaic,CA
+2714,5652,existing,22.7,Solar Photovoltaic,CA
+2715,5653,existing,13.9,Solar Photovoltaic,CA
+2716,5654,existing,26.5,Solar Photovoltaic,CA
+2717,5655,existing,39.1,Solar Photovoltaic,CA
+2718,5656,existing,39.1,Solar Photovoltaic,CA
+2719,5657,existing,1.8,Solar Photovoltaic,NE
+2720,5658,existing,1,Solar Photovoltaic,SW
+2721,5659,existing,6.5,Solar Photovoltaic,SW
+2722,5660,existing,2.5,Solar Photovoltaic,SE
+2724,5662,existing,40.7,Solar Photovoltaic,TX
+2725,5663,existing,3,Solar Photovoltaic,MID_AT
+2726,5664,existing,1.5,Solar Photovoltaic,MID_AT
+2727,5665,existing,4,Solar Photovoltaic,NE
+2729,5667,existing,0.5,Solar Photovoltaic,SE
+2730,5668,existing,0.5,Solar Photovoltaic,SE
+2731,5669,existing,0.5,Solar Photovoltaic,SE
+2732,5670,existing,0.5,Solar Photovoltaic,SE
+2733,5671,existing,4,Solar Photovoltaic,CA
+2734,5672,existing,1,Solar Photovoltaic,CA
+2742,5680,existing,1,Solar Photovoltaic,CA
+2743,5681,existing,1.1,Solar Photovoltaic,SE
+2745,5683,existing,1,Solar Photovoltaic,CA
+2746,5684,existing,8.4,Solar Photovoltaic,SW
+2747,5685,existing,8,Solar Photovoltaic,SW
+2748,5686,existing,2.8,Solar Photovoltaic,MID_AT
+2749,5687,existing,1.8,Solar Photovoltaic,SW
+2750,5688,existing,1.6,Solar Photovoltaic,SW
+2752,5690,existing,1.1,Solar Photovoltaic,SE
+2753,5691,existing,1,Solar Photovoltaic,SE
+2754,5692,existing,2.3,Solar Photovoltaic,CA
+2755,5693,existing,4,Solar Photovoltaic,CA
+2756,5694,existing,3.1,Solar Photovoltaic,MID_AT
+2757,5698,existing,1,Solar Photovoltaic,CA
+2758,5699,existing,1.5,Solar Photovoltaic,CA
+2759,5700,existing,1.5,Solar Photovoltaic,CA
+2760,5715,existing,4,Solar Photovoltaic,CA
+2761,5716,existing,6.6,Solar Photovoltaic,MID_AT
+2764,5720,existing,10,Solar Photovoltaic,CA
+2765,5721,existing,15,Solar Photovoltaic,SW
+2766,5722,existing,5,Solar Photovoltaic,CA
+2767,5723,existing,20,Solar Photovoltaic,CA
+2768,5724,existing,20,Solar Photovoltaic,CA
+2771,5727,existing,1.5,Solar Photovoltaic,N_CEN
+2772,5728,existing,3.5,Solar Photovoltaic,SE
+2773,5729,existing,3.5,Solar Photovoltaic,SE
+2774,5730,existing,4,Solar Photovoltaic,SE
+2775,5731,existing,3.5,Solar Photovoltaic,SE
+2776,5732,existing,1.2,Solar Photovoltaic,SE
+2777,5733,existing,30,Solar Photovoltaic,SW
+2778,5734,existing,20,Solar Photovoltaic,SW
+2779,5735,existing,10,Solar Photovoltaic,TX
+2780,5736,existing,2.5,Solar Photovoltaic,SE
+2781,5737,existing,20,Solar Photovoltaic,SW
+2782,5738,existing,1,Solar Photovoltaic,SE
+2786,5742,existing,16,Solar Photovoltaic,MID_AT
+2787,5743,existing,7.7,Solar Photovoltaic,SE
+2788,5744,existing,1,Solar Photovoltaic,SW
+2789,5745,existing,5,Solar Photovoltaic,MID_AT
+2790,5746,existing,2,Solar Photovoltaic,CEN
+2793,5749,existing,3.3,Solar Photovoltaic,SW
+2797,5753,existing,249.8,Onshore Wind Turbine,CEN
+2798,5754,existing,4,Solar Photovoltaic,MID_AT
+2803,5763,existing,147.4,Solar Photovoltaic,CA
+2805,5765,existing,9.9,Onshore Wind Turbine,CEN
+2806,5766,existing,9.9,Onshore Wind Turbine,CEN
+2807,5767,existing,5.5,Solar Photovoltaic,MID_AT
+2808,5768,existing,36.5,Solar Photovoltaic,CA
+2809,5769,existing,41.9,Solar Photovoltaic,CA
+2810,5770,existing,26.9,Solar Photovoltaic,CA
+2811,5771,existing,31.4,Solar Photovoltaic,CA
+2812,5772,existing,31.4,Solar Photovoltaic,CA
+2813,5773,existing,39.6,Solar Photovoltaic,CA
+2814,5774,existing,21,Solar Photovoltaic,CA
+2815,5775,existing,41.9,Solar Photovoltaic,CA
+2816,5776,existing,1.6,Onshore Wind Turbine,N_CEN
+2817,5777,existing,1.6,Onshore Wind Turbine,N_CEN
+2818,5778,existing,1.6,Onshore Wind Turbine,N_CEN
+2819,5779,existing,1.6,Onshore Wind Turbine,N_CEN
+2820,5780,existing,1.6,Onshore Wind Turbine,N_CEN
+2821,5781,existing,1.6,Onshore Wind Turbine,N_CEN
+2825,5785,existing,0.5,Solar Photovoltaic,CA
+2826,5786,existing,1.5,Solar Photovoltaic,CA
+2827,5787,existing,4,Solar Photovoltaic,SE
+2828,5788,existing,1.5,Solar Photovoltaic,CA
+2829,5789,existing,1.5,Solar Photovoltaic,CA
+2830,5790,existing,1.5,Solar Photovoltaic,CA
+2831,5791,existing,1,Solar Photovoltaic,CA
+2832,5792,existing,1.5,Solar Photovoltaic,CA
+2833,5793,existing,1.5,Solar Photovoltaic,CA
+2834,5794,existing,1,Solar Photovoltaic,CA
+2835,5795,existing,1,Solar Photovoltaic,CA
+2836,5796,existing,1.5,Solar Photovoltaic,CA
+2837,5797,existing,1.5,Solar Photovoltaic,CA
+2838,5798,existing,1.5,Solar Photovoltaic,CA
+2839,5799,existing,1,Solar Photovoltaic,CA
+2840,5800,existing,1,Solar Photovoltaic,CA
+2841,5801,existing,8,Onshore Wind Turbine,N_CEN
+2842,5802,existing,1,Solar Photovoltaic,MID_AT
+2843,5803,existing,4.3,Onshore Wind Turbine,NW
+2867,5830,existing,4.2,Solar Photovoltaic,SE
+2868,5831,existing,26.6,Solar Photovoltaic,CA
+2869,5832,existing,19,Solar Photovoltaic,CA
+2870,5833,existing,34.2,Solar Photovoltaic,CA
+2871,5834,existing,34.2,Solar Photovoltaic,CA
+2872,5835,existing,26.6,Solar Photovoltaic,CA
+2873,5836,existing,34.2,Solar Photovoltaic,CA
+2884,5849,existing,9,Onshore Wind Turbine,TX
+2885,5850,existing,3,Solar Photovoltaic,NE
+2890,5863,existing,5,Solar Photovoltaic,CA
+2891,5864,existing,5,Solar Photovoltaic,CA
+2892,5865,existing,10,Solar Photovoltaic,CA
+2893,5866,existing,200,Onshore Wind Turbine,MID_AT
+2894,5867,existing,1.5,Onshore Wind Turbine,N_CEN
+2895,5877,existing,1,Solar Photovoltaic,NE
+2896,5878,existing,2,Solar Photovoltaic,NE
+2897,5879,existing,3,Solar Photovoltaic,NE
+2898,5882,existing,27,Solar Photovoltaic,MID_AT
+2899,5883,existing,1.6,Onshore Wind Turbine,N_CEN
+2901,5886,existing,11.5,Onshore Wind Turbine,CEN
+2902,5887,existing,3,Solar Photovoltaic,NE
+2903,5888,existing,1.5,Solar Photovoltaic,MID_AT
+2904,5889,existing,9.6,Solar Photovoltaic,SE
+2906,5893,existing,10.9,Solar Photovoltaic,CA
+2908,5895,existing,90,Onshore Wind Turbine,CA
+2909,5896,existing,138,Onshore Wind Turbine,CA
+2911,5898,existing,10,Solar Photovoltaic,N_CEN
+2914,5901,existing,52.5,Solar Photovoltaic,CA
+2915,5902,existing,43.5,Solar Photovoltaic,CA
+2916,5903,existing,48,Solar Photovoltaic,CA
+2917,5904,existing,55.5,Solar Photovoltaic,CA
+2918,5905,existing,60,Solar Photovoltaic,CA
+2919,5906,existing,19.5,Solar Photovoltaic,CA
+2920,5907,existing,64.5,Solar Photovoltaic,CA
+2921,5908,existing,15,Solar Photovoltaic,CA
+2922,5909,existing,33,Solar Photovoltaic,CA
+2923,5910,existing,58.5,Solar Photovoltaic,CA
+2924,5911,existing,54,Solar Photovoltaic,CA
+2925,5912,existing,54,Solar Photovoltaic,CA
+2926,5913,existing,39,Solar Photovoltaic,CA
+2927,5914,existing,2.4,Solar Photovoltaic,NE
+2928,5915,existing,1.8,Solar Photovoltaic,MID_AT
+2929,5916,existing,1.9,Solar Photovoltaic,NE
+2931,5918,existing,14,Solar Photovoltaic,SW
+2936,5923,existing,2.1,Solar Photovoltaic,MID_AT
+2942,5934,existing,1.5,Solar Photovoltaic,CA
+2943,5940,existing,20,Solar Photovoltaic,CA
+2944,5941,existing,20,Solar Photovoltaic,CA
+2945,5942,existing,135.4,Onshore Wind Turbine,TX
+2946,5943,existing,2.5,Solar Photovoltaic,CA
+2947,5944,existing,1,Solar Photovoltaic,CA
+2948,5945,existing,20.2,Solar Photovoltaic,CA
+2956,5954,existing,79.6,Onshore Wind Turbine,CEN
+2957,5955,existing,3.5,Solar Photovoltaic,NE
+2958,5956,existing,3,Solar Photovoltaic,MID_AT
+2959,5957,existing,2.2,Solar Photovoltaic,MID_AT
+2960,5958,existing,2.3,Solar Photovoltaic,MID_AT
+2961,5959,existing,4.1,Solar Photovoltaic,MID_AT
+2962,5960,existing,4.2,Solar Photovoltaic,MID_AT
+2963,5961,existing,5.2,Solar Photovoltaic,MID_AT
+2964,5962,existing,1.5,Solar Photovoltaic,CA
+2965,5963,existing,1.5,Solar Photovoltaic,CA
+2967,5965,existing,120,Onshore Wind Turbine,N_CEN
+2968,5966,existing,5,Solar Photovoltaic,SE
+2969,5967,existing,5,Solar Photovoltaic,SE
+2970,5968,existing,5,Solar Photovoltaic,SE
+2971,5969,existing,5,Solar Photovoltaic,SE
+2972,5970,existing,5,Solar Photovoltaic,SE
+2973,5971,existing,5,Solar Photovoltaic,SE
+2974,5972,existing,5,Solar Photovoltaic,SE
+2975,5973,existing,5,Solar Photovoltaic,SE
+2976,5974,existing,5,Solar Photovoltaic,SE
+2977,5975,existing,5,Solar Photovoltaic,SE
+2978,5976,existing,5,Solar Photovoltaic,SE
+2979,5977,existing,5,Solar Photovoltaic,SE
+2980,5978,existing,5,Solar Photovoltaic,SE
+2981,5979,existing,5,Solar Photovoltaic,SE
+2982,5980,existing,5,Solar Photovoltaic,SE
+2983,5981,existing,5,Solar Photovoltaic,SE
+2984,5982,existing,5,Solar Photovoltaic,SE
+2985,5983,existing,5,Solar Photovoltaic,SE
+2986,5984,existing,5,Solar Photovoltaic,SE
+2987,5987,existing,2.8,Solar Photovoltaic,MID_AT
+2999,5999,existing,98.9,Onshore Wind Turbine,NW
+3000,6000,existing,5,Solar Photovoltaic,SE
+3001,6001,existing,206.5,Onshore Wind Turbine,CEN
+3002,6002,existing,150,Onshore Wind Turbine,TX
+3004,6004,existing,10.6,Solar Photovoltaic,SW
+3008,6008,existing,1,Solar Photovoltaic,SE
+3009,6009,existing,5,Solar Photovoltaic,SE
+3010,6010,existing,5,Solar Photovoltaic,SE
+3011,6011,existing,5,Solar Photovoltaic,SE
+3012,6012,existing,4,Solar Photovoltaic,SE
+3013,6013,existing,5,Solar Photovoltaic,SE
+3014,6014,existing,4,Solar Photovoltaic,SE
+3015,6015,existing,5,Solar Photovoltaic,SE
+3017,6017,existing,1.5,Solar Photovoltaic,CA
+3018,6018,existing,1,Solar Photovoltaic,CA
+3019,6019,existing,1,Solar Photovoltaic,CA
+3020,6020,existing,1,Solar Photovoltaic,CA
+3021,6021,existing,1.5,Solar Photovoltaic,CA
+3022,6022,existing,1.5,Solar Photovoltaic,CA
+3023,6023,existing,1.5,Solar Photovoltaic,CA
+3024,6024,existing,0.5,Solar Photovoltaic,CA
+3025,6025,existing,1.5,Solar Photovoltaic,CA
+3026,6026,existing,1.5,Solar Photovoltaic,CA
+3027,6027,existing,1,Solar Photovoltaic,CA
+3028,6028,existing,1,Solar Photovoltaic,CA
+3029,6029,existing,1,Solar Photovoltaic,SE
+3030,6030,existing,0.7,Solar Photovoltaic,CA
+3031,6031,existing,1.5,Solar Photovoltaic,CA
+3032,6032,existing,1.5,Solar Photovoltaic,CA
+3043,6043,existing,1.3,Solar Photovoltaic,SW
+3044,6044,existing,1.1,Solar Photovoltaic,SW
+3045,6046,existing,1.5,Solar Photovoltaic,CA
+3046,6047,existing,1.5,Solar Photovoltaic,CA
+3049,6050,existing,4.5,Solar Photovoltaic,NE
+3050,6051,existing,6,Solar Photovoltaic,NE
+3051,6053,existing,3,Solar Photovoltaic,NE
+3052,6054,existing,5,Solar Photovoltaic,NE
+3053,6061,existing,5,Solar Photovoltaic,NE
+3054,6062,existing,4,Solar Photovoltaic,NE
+3055,6063,existing,5,Solar Photovoltaic,SE
+3056,6064,existing,5,Solar Photovoltaic,SE
+3057,6065,existing,1.9,Solar Photovoltaic,NE
+3058,6066,existing,1,Solar Photovoltaic,NE
+3059,6067,existing,4.7,Solar Photovoltaic,NE
+3083,6103,existing,14.8,Solar Photovoltaic,SW
+3084,6104,existing,1,Solar Photovoltaic,CA
+3095,6116,existing,1,Solar Photovoltaic,SW
+3110,6131,existing,1.6,Solar Photovoltaic,CA
+3113,6136,existing,3.5,Solar Photovoltaic,CA
+3114,6137,existing,1.9,Solar Photovoltaic,CA
+3117,6144,existing,1,Solar Photovoltaic,CA
+3118,6145,existing,1,Solar Photovoltaic,MID_AT
+3119,6146,existing,218,Onshore Wind Turbine,TX
+3120,6147,existing,1,Solar Photovoltaic,MID_AT
+3121,6148,existing,1.3,Solar Photovoltaic,SW
+3122,6149,existing,1,Solar Photovoltaic,MID_AT
+3123,6150,existing,10,Onshore Wind Turbine,NE
+3129,6156,existing,12,Solar Photovoltaic,CA
+3130,6157,existing,6,Onshore Wind Turbine,CA
+3131,6158,existing,1,Solar Photovoltaic,CA
+3132,6159,existing,2.9,Solar Photovoltaic,MID_AT
+3135,6162,existing,11.8,Solar Photovoltaic,MID_AT
+3136,6163,existing,9,Solar Photovoltaic,CA
+3137,6164,existing,1.5,Solar Photovoltaic,CA
+3142,6173,existing,1.5,Onshore Wind Turbine,MID_AT
+3143,6174,existing,1.5,Onshore Wind Turbine,MID_AT
+3144,6175,existing,1.5,Onshore Wind Turbine,MID_AT
+3147,6178,existing,40,Onshore Wind Turbine,NW
+3148,6179,existing,2.5,Solar Photovoltaic,CA
+3154,6185,existing,1.9,Solar Photovoltaic,NE
+3155,6186,existing,15,Solar Photovoltaic,SW
+3156,6198,existing,1.9,Solar Photovoltaic,NE
+3157,6199,existing,59.8,Onshore Wind Turbine,CEN
+3171,6213,existing,10,Solar Photovoltaic,CA
+3173,6215,existing,2.5,Solar Photovoltaic,CA
+3174,6216,existing,100.8,Onshore Wind Turbine,CEN
+3175,6217,existing,20,Solar Photovoltaic,CA
+3183,6244,existing,1.9,Solar Photovoltaic,MID_AT
+3185,6265,existing,2,Solar Photovoltaic,N_CEN
+3189,6270,existing,2,Solar Photovoltaic,NE
+3193,6276,existing,4.5,Solar Photovoltaic,SW
+3194,6277,existing,1.3,Solar Photovoltaic,CA
+3195,6278,existing,1,Solar Photovoltaic,CA
+3196,6279,existing,0.3,Solar Photovoltaic,CA
+3197,6280,existing,2,Solar Photovoltaic,CA
+3198,6281,existing,0.3,Solar Photovoltaic,CA
+3199,6282,existing,0.3,Solar Photovoltaic,CA
+3201,6293,existing,1.7,Solar Photovoltaic,N_CEN
+3202,6302,existing,61.2,Onshore Wind Turbine,CEN
+3207,6320,existing,99.2,Onshore Wind Turbine,SW
+3208,6321,existing,162,Onshore Wind Turbine,CA
+3213,6327,existing,2,Solar Photovoltaic,NW
+3214,6328,existing,20,Solar Photovoltaic,CA
+3215,6329,existing,20,Solar Photovoltaic,CA
+3216,6330,existing,10.8,Solar Photovoltaic,SW
+3217,6332,existing,2,Solar Photovoltaic,NE
+3218,6333,existing,2,Solar Photovoltaic,NE
+3221,6336,existing,48,Onshore Wind Turbine,NE
+3223,6341,existing,98.9,Onshore Wind Turbine,CEN
+3224,6343,existing,12.4,Solar Photovoltaic,SE
+3225,6344,existing,2,Solar Photovoltaic,MID_AT
+3231,6350,existing,4.4,Solar Photovoltaic,NW
+3240,6359,existing,200,Onshore Wind Turbine,SW
+3241,6360,existing,200,Onshore Wind Turbine,SW
+3244,6363,existing,2,Solar Photovoltaic,MID_AT
+3246,6365,existing,50,Onshore Wind Turbine,N_CEN
+3247,6366,existing,62.4,Onshore Wind Turbine,N_CEN
+3248,6367,existing,49.6,Onshore Wind Turbine,N_CEN
+3249,6368,existing,3,Solar Photovoltaic,CA
+3250,6369,existing,1.5,Solar Photovoltaic,CA
+3251,6377,existing,1.9,Onshore Wind Turbine,CA
+3252,6378,existing,1.6,Onshore Wind Turbine,CA
+3253,6379,existing,1.6,Onshore Wind Turbine,CA
+3254,6380,existing,1,Onshore Wind Turbine,CA
+3255,6381,existing,1,Onshore Wind Turbine,CA
+3256,6382,existing,1,Onshore Wind Turbine,CA
+3257,6383,existing,81,Onshore Wind Turbine,N_CEN
+3259,6388,existing,119.7,Onshore Wind Turbine,NW
+3260,6389,existing,1,Onshore Wind Turbine,CA
+3261,6390,existing,1,Onshore Wind Turbine,CA
+3262,6391,existing,28,Onshore Wind Turbine,N_CEN
+3263,6392,existing,1.5,Onshore Wind Turbine,CA
+3264,6393,existing,1.5,Onshore Wind Turbine,CA
+3265,6394,existing,1.6,Onshore Wind Turbine,CA
+3266,6395,existing,1.6,Onshore Wind Turbine,CA
+3267,6398,existing,298,Onshore Wind Turbine,SW
+3268,6399,existing,3.5,Solar Photovoltaic,NE
+3269,6400,existing,1.8,Solar Photovoltaic,MID_AT
+3270,6401,existing,1.5,Solar Photovoltaic,MID_AT
+3271,6402,existing,2.1,Solar Photovoltaic,MID_AT
+3272,6403,existing,1,Solar Photovoltaic,MID_AT
+3273,6404,existing,5,Solar Photovoltaic,MID_AT
+3274,6405,existing,3.4,Solar Photovoltaic,MID_AT
+3275,6406,existing,1.3,Solar Photovoltaic,MID_AT
+3276,6407,existing,1.6,Onshore Wind Turbine,N_CEN
+3277,6408,existing,94.4,Onshore Wind Turbine,NE
+3278,6409,existing,0.5,Solar Photovoltaic,CA
+3279,6410,existing,0.5,Solar Photovoltaic,CA
+3283,6418,existing,3.5,Solar Photovoltaic,MID_AT
+3284,6420,existing,112.5,Onshore Wind Turbine,TX
+3288,6424,existing,148.8,Onshore Wind Turbine,CEN
+3289,6425,existing,1,Solar Photovoltaic,CA
+3290,6426,existing,1,Solar Photovoltaic,CA
+3291,6427,existing,1,Solar Photovoltaic,CA
+3292,6429,existing,2,Solar Photovoltaic,CA
+3293,6430,existing,2,Solar Photovoltaic,CA
+3294,6431,existing,1.6,Onshore Wind Turbine,N_CEN
+3295,6432,existing,1.1,Solar Photovoltaic,MID_AT
+3296,6434,existing,10,Solar Photovoltaic,TX
+3297,6437,existing,1.5,Onshore Wind Turbine,NE
+3298,6438,existing,1,Solar Photovoltaic,SE
+3299,6441,existing,23,Solar Photovoltaic,CA
+3306,6462,existing,1.3,Solar Photovoltaic,MID_AT
+3307,6463,existing,30,Onshore Wind Turbine,TX
+3310,6469,existing,30,Onshore Wind Turbine,N_CEN
+3311,6470,existing,6,Onshore Wind Turbine,N_CEN
+3312,6476,existing,9,Solar Photovoltaic,SW
+3313,6477,existing,64.8,Onshore Wind Turbine,CEN
+3314,6478,existing,235.2,Onshore Wind Turbine,CEN
+3315,6479,existing,0.8,Solar Photovoltaic,MID_AT
+3316,6480,existing,2,Solar Photovoltaic,MID_AT
+3317,6481,existing,25,Solar Photovoltaic,CA
+3318,6482,existing,1.5,Onshore Wind Turbine,N_CEN
+3319,6483,existing,3.3,Solar Photovoltaic,SW
+3320,6484,existing,7.5,Solar Photovoltaic,MID_AT
+3321,6485,existing,30,Offshore Wind Turbine,NE
+3322,6486,existing,1.5,Solar Photovoltaic,CA
+3323,6487,existing,2.2,Solar Photovoltaic,NE
+3324,6488,existing,5.5,Solar Photovoltaic,MID_AT
+3325,6489,existing,3.9,Solar Photovoltaic,MID_AT
+3326,6490,existing,1.5,Solar Photovoltaic,CA
+3327,6491,existing,10,Solar Photovoltaic,TX
+3328,6492,existing,20,Onshore Wind Turbine,NE
+3329,6493,existing,1.7,Onshore Wind Turbine,NE
+3330,6494,existing,1.7,Onshore Wind Turbine,NE
+3336,6500,existing,92,Onshore Wind Turbine,TX
+3337,6501,existing,81.6,Onshore Wind Turbine,N_CEN
+3338,6502,existing,40,Onshore Wind Turbine,NW
+3339,6503,existing,104,Onshore Wind Turbine,CEN
+3340,6504,existing,30,Solar Photovoltaic,SW
+3341,6505,existing,30,Solar Photovoltaic,SW
+3342,6506,existing,34,Solar Photovoltaic,SW
+3343,6507,existing,30,Solar Photovoltaic,SW
+3344,6508,existing,30,Solar Photovoltaic,SW
+3345,6509,existing,1.8,Solar Photovoltaic,MID_AT
+3346,6510,existing,1,Solar Photovoltaic,MID_AT
+3347,6511,existing,2.1,Solar Photovoltaic,MID_AT
+3348,6512,existing,1.4,Solar Photovoltaic,TX
+3349,6513,existing,1,Solar Photovoltaic,SE
+3350,6514,existing,1.2,Solar Photovoltaic,SE
+3351,6515,existing,0.4,Solar Photovoltaic,SW
+3352,6516,existing,4.2,Solar Photovoltaic,SW
+3353,6517,existing,5,Solar Photovoltaic,TX
+3354,6518,existing,5.6,Solar Photovoltaic,TX
+3355,6519,existing,217,Onshore Wind Turbine,N_CEN
+3361,6525,existing,0.5,Solar Photovoltaic,SW
+3362,6526,existing,0.8,Solar Photovoltaic,SW
+3366,6530,existing,99,Onshore Wind Turbine,NE
+3367,6531,existing,50,Solar Photovoltaic,CA
+3368,6532,existing,20,Solar Photovoltaic,CA
+3375,6539,existing,99.8,Onshore Wind Turbine,TX
+3376,6540,existing,30,Onshore Wind Turbine,MID_AT
+3377,6541,existing,139.4,Onshore Wind Turbine,MID_AT
+3378,6542,existing,18,Solar Photovoltaic,SW
+3379,6543,existing,17,Solar Photovoltaic,SW
+3381,6547,existing,189,Onshore Wind Turbine,NW
+3382,6548,existing,21,Solar Photovoltaic,SE
+3383,6549,existing,22.7,Solar Photovoltaic,CA
+3384,6550,existing,18.9,Solar Photovoltaic,CA
+3385,6551,existing,20.2,Solar Photovoltaic,CA
+3386,6552,existing,25.2,Solar Photovoltaic,CA
+3387,6553,existing,25.2,Solar Photovoltaic,CA
+3388,6554,existing,30.2,Solar Photovoltaic,CA
+3389,6555,existing,40.3,Solar Photovoltaic,CA
+3390,6556,existing,40.3,Solar Photovoltaic,CA
+3391,6557,existing,20.2,Solar Photovoltaic,CA
+3392,6558,existing,30.2,Solar Photovoltaic,CA
+3393,6559,existing,40.3,Solar Photovoltaic,CA
+3394,6560,existing,1.1,Solar Photovoltaic,NE
+3395,6561,existing,75,Onshore Wind Turbine,MID_AT
+3396,6562,existing,2.5,Solar Photovoltaic,NE
+3397,6563,existing,3.2,Solar Photovoltaic,NE
+3404,6570,existing,298.5,Onshore Wind Turbine,CEN
+3405,6571,existing,10,Solar Photovoltaic,SW
+3406,6572,existing,12,Solar Photovoltaic,SW
+3407,6573,existing,100.8,Onshore Wind Turbine,N_CEN
+3408,6574,existing,165,Onshore Wind Turbine,TX
+3409,6575,existing,211,Onshore Wind Turbine,TX
+3410,6576,existing,0.6,Solar Photovoltaic,CA
+3411,6577,existing,0.5,Solar Photovoltaic,CA
+3412,6578,existing,150,Onshore Wind Turbine,TX
+3413,6579,existing,29,Onshore Wind Turbine,SW
+3414,6580,existing,65,Onshore Wind Turbine,NE
+3419,6585,existing,80,Onshore Wind Turbine,N_CEN
+3420,6586,existing,108,Onshore Wind Turbine,CEN
+3421,6587,existing,150,Onshore Wind Turbine,TX
+3422,6588,existing,161,Onshore Wind Turbine,CEN
+3424,6590,existing,3.5,Solar Photovoltaic,CA
+3426,6592,existing,5,Onshore Wind Turbine,N_CEN
+3427,6595,existing,10,Onshore Wind Turbine,NW
+3428,6596,existing,109.5,Onshore Wind Turbine,N_CEN
+3429,6597,existing,10,Onshore Wind Turbine,NW
+3430,6598,existing,102,Onshore Wind Turbine,CA
+3431,6600,existing,6.3,Solar Photovoltaic,CA
+3432,6601,existing,100.8,Onshore Wind Turbine,CEN
+3439,6608,existing,1,Solar Photovoltaic,MID_AT
+3440,6612,existing,10,Solar Photovoltaic,MID_AT
+3441,6613,existing,50.4,Onshore Wind Turbine,SW
+3451,6623,existing,1.2,Solar Photovoltaic,NE
+3452,6624,existing,1.8,Solar Photovoltaic,NE
+3453,6626,existing,1,Solar Photovoltaic,SW
+3454,6627,existing,1,Solar Photovoltaic,SW
+3456,6631,existing,2,Solar Photovoltaic,NE
+3457,6632,existing,2,Solar Photovoltaic,CA
+3458,6633,existing,2.7,Solar Photovoltaic,NE
+3459,6634,existing,1.9,Solar Photovoltaic,SW
+3463,6640,existing,188,Onshore Wind Turbine,TX
+3464,6660,existing,143,Onshore Wind Turbine,CA
+3465,6661,existing,20,Solar Photovoltaic,N_CEN
+3473,6673,existing,1.5,Solar Photovoltaic,CA
+3481,6681,existing,0.5,Solar Photovoltaic,CA
+3482,6682,existing,0.5,Solar Photovoltaic,CA
+3483,6683,existing,0.5,Solar Photovoltaic,CA
+3484,6684,existing,0.5,Solar Photovoltaic,CA
+3485,6685,existing,0.5,Solar Photovoltaic,CA
+3486,6686,existing,0.5,Solar Photovoltaic,CA
+3487,6687,existing,0.5,Solar Photovoltaic,CA
+3488,6688,existing,0.5,Solar Photovoltaic,CA
+3489,6689,existing,0.5,Solar Photovoltaic,CA
+3490,6690,existing,0.5,Solar Photovoltaic,CA
+3508,6711,existing,20,Solar Photovoltaic,CA
+3509,6712,existing,20,Solar Photovoltaic,CA
+3510,6713,existing,57.6,Onshore Wind Turbine,NW
+3511,6714,existing,40,Onshore Wind Turbine,CEN
+3512,6715,existing,59.4,Onshore Wind Turbine,N_CEN
+3513,6716,existing,27.3,Onshore Wind Turbine,CEN
+3522,6725,existing,19,Solar Photovoltaic,SW
+3523,6726,existing,1.7,Solar Photovoltaic,NW
+3539,6742,existing,2.5,Onshore Wind Turbine,N_CEN
+3540,6743,existing,1,Solar Photovoltaic,MID_AT
+3542,6745,existing,101.2,Onshore Wind Turbine,N_CEN
+3543,6746,existing,105.6,Onshore Wind Turbine,N_CEN
+3544,6747,existing,44.6,Onshore Wind Turbine,N_CEN
+3545,6748,existing,200.1,Onshore Wind Turbine,N_CEN
+3551,6754,existing,1,Solar Photovoltaic,CA
+3552,6755,existing,1,Solar Photovoltaic,CA
+3553,6756,existing,2.7,Solar Photovoltaic,MID_AT
+3554,6757,existing,0.8,Solar Photovoltaic,MID_AT
+3555,6758,existing,0.2,Solar Photovoltaic,MID_AT
+3556,6759,existing,0.4,Solar Photovoltaic,MID_AT
+3557,6760,existing,0.5,Solar Photovoltaic,MID_AT
+3558,6761,existing,0.7,Solar Photovoltaic,MID_AT
+3559,6762,existing,0.3,Solar Photovoltaic,MID_AT
+3560,6763,existing,1.3,Solar Photovoltaic,MID_AT
+3561,6764,existing,4.1,Onshore Wind Turbine,NE
+3562,6765,existing,55.4,Onshore Wind Turbine,NE
+3563,6766,existing,78.2,Onshore Wind Turbine,CEN
+3582,6789,existing,2.4,Solar Photovoltaic,MID_AT
+3583,6790,existing,200,Onshore Wind Turbine,N_CEN
+3586,6793,existing,1.5,Solar Photovoltaic,CA
+3587,6794,existing,250,Solar Photovoltaic,SW
+3588,6795,existing,200,Onshore Wind Turbine,CEN
+3589,6797,existing,1.6,Onshore Wind Turbine,NE
+3598,6806,existing,14.4,Onshore Wind Turbine,N_CEN
+3599,6807,existing,32,Onshore Wind Turbine,N_CEN
+3600,6808,existing,64,Onshore Wind Turbine,N_CEN
+3601,6809,existing,1,Solar Photovoltaic,CA
+3602,6810,existing,3,Solar Photovoltaic,CA
+3603,6811,existing,1,Solar Photovoltaic,MID_AT
+3615,6823,existing,99,Onshore Wind Turbine,N_CEN
+3619,6827,existing,1.1,Solar Photovoltaic,CA
+3620,6828,existing,1.1,Solar Photovoltaic,CA
+3624,6832,existing,2,Solar Photovoltaic,NE
+3625,6833,existing,132,Onshore Wind Turbine,CA
+3626,6834,existing,1.5,Solar Photovoltaic,CA
+3627,6835,existing,150,Onshore Wind Turbine,CA
+3628,6836,existing,168,Onshore Wind Turbine,CA
+3629,6837,existing,150,Onshore Wind Turbine,CA
+3630,6838,existing,35,Onshore Wind Turbine,N_CEN
+3631,6839,existing,1.5,Solar Photovoltaic,CA
+3632,6840,existing,50,Onshore Wind Turbine,N_CEN
+3638,6846,existing,1,Solar Photovoltaic,CA
+3640,6848,existing,1.7,Onshore Wind Turbine,N_CEN
+3642,6850,existing,5,Solar Photovoltaic,CA
+3643,6851,existing,5,Solar Photovoltaic,CA
+3644,6852,existing,5,Solar Photovoltaic,CA
+3645,6853,existing,5,Solar Photovoltaic,CA
+3646,6854,existing,5,Solar Photovoltaic,CA
+3647,6855,existing,5,Solar Photovoltaic,CA
+3648,6857,existing,2.5,Onshore Wind Turbine,N_CEN
+3649,6858,existing,2.5,Onshore Wind Turbine,N_CEN
+3655,6864,existing,0.4,Solar Photovoltaic,CA
+3656,6865,existing,1.4,Solar Photovoltaic,MID_AT
+3657,6869,existing,3,Onshore Wind Turbine,NW
+3658,6870,existing,203,Onshore Wind Turbine,TX
+3659,6871,existing,105,Onshore Wind Turbine,N_CEN
+3660,6872,existing,105,Onshore Wind Turbine,N_CEN
+3661,6873,existing,1.4,Solar Photovoltaic,MID_AT
+3663,6875,existing,1.3,Solar Photovoltaic,CA
+3664,6876,existing,1.2,Solar Photovoltaic,CA
+3665,6877,existing,4.5,Solar Photovoltaic,SW
+3674,6886,existing,1,Onshore Wind Turbine,CA
+3675,6887,existing,1.5,Onshore Wind Turbine,CA
+3676,6888,existing,16.6,Solar Photovoltaic,SW
+3682,6894,existing,470.4,Onshore Wind Turbine,CEN
+3685,6897,existing,5,Solar Photovoltaic,CA
+3686,6898,existing,5,Solar Photovoltaic,CA
+3687,6899,existing,5,Solar Photovoltaic,CA
+3688,6900,existing,5,Solar Photovoltaic,CA
+3689,6901,existing,3,Solar Photovoltaic,CA
+3690,6902,existing,5,Solar Photovoltaic,CA
+3691,6903,existing,3,Solar Photovoltaic,CA
+3692,6904,existing,5,Solar Photovoltaic,CA
+3693,6905,existing,3,Solar Photovoltaic,CA
+3694,6906,existing,2.4,Solar Photovoltaic,MID_AT
+3695,6907,existing,10,Onshore Wind Turbine,SW
+3696,6908,existing,0.5,Solar Photovoltaic,SW
+3697,6909,existing,120,Onshore Wind Turbine,CA
+3698,6910,existing,1.2,Solar Photovoltaic,CA
+3699,6911,existing,1.3,Solar Photovoltaic,MID_AT
+3702,6914,existing,140.8,Onshore Wind Turbine,MID_AT
+3703,6915,existing,1.3,Solar Photovoltaic,MID_AT
+3704,6916,existing,1.5,Onshore Wind Turbine,N_CEN
+3705,6917,existing,79.2,Onshore Wind Turbine,NW
+3706,6918,existing,0.9,Solar Photovoltaic,SW
+3707,6919,existing,0.9,Solar Photovoltaic,SW
+3708,6920,existing,1,Solar Photovoltaic,SW
+3709,6921,existing,0.9,Solar Photovoltaic,SW
+3710,6922,existing,1,Solar Photovoltaic,SW
+3713,6925,existing,11.1,Solar Photovoltaic,CA
+3715,6927,existing,165.6,Onshore Wind Turbine,CEN
+3716,6928,existing,22.5,Onshore Wind Turbine,NW
+3717,6929,existing,22.5,Onshore Wind Turbine,NW
+3719,6931,existing,13.7,Solar Photovoltaic,MID_AT
+3720,6932,existing,151.7,Onshore Wind Turbine,CA
+3721,6933,existing,6,Onshore Wind Turbine,NW
+3722,6934,existing,40.5,Onshore Wind Turbine,CEN
+3725,6937,existing,1,Solar Photovoltaic,CA
+3726,6938,existing,201.6,Onshore Wind Turbine,TX
+3727,6939,existing,200,Onshore Wind Turbine,TX
+3728,6940,existing,0.8,Solar Photovoltaic,MID_AT
+3729,6941,existing,1.6,Solar Photovoltaic,MID_AT
+3730,6942,existing,22.4,Onshore Wind Turbine,NW
+3731,6943,existing,9.6,Onshore Wind Turbine,NW
+3732,6944,existing,2,Solar Photovoltaic,MID_AT
+3733,6945,existing,2.3,Solar Photovoltaic,MID_AT
+3734,6946,existing,3.7,Solar Photovoltaic,MID_AT
+3735,6947,existing,69,Onshore Wind Turbine,MID_AT
+3736,6948,existing,2.5,Solar Photovoltaic,CA
+3737,6949,existing,1.1,Solar Photovoltaic,MID_AT
+3738,6950,existing,2.1,Onshore Wind Turbine,CEN
+3740,6952,existing,2.1,Onshore Wind Turbine,CEN
+3742,6954,existing,10.1,Solar Photovoltaic,CEN
+3743,6955,existing,10.1,Solar Photovoltaic,CEN
+3744,6956,existing,10,Solar Photovoltaic,CEN
+3745,6957,existing,10,Solar Photovoltaic,CEN
+3746,6958,existing,10,Solar Photovoltaic,CEN
+3748,6960,existing,1.1,Solar Photovoltaic,MID_AT
+3749,6961,existing,1.4,Solar Photovoltaic,MID_AT
+3750,6962,existing,1.7,Onshore Wind Turbine,N_CEN
+3753,6966,existing,3.5,Solar Photovoltaic,MID_AT
+3754,6967,existing,2.5,Solar Photovoltaic,MID_AT
+3755,6968,existing,1.9,Solar Photovoltaic,MID_AT
+3756,6969,existing,102.5,Onshore Wind Turbine,CA
+3757,6970,existing,2.5,Solar Photovoltaic,MID_AT
+3758,6971,existing,4,Solar Photovoltaic,MID_AT
+3759,6972,existing,4,Solar Photovoltaic,CA
+3762,6975,existing,15,Onshore Wind Turbine,NE
+3774,6989,existing,110,Solar Photovoltaic,CA
+3775,6990,existing,16,Solar Photovoltaic,SW
+3776,6991,existing,12,Solar Photovoltaic,SW
+3777,6992,existing,16,Solar Photovoltaic,SW
+3778,6993,existing,8,Solar Photovoltaic,SW
+3779,6994,existing,16,Solar Photovoltaic,SW
+3780,6995,existing,16,Solar Photovoltaic,SW
+3781,6996,existing,10,Solar Photovoltaic,SW
+3782,6997,existing,16,Solar Photovoltaic,SW
+3783,6998,existing,16,Solar Photovoltaic,SW
+3784,6999,existing,16,Solar Photovoltaic,SW
+3785,7000,existing,12,Solar Photovoltaic,SW
+3786,7001,existing,16,Solar Photovoltaic,SW
+3796,7011,existing,78.2,Onshore Wind Turbine,CA
+3797,7012,existing,78.2,Onshore Wind Turbine,CA
+3798,7013,existing,30,Solar Photovoltaic,TX
+3799,7014,existing,2.7,Solar Photovoltaic,CA
+3800,7015,existing,3,Solar Photovoltaic,CA
+3802,7017,existing,112.5,Solar Photovoltaic,CA
+3803,7018,existing,90.3,Solar Photovoltaic,CA
+3804,7019,existing,102.1,Solar Photovoltaic,CA
+3805,7020,existing,151.2,Solar Photovoltaic,CA
+3806,7021,existing,129.8,Solar Photovoltaic,CA
+3807,7022,existing,0.1,Solar Photovoltaic,SW
+3808,7023,existing,0.4,Solar Photovoltaic,SW
+3809,7024,existing,0.4,Solar Photovoltaic,SW
+3810,7025,existing,0.5,Solar Photovoltaic,SW
+3811,7026,existing,1.2,Solar Photovoltaic,SW
+3812,7027,existing,0.7,Solar Photovoltaic,SW
+3813,7028,existing,2.3,Onshore Wind Turbine,SW
+3814,7029,existing,1.5,Onshore Wind Turbine,SW
+3815,7030,existing,2,Onshore Wind Turbine,SW
+3817,7032,existing,1.1,Solar Photovoltaic,SW
+3823,7038,existing,1,Solar Photovoltaic,SE
+3824,7039,existing,10,Solar Photovoltaic,SE
+3826,7041,existing,1.1,Solar Photovoltaic,CA
+3827,7042,existing,1.2,Solar Photovoltaic,CA
+3828,7043,existing,1,Solar Photovoltaic,SW
+3829,7044,existing,28,Solar Photovoltaic,SW
+3830,7045,existing,26,Solar Photovoltaic,SW
+3831,7046,existing,28,Solar Photovoltaic,SW
+3832,7047,existing,28,Solar Photovoltaic,SW
+3833,7048,existing,19,Solar Photovoltaic,SW
+3834,7050,existing,201,Onshore Wind Turbine,CEN
+3835,7051,existing,1,Solar Photovoltaic,MID_AT
+3836,7052,existing,1.8,Solar Photovoltaic,NE
+3837,7053,existing,150.4,Onshore Wind Turbine,N_CEN
+3838,7054,existing,2.3,Solar Photovoltaic,NE
+3839,7055,existing,3.5,Solar Photovoltaic,SW
+3842,7058,existing,2.9,Solar Photovoltaic,CA
+3843,7059,existing,2.9,Solar Photovoltaic,CA
+3844,7060,existing,17,Solar Photovoltaic,CA
+3845,7061,existing,0.4,Solar Photovoltaic,MID_AT
+3846,7062,existing,0.9,Solar Photovoltaic,MID_AT
+3847,7063,existing,3,Solar Photovoltaic,MID_AT
+3848,7064,existing,0.8,Solar Photovoltaic,MID_AT
+3849,7065,existing,1.5,Solar Photovoltaic,MID_AT
+3850,7066,existing,1.5,Solar Photovoltaic,MID_AT
+3873,7089,existing,131,Onshore Wind Turbine,CEN
+3874,7090,existing,12,Solar Photovoltaic,MID_AT
+3875,7091,existing,3.5,Solar Photovoltaic,MID_AT
+3876,7092,existing,4.3,Solar Photovoltaic,MID_AT
+3877,7094,existing,26.5,Solar Photovoltaic,SW
+3878,7095,existing,1.5,Solar Photovoltaic,CA
+3879,7096,existing,1.1,Solar Photovoltaic,CA
+3882,7099,existing,1,Solar Photovoltaic,NW
+3883,7100,existing,20,Solar Photovoltaic,CA
+3884,7101,existing,60,Solar Photovoltaic,CA
+3885,7102,existing,148.8,Onshore Wind Turbine,N_CEN
+3886,7103,existing,1.7,Onshore Wind Turbine,NE
+3887,7104,existing,1.7,Onshore Wind Turbine,NE
+3888,7105,existing,4.1,Solar Photovoltaic,MID_AT
+3889,7106,existing,1.4,Solar Photovoltaic,MID_AT
+3890,7107,existing,3.4,Solar Photovoltaic,SW
+3891,7108,existing,200,Onshore Wind Turbine,N_CEN
+3893,7110,existing,1.8,Onshore Wind Turbine,SW
+3894,7111,existing,1,Solar Photovoltaic,MID_AT
+3895,7112,existing,167.9,Onshore Wind Turbine,CEN
+3896,7113,existing,1,Onshore Wind Turbine,MID_AT
+3897,7114,existing,1,Onshore Wind Turbine,MID_AT
+3901,7118,existing,50,Onshore Wind Turbine,NW
+3902,7119,existing,1.5,Onshore Wind Turbine,N_CEN
+3903,7120,existing,1.5,Onshore Wind Turbine,N_CEN
+3908,7125,existing,100,Onshore Wind Turbine,N_CEN
+3909,7126,existing,2,Onshore Wind Turbine,CA
+3914,7133,existing,79.2,Onshore Wind Turbine,CA
+3915,7134,existing,99,Onshore Wind Turbine,MID_AT
+3916,7135,existing,250,Onshore Wind Turbine,TX
+3917,7136,existing,100,Onshore Wind Turbine,CEN
+3918,7137,existing,199,Onshore Wind Turbine,CEN
+3919,7138,existing,2.5,Onshore Wind Turbine,MID_AT
+3920,7140,existing,100,Onshore Wind Turbine,N_CEN
+3946,7166,existing,55.2,Onshore Wind Turbine,MID_AT
+3947,7167,existing,1,Onshore Wind Turbine,CA
+3948,7168,existing,79.9,Onshore Wind Turbine,CEN
+3949,7169,existing,5,Solar Photovoltaic,SW
+3950,7170,existing,99.2,Onshore Wind Turbine,CEN
+3951,7171,existing,31.5,Solar Photovoltaic,NE
+3952,7172,existing,2.6,Solar Photovoltaic,MID_AT
+3953,7173,existing,102.5,Onshore Wind Turbine,CA
+3963,7184,existing,0.5,Solar Photovoltaic,CA
+3964,7185,existing,0.3,Solar Photovoltaic,CA
+3967,7188,existing,0.4,Solar Photovoltaic,CA
+3968,7189,existing,0.9,Solar Photovoltaic,CA
+3969,7190,existing,9,Onshore Wind Turbine,NW
+3970,7191,existing,5,Solar Photovoltaic,SW
+3971,7192,existing,5,Solar Photovoltaic,SW
+3972,7193,existing,4,Solar Photovoltaic,SW
+3973,7194,existing,5,Solar Photovoltaic,SW
+3974,7195,existing,1.3,Solar Photovoltaic,MID_AT
+3976,7197,existing,2,Solar Photovoltaic,SW
+3977,7198,existing,5,Solar Photovoltaic,SW
+3978,7199,existing,4.5,Onshore Wind Turbine,MID_AT
+3979,7200,existing,50.6,Onshore Wind Turbine,NE
+3980,7201,existing,2,Solar Photovoltaic,SW
+3981,7202,existing,2.8,Onshore Wind Turbine,CA
+3982,7203,existing,2.5,Onshore Wind Turbine,CA
+3983,7204,existing,1.8,Onshore Wind Turbine,CA
+3985,7206,existing,5.1,Solar Photovoltaic,SE
+3989,7210,existing,5,Solar Photovoltaic,SW
+3990,7211,existing,17,Solar Photovoltaic,SW
+3992,7213,existing,17.6,Solar Photovoltaic,SW
+3994,7215,existing,17,Solar Photovoltaic,SW
+3996,7217,existing,19,Solar Photovoltaic,SW
+3997,7218,existing,4.5,Solar Photovoltaic,CA
+4000,7221,existing,1,Solar Photovoltaic,SW
+4004,7225,existing,5.5,Solar Photovoltaic,SW
+4005,7226,existing,20,Onshore Wind Turbine,N_CEN
+4010,7231,existing,290,Onshore Wind Turbine,NW
+4011,7232,existing,290,Onshore Wind Turbine,NW
+4012,7233,existing,1.5,Onshore Wind Turbine,N_CEN
+4014,7257,existing,0.5,Solar Photovoltaic,CA
+4015,7258,existing,0.5,Solar Photovoltaic,CA
+4016,7259,existing,0.5,Solar Photovoltaic,CA
+4017,7260,existing,0.5,Solar Photovoltaic,CA
+4018,7261,existing,0.5,Solar Photovoltaic,CA
+4019,7262,existing,0.5,Solar Photovoltaic,CA
+4020,7263,existing,0.5,Solar Photovoltaic,CA
+4021,7264,existing,0.5,Solar Photovoltaic,CA
+4022,7265,existing,0.5,Solar Photovoltaic,CA
+4023,7266,existing,0.5,Solar Photovoltaic,CA
+4024,7267,existing,0.5,Solar Photovoltaic,CA
+4025,7268,existing,0.5,Solar Photovoltaic,CA
+4026,7269,existing,0.5,Solar Photovoltaic,CA
+4027,7270,existing,0.5,Solar Photovoltaic,CA
+4028,7271,existing,0.5,Solar Photovoltaic,CA
+4029,7272,existing,0.5,Solar Photovoltaic,CA
+4030,7327,existing,0.5,Solar Photovoltaic,CA
+4031,7328,existing,0.5,Solar Photovoltaic,CA
+4032,7329,existing,0.5,Solar Photovoltaic,CA
+4033,7330,existing,0.5,Solar Photovoltaic,CA
+4034,7331,existing,0.5,Solar Photovoltaic,CA
+4035,7337,existing,186,Onshore Wind Turbine,NE
+4036,7338,existing,105.3,Onshore Wind Turbine,NW
+4037,7349,existing,265,Onshore Wind Turbine,NW
+4038,7351,existing,1.1,Solar Photovoltaic,SW
+4039,7352,existing,20,Solar Photovoltaic,CA
+4040,7353,existing,20,Solar Photovoltaic,CA
+4042,7355,existing,10,Solar Photovoltaic,CA
+4043,7356,existing,225,Onshore Wind Turbine,TX
+4044,7357,existing,1.9,Solar Photovoltaic,MID_AT
+4045,7360,existing,20,Onshore Wind Turbine,CEN
+4046,7361,existing,80,Onshore Wind Turbine,CEN
+4052,7367,existing,265.4,Onshore Wind Turbine,CA
+4053,7368,existing,2,Solar Photovoltaic,SW
+4054,7369,existing,3,Solar Photovoltaic,SW
+4055,7370,existing,1,Solar Photovoltaic,CA
+4062,7377,existing,443.9,Onshore Wind Turbine,N_CEN
+4063,7378,existing,119.6,Onshore Wind Turbine,N_CEN
+4064,7379,existing,15,Solar Photovoltaic,CA
+4065,7380,existing,15,Solar Photovoltaic,CA
+4066,7381,existing,20,Solar Photovoltaic,CA
+4069,7384,existing,1,Solar Photovoltaic,MID_AT
+4070,7385,existing,150.4,Onshore Wind Turbine,N_CEN
+4079,7394,existing,148.7,Solar Photovoltaic,CA
+4080,7395,existing,128.9,Solar Photovoltaic,CA
+4083,7398,existing,2,Solar Photovoltaic,MID_AT
+4084,7399,existing,3,Solar Photovoltaic,MID_AT
+4085,7400,existing,3,Solar Photovoltaic,MID_AT
+4086,7401,existing,8,Solar Photovoltaic,MID_AT
+4087,7402,existing,189,Onshore Wind Turbine,CA
+4100,7415,existing,2.2,Solar Photovoltaic,NE
+4102,7421,existing,10,Onshore Wind Turbine,TX
+4103,7422,existing,1.6,Solar Photovoltaic,NE
+4106,7425,existing,1,Solar Photovoltaic,MID_AT
+4108,7427,existing,150,Onshore Wind Turbine,N_CEN
+4109,7428,existing,66,Onshore Wind Turbine,N_CEN
+4115,7434,existing,1.8,Solar Photovoltaic,MID_AT
+4116,7435,existing,200,Onshore Wind Turbine,N_CEN
+4117,7436,existing,8,Solar Photovoltaic,MID_AT
+4118,7437,existing,1,Solar Photovoltaic,SE
+4119,7449,existing,49,Onshore Wind Turbine,CA
+4120,7450,existing,3.8,Solar Photovoltaic,MID_AT
+4123,7453,existing,26,Solar Photovoltaic,CA
+4126,7456,existing,302,Onshore Wind Turbine,MID_AT
+4127,7457,existing,18,Solar Photovoltaic,MID_AT
+4129,7459,existing,97.6,Onshore Wind Turbine,MID_AT
+4136,7466,existing,23,Onshore Wind Turbine,NW
+4145,7475,existing,52,Solar Photovoltaic,SW
+4146,7476,existing,0.5,Solar Photovoltaic,CA
+4147,7477,existing,0.5,Solar Photovoltaic,CA
+4148,7478,existing,0.5,Solar Photovoltaic,CA
+4149,7479,existing,0.5,Solar Photovoltaic,CA
+4150,7480,existing,0.5,Solar Photovoltaic,CA
+4151,7481,existing,0.5,Solar Photovoltaic,CA
+4152,7482,existing,0.5,Solar Photovoltaic,CA
+4153,7483,existing,0.5,Solar Photovoltaic,CA
+4154,7484,existing,0.5,Solar Photovoltaic,CA
+4155,7485,existing,0.5,Solar Photovoltaic,CA
+4156,7486,existing,40,Solar Photovoltaic,CA
+4157,7487,existing,70,Solar Photovoltaic,CA
+4158,7488,existing,86.5,Solar Photovoltaic,CA
+4159,7489,existing,21,Solar Photovoltaic,CA
+4160,7490,existing,32.3,Solar Photovoltaic,CA
+4161,7491,existing,1.6,Solar Photovoltaic,SE
+4164,7494,existing,1.3,Solar Photovoltaic,MID_AT
+4165,7495,existing,1.3,Solar Photovoltaic,MID_AT
+4166,7496,existing,1.3,Solar Photovoltaic,MID_AT
+4167,7497,existing,1.3,Solar Photovoltaic,MID_AT
+4168,7498,existing,1.3,Solar Photovoltaic,MID_AT
+4169,7499,existing,10,Onshore Wind Turbine,N_CEN
+4173,7503,existing,44,Onshore Wind Turbine,N_CEN
+4174,7504,existing,23,Onshore Wind Turbine,NW
+4175,7505,existing,23,Onshore Wind Turbine,NW
+4176,7506,existing,23,Onshore Wind Turbine,NW
+4177,7507,existing,23,Onshore Wind Turbine,NW
+4178,7508,existing,23,Onshore Wind Turbine,NW
+4182,7512,existing,210,Onshore Wind Turbine,N_CEN
+4183,7513,existing,1,Solar Photovoltaic,CA
+4184,7514,existing,102,Onshore Wind Turbine,N_CEN
+4187,7517,existing,40.8,Onshore Wind Turbine,N_CEN
+4188,7518,existing,145,Onshore Wind Turbine,TX
+4189,7519,existing,1.7,Onshore Wind Turbine,NE
+4190,7520,existing,3,Solar Photovoltaic,MID_AT
+4215,7545,existing,1.2,Solar Photovoltaic,SE
+4224,7555,existing,1.6,Solar Photovoltaic,MID_AT
+4225,7556,existing,2.5,Solar Photovoltaic,MID_AT
+4226,7557,existing,20,Onshore Wind Turbine,N_CEN
+4227,7558,existing,125,Solar Thermal without Energy Storage,CA
+4228,7559,existing,125,Solar Thermal without Energy Storage,CA
+4231,7562,existing,1.2,Solar Photovoltaic,SW
+4232,7564,existing,2.6,Solar Photovoltaic,MID_AT
+4233,7565,existing,62.4,Onshore Wind Turbine,N_CEN
+4234,7566,existing,25.3,Onshore Wind Turbine,N_CEN
+4235,7567,existing,30,Onshore Wind Turbine,N_CEN
+4236,7568,existing,2.5,Solar Photovoltaic,MID_AT
+4237,7569,existing,1.5,Solar Photovoltaic,MID_AT
+4238,7570,existing,3.6,Solar Photovoltaic,MID_AT
+4239,7571,existing,2.7,Solar Photovoltaic,MID_AT
+4240,7572,existing,28.5,Onshore Wind Turbine,NE
+4241,7573,existing,65.1,Onshore Wind Turbine,SW
+4242,7574,existing,253,Solar Photovoltaic,CA
+4243,7575,existing,9,Solar Photovoltaic,SW
+4244,7576,existing,10,Solar Photovoltaic,SW
+4247,7579,existing,20,Onshore Wind Turbine,N_CEN
+4248,7580,existing,205.5,Onshore Wind Turbine,N_CEN
+4249,7581,existing,121,Solar Photovoltaic,SW
+4250,7582,existing,136,Solar Photovoltaic,SW
+4251,7583,existing,90.7,Solar Photovoltaic,SW
+4253,7585,existing,1.6,Solar Photovoltaic,NW
+4254,7587,existing,30,Solar Photovoltaic,SW
+4255,7588,existing,3,Solar Photovoltaic,MID_AT
+4264,7597,existing,1.3,Solar Photovoltaic,MID_AT
+4265,7598,existing,2,Solar Photovoltaic,MID_AT
+4266,7599,existing,19,Solar Photovoltaic,CA
+4267,7600,existing,20,Solar Photovoltaic,CA
+4268,7601,existing,6,Solar Photovoltaic,CA
+4269,7602,existing,151.8,Onshore Wind Turbine,CEN
+4270,7603,existing,102.4,Onshore Wind Turbine,SW
+4283,7616,existing,4.5,Onshore Wind Turbine,NE
+4286,7619,existing,1,Solar Photovoltaic,MID_AT
+4287,7620,existing,1.5,Onshore Wind Turbine,N_CEN
+4288,7621,existing,1.5,Onshore Wind Turbine,N_CEN
+4289,7622,existing,1.5,Onshore Wind Turbine,N_CEN
+4294,7627,existing,102.4,Onshore Wind Turbine,CEN
+4295,7628,existing,99.2,Onshore Wind Turbine,CEN
+4296,7629,existing,98.9,Onshore Wind Turbine,CEN
+4304,7637,existing,150,Onshore Wind Turbine,N_CEN
+4305,7638,existing,1.7,Solar Photovoltaic,MID_AT
+4306,7640,existing,20.2,Solar Photovoltaic,SW
+4307,7641,existing,10,Solar Photovoltaic,MID_AT
+4308,7642,existing,1,Solar Photovoltaic,SE
+4309,7643,existing,1.3,Solar Photovoltaic,SE
+4310,7644,existing,1.9,Solar Photovoltaic,SE
+4311,7645,existing,201,Onshore Wind Turbine,NW
+4312,7646,existing,227,Onshore Wind Turbine,CEN
+4313,7647,existing,140,Solar Thermal without Energy Storage,CA
+4314,7648,existing,140,Solar Thermal without Energy Storage,CA
+4315,7649,existing,1.2,Solar Photovoltaic,MID_AT
+4316,7650,existing,200,Onshore Wind Turbine,NW
+4317,7651,existing,49.5,Onshore Wind Turbine,CEN
+4318,7652,existing,217.5,Onshore Wind Turbine,N_CEN
+4321,7657,existing,1.2,Solar Photovoltaic,SE
+4322,7658,existing,151.2,Onshore Wind Turbine,NW
+4323,7659,existing,50,Onshore Wind Turbine,NW
+4324,7660,existing,20,Solar Photovoltaic,SW
+4325,7661,existing,35,Solar Photovoltaic,SW
+4326,7662,existing,252,Onshore Wind Turbine,SW
+4327,7663,existing,1.2,Solar Photovoltaic,CA
+4328,7664,existing,1.2,Solar Photovoltaic,CA
+4329,7666,existing,1,Solar Photovoltaic,CA
+4330,7667,existing,1.3,Solar Photovoltaic,CA
+4331,7668,existing,1.1,Solar Photovoltaic,CA
+4332,7669,existing,2.2,Solar Photovoltaic,CA
+4333,7671,existing,8.5,Solar Photovoltaic,CA
+4334,7672,existing,10,Solar Photovoltaic,CA
+4335,7674,existing,75,Onshore Wind Turbine,TX
+4336,7675,existing,75,Onshore Wind Turbine,TX
+4337,7676,existing,6.5,Onshore Wind Turbine,CA
+4338,7677,existing,8,Onshore Wind Turbine,CA
+4339,7678,existing,70,Onshore Wind Turbine,MID_AT
+4340,7679,existing,111,Onshore Wind Turbine,NW
+4359,7698,existing,1.6,Onshore Wind Turbine,N_CEN
+4360,7699,existing,1.6,Onshore Wind Turbine,N_CEN
+4364,7703,existing,66,Solar Photovoltaic,CA
+4365,7704,existing,168,Onshore Wind Turbine,CA
+4366,7705,existing,102,Onshore Wind Turbine,CA
+4367,7706,existing,150,Onshore Wind Turbine,CA
+4368,7707,existing,150,Onshore Wind Turbine,CA
+4369,7708,existing,151.8,Onshore Wind Turbine,SW
+4370,7709,existing,22.5,Onshore Wind Turbine,SW
+4371,7710,existing,36,Onshore Wind Turbine,N_CEN
+4372,7711,existing,74,Onshore Wind Turbine,NE
+4373,7712,existing,101.2,Onshore Wind Turbine,CEN
+4374,7713,existing,50,Onshore Wind Turbine,MID_AT
+4375,7714,existing,200,Onshore Wind Turbine,N_CEN
+4377,7716,existing,60,Onshore Wind Turbine,CEN
+4378,7717,existing,150,Onshore Wind Turbine,CA
+4380,7719,existing,1,Solar Photovoltaic,MID_AT
+4381,7720,existing,40,Onshore Wind Turbine,CEN
+4382,7721,existing,125,Solar Thermal with Energy Storage,SW
+4383,7722,existing,20,Onshore Wind Turbine,N_CEN
+4384,7723,existing,1,Solar Photovoltaic,NE
+4385,7724,existing,1,Solar Photovoltaic,NE
+4386,7725,existing,38,Onshore Wind Turbine,MID_AT
+4391,7730,existing,1,Solar Photovoltaic,NE
+4392,7731,existing,10,Onshore Wind Turbine,CEN
+4393,7732,existing,10,Onshore Wind Turbine,CEN
+4394,7733,existing,79.9,Onshore Wind Turbine,CEN
+4395,7734,existing,130,Onshore Wind Turbine,CEN
+4396,7735,existing,150,Onshore Wind Turbine,TX
+4397,7736,existing,2.5,Onshore Wind Turbine,CEN
+4398,7737,existing,2.5,Onshore Wind Turbine,CEN
+4399,7738,existing,2.5,Onshore Wind Turbine,CEN
+4400,7739,existing,0.6,Onshore Wind Turbine,CEN
+4401,7740,existing,0.6,Onshore Wind Turbine,CEN
+4402,7741,existing,0.7,Onshore Wind Turbine,CEN
+4403,7742,existing,1,Onshore Wind Turbine,N_CEN
+4405,7744,existing,10.1,Solar Photovoltaic,MID_AT
+4408,7747,existing,1,Solar Photovoltaic,CA
+4409,7748,existing,1.5,Onshore Wind Turbine,NE
+4410,7749,existing,1.5,Onshore Wind Turbine,NE
+4411,7750,existing,1.5,Onshore Wind Turbine,NE
+4412,7751,existing,10.5,Onshore Wind Turbine,N_CEN
+4413,7752,existing,10.5,Onshore Wind Turbine,N_CEN
+4422,7761,existing,2.1,Onshore Wind Turbine,N_CEN
+4424,7763,existing,0.5,Solar Photovoltaic,CA
+4425,7764,existing,0.5,Solar Photovoltaic,CA
+4426,7765,existing,0.5,Solar Photovoltaic,CA
+4427,7766,existing,0.5,Solar Photovoltaic,CA
+4428,7767,existing,0.5,Solar Photovoltaic,CA
+4429,7768,existing,0.5,Solar Photovoltaic,CA
+4430,7769,existing,0.5,Solar Photovoltaic,CA
+4433,7772,existing,0.5,Solar Photovoltaic,CA
+4434,7773,existing,0.5,Solar Photovoltaic,CA
+4435,7774,existing,0.5,Solar Photovoltaic,CA
+4436,7775,existing,0.5,Solar Photovoltaic,CA
+4437,7776,existing,0.5,Solar Photovoltaic,CA
+4438,7777,existing,0.5,Solar Photovoltaic,CA
+4439,7778,existing,0.5,Solar Photovoltaic,CA
+4440,7779,existing,0.5,Solar Photovoltaic,CA
+4441,7780,existing,0.5,Solar Photovoltaic,CA
+4442,7781,existing,0.5,Solar Photovoltaic,CA
+4443,7782,existing,0.5,Solar Photovoltaic,CA
+4444,7783,existing,0.5,Solar Photovoltaic,CA
+4445,7784,existing,0.5,Solar Photovoltaic,CA
+4446,7785,existing,0.5,Solar Photovoltaic,CA
+4447,7786,existing,0.5,Solar Photovoltaic,CA
+4448,7787,existing,0.5,Solar Photovoltaic,CA
+4449,7788,existing,51,Onshore Wind Turbine,SW
+4450,7789,existing,30.6,Solar Photovoltaic,SW
+4452,7792,existing,10,Onshore Wind Turbine,MID_AT
+4453,7793,existing,40,Onshore Wind Turbine,MID_AT
+4454,7794,existing,0.5,Solar Photovoltaic,CA
+4455,7795,existing,0.5,Solar Photovoltaic,CA
+4456,7796,existing,0.5,Solar Photovoltaic,CA
+4457,7797,existing,0.5,Solar Photovoltaic,CA
+4459,7799,existing,0.5,Solar Photovoltaic,CA
+4460,7800,existing,0.5,Solar Photovoltaic,CA
+4461,7801,existing,0.5,Solar Photovoltaic,CA
+4462,7802,existing,0.5,Solar Photovoltaic,CA
+4463,7803,existing,0.5,Solar Photovoltaic,CA
+4465,7826,existing,0.5,Solar Photovoltaic,CA
+4466,7827,existing,0.5,Solar Photovoltaic,CA
+4467,7828,existing,0.5,Solar Photovoltaic,CA
+4469,7830,existing,0.5,Solar Photovoltaic,CA
+4470,7831,existing,0.5,Solar Photovoltaic,CA
+4471,7832,existing,0.5,Solar Photovoltaic,CA
+4472,7833,existing,0.5,Solar Photovoltaic,CA
+4473,7834,existing,0.5,Solar Photovoltaic,CA
+4474,7835,existing,0.5,Solar Photovoltaic,CA
+4475,7836,existing,0.5,Solar Photovoltaic,CA
+4476,7837,existing,0.5,Solar Photovoltaic,CA
+4477,7838,existing,0.5,Solar Photovoltaic,CA
+4478,7839,existing,0.5,Solar Photovoltaic,CA
+4479,7840,existing,0.5,Solar Photovoltaic,CA
+4480,7841,existing,0.5,Solar Photovoltaic,CA
+4481,7842,existing,0.5,Solar Photovoltaic,CA
+4482,7843,existing,0.5,Solar Photovoltaic,CA
+4483,7844,existing,0.5,Solar Photovoltaic,CA
+4484,7845,existing,0.5,Solar Photovoltaic,CA
+4485,7846,existing,0.5,Solar Photovoltaic,CA
+4486,7850,existing,0.5,Solar Photovoltaic,CA
+4487,7851,existing,0.5,Solar Photovoltaic,CA
+4488,7852,existing,0.5,Solar Photovoltaic,CA
+4489,7853,existing,0.5,Solar Photovoltaic,CA
+4490,7854,existing,0.5,Solar Photovoltaic,CA
+4491,7855,existing,0.5,Solar Photovoltaic,CA
+4492,7856,existing,0.5,Solar Photovoltaic,CA
+4494,7858,existing,0.5,Solar Photovoltaic,CA
+4495,7859,existing,0.5,Solar Photovoltaic,CA
+4496,7860,existing,0.5,Solar Photovoltaic,CA
+4497,7861,existing,0.5,Solar Photovoltaic,CA
+4498,7862,existing,0.5,Solar Photovoltaic,CA
+4499,7863,existing,0.5,Solar Photovoltaic,CA
+4500,7864,existing,0.5,Solar Photovoltaic,CA
+4501,7865,existing,0.5,Solar Photovoltaic,CA
+4503,7867,existing,0.5,Solar Photovoltaic,CA
+4504,7868,existing,0.5,Solar Photovoltaic,CA
+4505,7869,existing,0.5,Solar Photovoltaic,CA
+4507,7871,existing,0.5,Solar Photovoltaic,CA
+4508,7872,existing,0.5,Solar Photovoltaic,CA
+4510,7874,existing,0.5,Solar Photovoltaic,CA
+4511,7875,existing,0.5,Solar Photovoltaic,CA
+4512,7876,existing,0.5,Solar Photovoltaic,CA
+4513,7877,existing,0.5,Solar Photovoltaic,CA
+4514,7878,existing,0.5,Solar Photovoltaic,CA
+4515,7879,existing,0.5,Solar Photovoltaic,CA
+4516,7880,existing,0.5,Solar Photovoltaic,CA
+4517,7881,existing,0.5,Solar Photovoltaic,CA
+4518,7882,existing,0.5,Solar Photovoltaic,CA
+4519,7883,existing,0.5,Solar Photovoltaic,CA
+4520,7884,existing,0.5,Solar Photovoltaic,CA
+4521,7885,existing,0.5,Solar Photovoltaic,CA
+4522,7886,existing,0.5,Solar Photovoltaic,CA
+4523,7887,existing,0.5,Solar Photovoltaic,CA
+4524,7888,existing,0.5,Solar Photovoltaic,CA
+4525,7889,existing,0.5,Solar Photovoltaic,CA
+4526,7890,existing,0.5,Solar Photovoltaic,CA
+4527,7891,existing,0.5,Solar Photovoltaic,CA
+4528,7895,existing,0.5,Solar Photovoltaic,CA
+4529,7896,existing,0.5,Solar Photovoltaic,CA
+4530,7897,existing,0.8,Solar Photovoltaic,MID_AT
+4531,7898,existing,1,Solar Photovoltaic,MID_AT
+4532,7899,existing,1,Solar Photovoltaic,MID_AT
+4533,7900,existing,0.9,Onshore Wind Turbine,N_CEN
+4534,7901,existing,0.9,Onshore Wind Turbine,N_CEN
+4535,7902,existing,0.9,Onshore Wind Turbine,N_CEN
+4538,7905,existing,200.1,Onshore Wind Turbine,TX
+4539,7906,existing,124.5,Onshore Wind Turbine,NW
+4540,7907,existing,248.3,Onshore Wind Turbine,SW
+4546,7918,existing,10,Solar Photovoltaic,SW
+4547,7919,existing,10,Solar Photovoltaic,SW
+4548,7920,existing,10,Solar Photovoltaic,SW
+4549,7921,existing,10,Solar Photovoltaic,SW
+4550,7922,existing,8,Solar Photovoltaic,SW
+4551,7923,existing,2.2,Solar Photovoltaic,MID_AT
+4552,7924,existing,10,Solar Photovoltaic,MID_AT
+4553,7925,existing,15,Solar Photovoltaic,SE
+4554,7926,existing,36.8,Onshore Wind Turbine,CA
+4555,7927,existing,1,Solar Photovoltaic,SE
+4556,7928,existing,162,Onshore Wind Turbine,N_CEN
+4557,7929,existing,201.3,Onshore Wind Turbine,N_CEN
+4558,7930,existing,13.9,Solar Photovoltaic,TX
+4560,7932,existing,342.7,Onshore Wind Turbine,NW
+4561,7933,existing,99,Onshore Wind Turbine,CEN
+4562,7935,existing,150,Onshore Wind Turbine,SW
+4563,7936,existing,9,Solar Photovoltaic,N_CEN
+4570,7943,existing,150,Onshore Wind Turbine,CEN
+4571,7944,existing,90,Onshore Wind Turbine,NW
+4585,7966,existing,3.2,Onshore Wind Turbine,MID_AT
+4587,7970,existing,98.7,Onshore Wind Turbine,MID_AT
+4588,7971,existing,2,Onshore Wind Turbine,MID_AT
+4590,7973,existing,25.1,Onshore Wind Turbine,SW
+4591,7974,existing,71,Onshore Wind Turbine,SW
+4595,7978,existing,19.5,Onshore Wind Turbine,N_CEN
+4623,8009,existing,262.2,Onshore Wind Turbine,NW
+4624,8010,existing,120,Onshore Wind Turbine,TX
+4625,8012,existing,150,Onshore Wind Turbine,TX
+4626,8013,existing,98.9,Onshore Wind Turbine,NW
+4627,8014,existing,100.5,Onshore Wind Turbine,MID_AT
+4628,8015,existing,1.9,Solar Photovoltaic,SW
+4629,8016,existing,62.5,Onshore Wind Turbine,MID_AT
+4631,8018,existing,63,Onshore Wind Turbine,NW
+4632,8019,existing,16.8,Onshore Wind Turbine,NW
+4633,8020,existing,240,Onshore Wind Turbine,N_CEN
+4637,8027,existing,60,Onshore Wind Turbine,N_CEN
+4638,8028,existing,4.5,Onshore Wind Turbine,NE
+4642,8040,existing,21,Onshore Wind Turbine,NW
+4643,8041,existing,22.5,Onshore Wind Turbine,NW
+4644,8042,existing,21,Onshore Wind Turbine,NW
+4653,8051,existing,120,Onshore Wind Turbine,N_CEN
+4654,8052,existing,49.5,Onshore Wind Turbine,CEN
+4656,8054,existing,12.5,Onshore Wind Turbine,CEN
+4657,8055,existing,98,Onshore Wind Turbine,N_CEN
+4658,8056,existing,103.5,Onshore Wind Turbine,MID_AT
+4659,8057,existing,200,Onshore Wind Turbine,N_CEN
+4660,8058,existing,99,Onshore Wind Turbine,MID_AT
+4661,8059,existing,100,Onshore Wind Turbine,N_CEN
+4662,8060,existing,102,Onshore Wind Turbine,N_CEN
+4663,8061,existing,199.7,Onshore Wind Turbine,MID_AT
+4664,8062,existing,99,Onshore Wind Turbine,CEN
+4665,8063,existing,102,Onshore Wind Turbine,SW
+4666,8064,existing,1.5,Onshore Wind Turbine,CEN
+4673,8071,existing,63,Onshore Wind Turbine,SW
+4674,8072,existing,149,Onshore Wind Turbine,N_CEN
+4675,8073,existing,98.7,Onshore Wind Turbine,NW
+4676,8074,existing,201,Onshore Wind Turbine,TX
+4677,8075,existing,300,Onshore Wind Turbine,N_CEN
+4678,8076,existing,17,Onshore Wind Turbine,NW
+4679,8077,existing,42,Onshore Wind Turbine,NW
+4680,8078,existing,99,Onshore Wind Turbine,NW
+4681,8083,existing,34.5,Onshore Wind Turbine,NE
+4682,8086,existing,1.8,Solar Photovoltaic,MID_AT
+4683,8087,existing,2.3,Solar Photovoltaic,MID_AT
+4684,8088,existing,40,Onshore Wind Turbine,NE
+4685,8089,existing,203.5,Onshore Wind Turbine,SW
+4686,8090,existing,15,Onshore Wind Turbine,NE
+4689,8093,existing,133.4,Solar Thermal without Energy Storage,CA
+4690,8094,existing,133,Solar Thermal without Energy Storage,CA
+4691,8095,existing,133.4,Solar Thermal without Energy Storage,CA
+4706,8177,existing,103.5,Onshore Wind Turbine,NW
+4707,8178,existing,106.5,Onshore Wind Turbine,NW
+4708,8180,existing,201,Onshore Wind Turbine,N_CEN
+4711,8183,existing,25,Onshore Wind Turbine,CEN
+4712,8184,existing,100.5,Onshore Wind Turbine,MID_AT
+4716,8188,existing,2,Solar Photovoltaic,CA
+4717,8189,existing,99,Onshore Wind Turbine,NW
+4718,8190,existing,28.5,Onshore Wind Turbine,NW
+4719,8191,existing,45,Onshore Wind Turbine,N_CEN
+4720,8192,existing,36.8,Onshore Wind Turbine,N_CEN
+4730,8206,existing,40.5,Onshore Wind Turbine,N_CEN
+4731,8207,existing,48,Onshore Wind Turbine,N_CEN
+4732,8208,existing,49.5,Onshore Wind Turbine,N_CEN
+4817,8293,existing,1,Solar Photovoltaic,CA
+4818,8294,existing,1,Solar Photovoltaic,CA
+4819,8295,existing,1,Solar Photovoltaic,CA
+4820,8296,existing,1,Solar Photovoltaic,CA
+4821,8297,existing,1,Solar Photovoltaic,CA
+4822,8298,existing,1,Solar Photovoltaic,CA
+4823,8299,existing,1,Solar Photovoltaic,CA
+4824,8300,existing,1,Solar Photovoltaic,CA
+4825,8301,existing,1,Solar Photovoltaic,CA
+4828,8304,existing,148,Onshore Wind Turbine,NE
+4842,8318,existing,0.5,Solar Photovoltaic,CA
+4843,8319,existing,0.5,Solar Photovoltaic,CA
+4845,8321,existing,100.5,Onshore Wind Turbine,N_CEN
+4846,8322,existing,3,Solar Photovoltaic,MID_AT
+4847,8323,existing,25.5,Onshore Wind Turbine,NE
+4848,8324,existing,60,Onshore Wind Turbine,NE
+4849,8325,existing,57,Onshore Wind Turbine,NE
+4858,8334,existing,148.5,Onshore Wind Turbine,CEN
+4860,8336,existing,197,Onshore Wind Turbine,TX
+4861,8337,existing,180,Onshore Wind Turbine,TX
+4866,8342,existing,249,Onshore Wind Turbine,TX
+4867,8343,existing,52.5,Onshore Wind Turbine,MID_AT
+4868,8344,existing,199.5,Onshore Wind Turbine,TX
+4873,8354,existing,6.6,Onshore Wind Turbine,NW
+4874,8355,existing,3.3,Onshore Wind Turbine,NW
+4875,8356,existing,9.9,Onshore Wind Turbine,NW
+4876,8357,existing,8.3,Onshore Wind Turbine,NW
+4877,8358,existing,9.9,Onshore Wind Turbine,NW
+4878,8359,existing,10,Onshore Wind Turbine,NW
+4879,8360,existing,10,Onshore Wind Turbine,NW
+4880,8361,existing,1.7,Onshore Wind Turbine,NW
+4881,8362,existing,5,Onshore Wind Turbine,NW
+4882,8363,existing,2.9,Solar Photovoltaic,SE
+4883,8364,existing,1,Solar Photovoltaic,SE
+4899,8380,existing,92.5,Onshore Wind Turbine,TX
+4900,8381,existing,60,Onshore Wind Turbine,TX
+4902,8383,existing,29.4,Onshore Wind Turbine,NW
+4903,8384,existing,58.8,Onshore Wind Turbine,TX
+4915,8396,existing,180,Onshore Wind Turbine,TX
+4922,8404,existing,112,Onshore Wind Turbine,NE
+4923,8405,existing,72,Onshore Wind Turbine,NW
+4938,8420,existing,81,Onshore Wind Turbine,CEN
+4939,8421,existing,18.9,Onshore Wind Turbine,CEN
+4940,8422,existing,100,Onshore Wind Turbine,SW
+4941,8423,existing,10,Solar Photovoltaic,SW
+4942,8424,existing,30,Onshore Wind Turbine,N_CEN
+4943,8425,existing,99,Onshore Wind Turbine,N_CEN
+4944,8426,existing,10.5,Onshore Wind Turbine,N_CEN
+4945,8427,existing,49.5,Onshore Wind Turbine,N_CEN
+4946,8428,existing,51,Onshore Wind Turbine,N_CEN
+4947,8429,existing,99,Onshore Wind Turbine,N_CEN
+4951,8433,existing,21,Solar Photovoltaic,CA
+4952,8434,existing,1.2,Solar Photovoltaic,SE
+4960,8442,existing,18.9,Onshore Wind Turbine,NW
+4961,8443,existing,10.5,Onshore Wind Turbine,NW
+4962,8444,existing,9.9,Onshore Wind Turbine,NW
+4964,8446,existing,10,Solar Photovoltaic,SE
+4965,8447,existing,25,Solar Photovoltaic,SE
+4967,8449,existing,200,Onshore Wind Turbine,N_CEN
+4968,8450,existing,150,Onshore Wind Turbine,N_CEN
+4969,8451,existing,150,Onshore Wind Turbine,N_CEN
+4970,8452,existing,1,Solar Photovoltaic,SW
+4971,8453,existing,0.5,Solar Photovoltaic,SW
+4972,8454,existing,115.5,Onshore Wind Turbine,TX
+4973,8455,existing,142.5,Onshore Wind Turbine,TX
+4974,8456,existing,148.5,Onshore Wind Turbine,N_CEN
+4976,8458,existing,34.3,Solar Photovoltaic,CA
+4977,8459,existing,64.6,Solar Photovoltaic,CA
+4978,8460,existing,101,Solar Photovoltaic,CA
+4979,8461,existing,0.5,Solar Photovoltaic,SE
+4980,8462,existing,0.5,Solar Photovoltaic,SE
+4981,8463,existing,0.5,Solar Photovoltaic,SE
+4982,8464,existing,0.5,Solar Photovoltaic,SE
+4985,8467,existing,50,Onshore Wind Turbine,N_CEN
+4986,8468,existing,40.5,Onshore Wind Turbine,N_CEN
+4989,8471,existing,0.3,Solar Photovoltaic,CA
+4990,8472,existing,0.3,Solar Photovoltaic,CA
+4991,8473,existing,0.3,Solar Photovoltaic,CA
+4992,8474,existing,0.3,Solar Photovoltaic,CA
+4996,8478,existing,114,Onshore Wind Turbine,CEN
+4997,8479,existing,106.5,Onshore Wind Turbine,NE
+4998,8481,existing,126,Onshore Wind Turbine,NE
+4999,8482,existing,97.5,Onshore Wind Turbine,NE
+5000,8483,existing,0.5,Solar Photovoltaic,MID_AT
+5001,8484,existing,0.5,Solar Photovoltaic,MID_AT
+5002,8485,existing,0.5,Solar Photovoltaic,MID_AT
+5003,8486,existing,0.5,Solar Photovoltaic,MID_AT
+5027,8510,existing,1.7,Solar Photovoltaic,MID_AT
+5034,8517,existing,0.5,Solar Photovoltaic,MID_AT
+5035,8518,existing,0.5,Solar Photovoltaic,MID_AT
+5036,8519,existing,0.5,Solar Photovoltaic,MID_AT
+5037,8520,existing,0.5,Solar Photovoltaic,MID_AT
+5045,8530,existing,2.4,Solar Photovoltaic,MID_AT
+5046,8531,existing,0.1,Solar Photovoltaic,MID_AT
+5047,8532,existing,0.2,Solar Photovoltaic,MID_AT
+5048,8533,existing,0.2,Solar Photovoltaic,MID_AT
+5049,8534,existing,0.2,Solar Photovoltaic,MID_AT
+5050,8535,existing,0.1,Solar Photovoltaic,MID_AT
+5051,8536,existing,0.2,Solar Photovoltaic,MID_AT
+5052,8537,existing,0.1,Solar Photovoltaic,MID_AT
+5053,8538,existing,0.2,Solar Photovoltaic,MID_AT
+5054,8539,existing,0.2,Solar Photovoltaic,MID_AT
+5059,8544,existing,49.7,Onshore Wind Turbine,CEN
+5060,8545,existing,106,Onshore Wind Turbine,N_CEN
+5061,8546,existing,1.6,Solar Photovoltaic,MID_AT
+5062,8547,existing,100.5,Onshore Wind Turbine,N_CEN
+5063,8548,existing,1,Solar Photovoltaic,CA
+5064,8549,existing,150,Onshore Wind Turbine,CA
+5128,8618,existing,0.3,Solar Photovoltaic,CA
+5129,8619,existing,0.3,Solar Photovoltaic,CA
+5130,8620,existing,0.3,Solar Photovoltaic,CA
+5131,8621,existing,0.3,Solar Photovoltaic,CA
+5132,8622,existing,14.7,Onshore Wind Turbine,N_CEN
+5133,8623,existing,21,Onshore Wind Turbine,N_CEN
+5134,8624,existing,100.7,Onshore Wind Turbine,NW
+5135,8625,existing,215,Onshore Wind Turbine,NE
+5136,8626,existing,100.5,Onshore Wind Turbine,N_CEN
+5137,8627,existing,103,Onshore Wind Turbine,NW
+5138,8628,existing,97,Onshore Wind Turbine,NW
+5153,8644,existing,19.5,Onshore Wind Turbine,NW
+5154,8645,existing,99,Onshore Wind Turbine,NW
+5155,8646,existing,99,Onshore Wind Turbine,NW
+5156,8647,existing,39,Onshore Wind Turbine,NW
+5157,8648,existing,99,Onshore Wind Turbine,NW
+5158,8649,existing,2.1,Onshore Wind Turbine,N_CEN
+5159,8650,existing,10,Onshore Wind Turbine,CEN
+5160,8651,existing,10,Onshore Wind Turbine,CEN
+5161,8652,existing,10,Onshore Wind Turbine,CEN
+5162,8653,existing,10,Onshore Wind Turbine,CEN
+5163,8654,existing,10,Onshore Wind Turbine,CEN
+5164,8655,existing,10,Onshore Wind Turbine,CEN
+5173,8664,existing,99,Onshore Wind Turbine,N_CEN
+5174,8665,existing,66,Onshore Wind Turbine,NE
+5175,8666,existing,66,Onshore Wind Turbine,NE
+5176,8667,existing,2.1,Onshore Wind Turbine,N_CEN
+5177,8668,existing,2.1,Onshore Wind Turbine,N_CEN
+5178,8669,existing,4.2,Onshore Wind Turbine,N_CEN
+5179,8670,existing,4.2,Onshore Wind Turbine,N_CEN
+5180,8671,existing,4.2,Onshore Wind Turbine,N_CEN
+5181,8672,existing,165.6,Onshore Wind Turbine,TX
+5182,8676,existing,50,Onshore Wind Turbine,CEN
+5183,8677,existing,99,Onshore Wind Turbine,CEN
+5184,8678,existing,1.9,Solar Photovoltaic,SW
+5185,8679,existing,0.5,Solar Photovoltaic,CA
+5186,8680,existing,0.5,Solar Photovoltaic,CA
+5187,8681,existing,0.5,Solar Photovoltaic,CA
+5188,8682,existing,0.5,Solar Photovoltaic,CA
+5189,8683,existing,140,Solar Thermal with Energy Storage,SW
+5190,8684,existing,140,Solar Thermal with Energy Storage,SW
+5191,8685,existing,153,Onshore Wind Turbine,N_CEN
+5192,8686,existing,174.8,Onshore Wind Turbine,N_CEN
+5193,8687,existing,150,Onshore Wind Turbine,N_CEN
+5201,8695,existing,100.5,Onshore Wind Turbine,N_CEN
+5202,8696,existing,123,Onshore Wind Turbine,CEN
+5207,8701,existing,1.8,Onshore Wind Turbine,NE
+5214,8708,existing,300,Onshore Wind Turbine,N_CEN
+5215,8709,existing,50.4,Onshore Wind Turbine,MID_AT
+5216,8710,existing,201.6,Onshore Wind Turbine,TX
+5217,8711,existing,49.5,Onshore Wind Turbine,N_CEN
+5218,8712,existing,99,Onshore Wind Turbine,N_CEN
+5219,8713,existing,50.4,Onshore Wind Turbine,N_CEN
+5220,8714,existing,45,Onshore Wind Turbine,CA
+5221,8715,existing,100.8,Onshore Wind Turbine,NW
+5222,8716,existing,98.7,Onshore Wind Turbine,NW
+5226,8720,existing,96,Onshore Wind Turbine,CEN
+5227,8721,existing,105,Onshore Wind Turbine,CEN
+5228,8722,existing,121.9,Onshore Wind Turbine,TX
+5229,8723,existing,30,Onshore Wind Turbine,N_CEN
+5231,8725,existing,150,Onshore Wind Turbine,TX
+5232,8726,existing,99,Onshore Wind Turbine,MID_AT
+5233,8727,existing,200,Onshore Wind Turbine,MID_AT
+5234,8728,existing,100,Onshore Wind Turbine,MID_AT
+5235,8729,existing,201.3,Onshore Wind Turbine,MID_AT
+5236,8730,existing,120,Onshore Wind Turbine,TX
+5237,8731,existing,120,Onshore Wind Turbine,TX
+5238,8732,existing,169.5,Onshore Wind Turbine,TX
+5239,8733,existing,150,Onshore Wind Turbine,TX
+5240,8734,existing,60,Onshore Wind Turbine,TX
+5241,8735,existing,102,Onshore Wind Turbine,MID_AT
+5242,8736,existing,5,Solar Photovoltaic,CA
+5243,8737,existing,146,Onshore Wind Turbine,CEN
+5244,8738,existing,132,Onshore Wind Turbine,N_CEN
+5245,8739,existing,28,Onshore Wind Turbine,N_CEN
+5246,8740,existing,20,Onshore Wind Turbine,N_CEN
+5247,8741,existing,112.5,Onshore Wind Turbine,TX
+5248,8742,existing,186,Onshore Wind Turbine,TX
+5249,8743,existing,214.5,Onshore Wind Turbine,TX
+5250,8744,existing,149.5,Onshore Wind Turbine,TX
+5251,8745,existing,20,Onshore Wind Turbine,N_CEN
+5252,8746,existing,69.6,Onshore Wind Turbine,TX
+5253,8747,existing,80,Onshore Wind Turbine,TX
+5254,8748,existing,80,Onshore Wind Turbine,NW
+5255,8749,existing,61,Onshore Wind Turbine,NW
+5256,8750,existing,18.9,Onshore Wind Turbine,SW
+5257,8751,existing,50,Onshore Wind Turbine,N_CEN
+5258,8752,existing,2.1,Onshore Wind Turbine,N_CEN
+5259,8753,existing,2.1,Onshore Wind Turbine,N_CEN
+5260,8754,existing,2.1,Onshore Wind Turbine,N_CEN
+5261,8755,existing,2.1,Onshore Wind Turbine,N_CEN
+5274,8768,existing,136.3,Onshore Wind Turbine,NW
+5281,8775,existing,37.8,Onshore Wind Turbine,MID_AT
+5282,8776,existing,29.4,Onshore Wind Turbine,MID_AT
+5678,9172,existing,130.5,Onshore Wind Turbine,N_CEN
+5679,9173,existing,75,Onshore Wind Turbine,N_CEN
+5684,9180,existing,59.8,Onshore Wind Turbine,TX
+5686,9182,existing,11.9,Onshore Wind Turbine,N_CEN
+5687,9183,existing,180,Onshore Wind Turbine,N_CEN
+5690,9198,existing,94,Onshore Wind Turbine,NW
+5692,9200,existing,132,Onshore Wind Turbine,CEN
+5693,9203,existing,283.2,Onshore Wind Turbine,TX
+5694,9204,existing,90,Onshore Wind Turbine,N_CEN
+5695,9209,existing,101.2,Onshore Wind Turbine,CA
+5696,9211,existing,70,Onshore Wind Turbine,MID_AT
+5697,9212,existing,51,Onshore Wind Turbine,CEN
+5698,9213,existing,101.2,Onshore Wind Turbine,TX
+5699,9214,existing,79.5,Onshore Wind Turbine,CEN
+5700,9215,existing,54,Onshore Wind Turbine,N_CEN
+5701,9216,existing,2,Onshore Wind Turbine,N_CEN
+5702,9217,existing,100,Onshore Wind Turbine,N_CEN
+5703,9218,existing,120,Onshore Wind Turbine,TX
+5705,9222,existing,150,Onshore Wind Turbine,N_CEN
+5708,9225,existing,170.2,Onshore Wind Turbine,TX
+5709,9226,existing,21,Onshore Wind Turbine,NW
+5710,9227,existing,21,Onshore Wind Turbine,NW
+5711,9228,existing,52.8,Onshore Wind Turbine,N_CEN
+5712,9229,existing,87.5,Onshore Wind Turbine,NE
+5713,9230,existing,37.5,Onshore Wind Turbine,NE
+5714,9232,existing,25,Onshore Wind Turbine,N_CEN
+5716,9234,existing,4,Onshore Wind Turbine,N_CEN
+5717,9235,existing,4,Onshore Wind Turbine,N_CEN
+5718,9236,existing,4,Onshore Wind Turbine,N_CEN
+5719,9237,existing,4,Onshore Wind Turbine,N_CEN
+5720,9238,existing,4,Onshore Wind Turbine,N_CEN
+5721,9239,existing,100.7,Onshore Wind Turbine,NW
+5722,9240,existing,72,Onshore Wind Turbine,N_CEN
+5723,9241,existing,94.5,Onshore Wind Turbine,CEN
+5724,9242,existing,100.5,Onshore Wind Turbine,NE
+5725,9243,existing,81,Onshore Wind Turbine,NE
+5726,9244,existing,100.5,Onshore Wind Turbine,NE
+5727,9245,existing,205.5,Onshore Wind Turbine,N_CEN
+5730,9248,existing,198,Onshore Wind Turbine,N_CEN
+5731,9249,existing,201,Onshore Wind Turbine,SW
+5739,9257,existing,1.5,Onshore Wind Turbine,CEN
+5740,9258,existing,10.5,Onshore Wind Turbine,CEN
+5741,9259,existing,150,Onshore Wind Turbine,CEN
+5742,9260,existing,115.5,Onshore Wind Turbine,CEN
+5744,9262,existing,118.5,Onshore Wind Turbine,N_CEN
+5749,9267,existing,63,Onshore Wind Turbine,TX
+5765,9283,existing,1.3,Onshore Wind Turbine,N_CEN
+5766,9284,existing,34.5,Onshore Wind Turbine,NE
+5767,9285,existing,209,Onshore Wind Turbine,TX
+5768,9286,existing,126.5,Onshore Wind Turbine,TX
+5769,9287,existing,9,Onshore Wind Turbine,NW
+5770,9288,existing,1.3,Onshore Wind Turbine,N_CEN
+5771,9289,existing,1.3,Onshore Wind Turbine,N_CEN
+5772,9290,existing,1.3,Onshore Wind Turbine,N_CEN
+5773,9291,existing,1.3,Onshore Wind Turbine,N_CEN
+5774,9292,existing,1.3,Onshore Wind Turbine,N_CEN
+5775,9293,existing,1.3,Onshore Wind Turbine,N_CEN
+5776,9294,existing,1.3,Onshore Wind Turbine,N_CEN
+5777,9295,existing,1.3,Onshore Wind Turbine,N_CEN
+5778,9296,existing,1.3,Onshore Wind Turbine,N_CEN
+5779,9297,existing,1.3,Onshore Wind Turbine,N_CEN
+5780,9298,existing,1.3,Onshore Wind Turbine,N_CEN
+5781,9299,existing,1.3,Onshore Wind Turbine,N_CEN
+5782,9300,existing,1.3,Onshore Wind Turbine,N_CEN
+5783,9301,existing,1.3,Onshore Wind Turbine,N_CEN
+5784,9302,existing,20,Onshore Wind Turbine,NE
+5785,9303,existing,48,Onshore Wind Turbine,N_CEN
+5790,9308,existing,7.4,Onshore Wind Turbine,CA
+5793,9311,existing,3.9,Solar Photovoltaic,SW
+5794,9312,existing,5.2,Solar Photovoltaic,SW
+5795,9313,existing,4.9,Solar Photovoltaic,SW
+5800,9319,existing,199.5,Onshore Wind Turbine,SW
+5801,9320,existing,10,Onshore Wind Turbine,CEN
+5802,9321,existing,10,Onshore Wind Turbine,CEN
+5803,9322,existing,79.8,Onshore Wind Turbine,CEN
+5806,9325,existing,56.7,Onshore Wind Turbine,CEN
+5823,9342,existing,15.6,Onshore Wind Turbine,N_CEN
+5824,9343,existing,10.4,Onshore Wind Turbine,N_CEN
+5831,9351,existing,5,Onshore Wind Turbine,CEN
+5832,9352,existing,50.4,Onshore Wind Turbine,CEN
+5833,9353,existing,50.4,Onshore Wind Turbine,CEN
+5932,9458,existing,130.5,Onshore Wind Turbine,TX
+5952,9478,existing,29.9,Onshore Wind Turbine,N_CEN
+5953,9479,existing,58.5,Onshore Wind Turbine,N_CEN
+5954,9480,existing,75,Onshore Wind Turbine,N_CEN
+5955,9481,existing,123,Onshore Wind Turbine,N_CEN
+5956,9482,existing,1,Solar Photovoltaic,SW
+5986,9512,existing,100,Onshore Wind Turbine,MID_AT
+5987,9513,existing,164,Onshore Wind Turbine,MID_AT
+5988,9514,existing,100.6,Onshore Wind Turbine,N_CEN
+5989,9515,existing,27,Onshore Wind Turbine,SE
+5995,9521,existing,100.8,Onshore Wind Turbine,CEN
+5996,9522,existing,204,Onshore Wind Turbine,NW
+5997,9523,existing,161,Onshore Wind Turbine,NW
+5998,9524,existing,163.3,Onshore Wind Turbine,NW
+5999,9525,existing,125.4,Onshore Wind Turbine,NW
+6000,9526,existing,232.5,Onshore Wind Turbine,TX
+6001,9527,existing,200,Onshore Wind Turbine,TX
+6004,9530,existing,7.2,Solar Photovoltaic,SW
+6005,9531,existing,1,Solar Photovoltaic,SW
+6007,9533,existing,90,Onshore Wind Turbine,TX
+6019,9545,existing,26,Onshore Wind Turbine,MID_AT
+6021,9547,existing,76.5,Onshore Wind Turbine,NW
+6022,9548,existing,221,Onshore Wind Turbine,NW
+6026,9552,existing,70.2,Onshore Wind Turbine,NW
+6027,9553,existing,140.4,Onshore Wind Turbine,NW
+6056,9582,existing,75,Onshore Wind Turbine,SW
+6057,9583,existing,150,Onshore Wind Turbine,N_CEN
+6062,9588,existing,84,Onshore Wind Turbine,TX
+6064,9591,existing,80,Onshore Wind Turbine,MID_AT
+6065,9592,existing,80,Onshore Wind Turbine,N_CEN
+6066,9594,existing,42,Onshore Wind Turbine,NE
+6067,9596,existing,38,Onshore Wind Turbine,CA
+6070,9599,existing,10.5,Onshore Wind Turbine,NW
+6071,9600,existing,12,Onshore Wind Turbine,NW
+6072,9601,existing,21,Onshore Wind Turbine,NW
+6073,9602,existing,10.5,Onshore Wind Turbine,NW
+6074,9603,existing,13.5,Onshore Wind Turbine,NW
+6075,9604,existing,19.5,Onshore Wind Turbine,NW
+6076,9605,existing,12,Onshore Wind Turbine,NW
+6077,9606,existing,21.3,Onshore Wind Turbine,NW
+6078,9607,existing,135,Onshore Wind Turbine,CA
+6079,9608,existing,161,Onshore Wind Turbine,CEN
+6100,9629,existing,98.9,Onshore Wind Turbine,N_CEN
+6113,9642,existing,69,Onshore Wind Turbine,N_CEN
+6114,9643,existing,1.7,Onshore Wind Turbine,N_CEN
+6115,9644,existing,1.7,Onshore Wind Turbine,N_CEN
+6116,9645,existing,1,Onshore Wind Turbine,N_CEN
+6117,9646,existing,1,Onshore Wind Turbine,N_CEN
+6118,9647,existing,1.7,Onshore Wind Turbine,N_CEN
+6119,9648,existing,1.7,Onshore Wind Turbine,N_CEN
+6120,9649,existing,1.7,Onshore Wind Turbine,N_CEN
+6121,9650,existing,1.7,Onshore Wind Turbine,N_CEN
+6122,9651,existing,1.7,Onshore Wind Turbine,N_CEN
+6123,9652,existing,1.7,Onshore Wind Turbine,N_CEN
+6124,9653,existing,1.7,Onshore Wind Turbine,N_CEN
+6125,9654,existing,8.4,Onshore Wind Turbine,N_CEN
+6139,9668,existing,75.7,Solar Thermal without Energy Storage,SW
+6143,9672,existing,24,Onshore Wind Turbine,NE
+6145,9675,existing,200,Onshore Wind Turbine,TX
+6146,9676,existing,124.2,Onshore Wind Turbine,TX
+6147,9677,existing,50.6,Onshore Wind Turbine,N_CEN
+6148,9678,existing,145.2,Onshore Wind Turbine,N_CEN
+6149,9679,existing,29.7,Onshore Wind Turbine,N_CEN
+6150,9680,existing,80,Onshore Wind Turbine,N_CEN
+6151,9681,existing,120,Onshore Wind Turbine,CEN
+6152,9682,existing,99,Onshore Wind Turbine,N_CEN
+6153,9684,existing,135,Onshore Wind Turbine,NW
+6154,9685,existing,1.7,Onshore Wind Turbine,N_CEN
+6157,9689,existing,80.5,Onshore Wind Turbine,TX
+6158,9690,existing,79.5,Onshore Wind Turbine,SW
+6159,9691,existing,221,Onshore Wind Turbine,SW
+6160,9693,existing,34.5,Onshore Wind Turbine,MID_AT
+6169,9706,existing,150,Onshore Wind Turbine,CA
+6170,9707,existing,199,Onshore Wind Turbine,NW
+6171,9708,existing,100.5,Onshore Wind Turbine,NW
+6172,9709,existing,75,Onshore Wind Turbine,NW
+6173,9711,existing,31.5,Onshore Wind Turbine,CEN
+6174,9712,existing,18,Onshore Wind Turbine,CEN
+6177,9715,existing,199.7,Onshore Wind Turbine,N_CEN
+6178,9727,existing,48,Onshore Wind Turbine,CEN
+6179,9728,existing,100.5,Onshore Wind Turbine,CEN
+6194,9743,existing,67.7,Onshore Wind Turbine,N_CEN
+6209,9758,existing,198,Onshore Wind Turbine,N_CEN
+6210,9759,existing,241,Onshore Wind Turbine,TX
+6211,9760,existing,90,Onshore Wind Turbine,SW
+6212,9761,existing,151,Onshore Wind Turbine,CEN
+6238,9801,existing,0.5,Solar Photovoltaic,NW
+6239,9802,existing,44,Onshore Wind Turbine,NW
+6240,9803,existing,228.6,Onshore Wind Turbine,NW
+6243,9806,existing,60,Onshore Wind Turbine,SW
+6254,9820,existing,135,Onshore Wind Turbine,TX
+6261,9827,existing,10.5,Onshore Wind Turbine,NW
+6262,9828,existing,10,Onshore Wind Turbine,N_CEN
+6263,9829,existing,14,Onshore Wind Turbine,N_CEN
+6264,9834,existing,120,Onshore Wind Turbine,CEN
+6265,9835,existing,150,Onshore Wind Turbine,CEN
+6266,9836,existing,59,Onshore Wind Turbine,CA
+6267,9837,existing,64.5,Onshore Wind Turbine,NW
+6268,9838,existing,7.5,Onshore Wind Turbine,MID_AT
+6269,9839,existing,24,Onshore Wind Turbine,MID_AT
+6276,9846,existing,53,Onshore Wind Turbine,N_CEN
+6277,9847,existing,100.5,Onshore Wind Turbine,N_CEN
+6278,9848,existing,50,Onshore Wind Turbine,CA
+6279,9850,existing,20,Onshore Wind Turbine,CEN
+6280,9851,existing,60,Onshore Wind Turbine,CEN
+6287,9858,existing,299,Onshore Wind Turbine,TX
+6288,9859,existing,223.5,Onshore Wind Turbine,TX
+6289,9860,existing,213,Onshore Wind Turbine,TX
+6290,9861,existing,91,Onshore Wind Turbine,NE
+6291,9862,existing,33,Onshore Wind Turbine,NE
+6292,9863,existing,61,Onshore Wind Turbine,NE
+6293,9864,existing,137,Onshore Wind Turbine,NE
+6315,9888,existing,1.6,Onshore Wind Turbine,CA
+6316,9889,existing,2.4,Onshore Wind Turbine,CA
+6320,9893,existing,40.5,Onshore Wind Turbine,CEN
+6321,9894,existing,106.5,Onshore Wind Turbine,CEN
+6322,9895,existing,18,Onshore Wind Turbine,CA
+6323,9896,existing,114,Onshore Wind Turbine,TX
+6339,9918,existing,7.2,Onshore Wind Turbine,NW
+6340,9919,existing,149.4,Onshore Wind Turbine,NW
+6343,9922,existing,15,Onshore Wind Turbine,N_CEN
+6344,9923,existing,35,Onshore Wind Turbine,N_CEN
+6345,9924,existing,150,Onshore Wind Turbine,N_CEN
+6346,9925,existing,15,Onshore Wind Turbine,N_CEN
+6347,9926,existing,160.5,Onshore Wind Turbine,N_CEN
+6377,9956,existing,120.6,Onshore Wind Turbine,TX
+6397,9979,existing,2.1,Solar Photovoltaic,SW
+6400,9982,existing,1.8,Onshore Wind Turbine,MID_AT
+6401,9983,existing,1.8,Onshore Wind Turbine,MID_AT
+6402,9984,existing,1.8,Onshore Wind Turbine,MID_AT
+6403,9985,existing,1.8,Onshore Wind Turbine,MID_AT
+6404,9986,existing,3,Onshore Wind Turbine,CEN
+6412,9996,existing,2,Onshore Wind Turbine,N_CEN
+6413,9997,existing,0.6,Onshore Wind Turbine,N_CEN
+6415,9999,existing,1.2,Onshore Wind Turbine,N_CEN
+6416,10002,existing,98.8,Onshore Wind Turbine,TX
+6417,10003,existing,37.5,Onshore Wind Turbine,TX
+6418,10004,existing,2,Onshore Wind Turbine,N_CEN
+6419,10005,existing,2,Onshore Wind Turbine,N_CEN
+6420,10006,existing,2,Onshore Wind Turbine,N_CEN
+6421,10007,existing,2,Onshore Wind Turbine,N_CEN
+6422,10008,existing,2,Onshore Wind Turbine,N_CEN
+6423,10009,existing,2,Onshore Wind Turbine,N_CEN
+6424,10010,existing,2,Onshore Wind Turbine,N_CEN
+6425,10011,existing,2,Onshore Wind Turbine,N_CEN
+6426,10012,existing,2,Onshore Wind Turbine,N_CEN
+6427,10013,existing,2,Onshore Wind Turbine,N_CEN
+6428,10014,existing,2,Onshore Wind Turbine,N_CEN
+6429,10015,existing,2,Onshore Wind Turbine,N_CEN
+6433,10019,existing,41,Onshore Wind Turbine,NW
+6480,10081,existing,51,Onshore Wind Turbine,N_CEN
+6481,10082,existing,162,Onshore Wind Turbine,SW
+6482,10083,existing,43.5,Onshore Wind Turbine,N_CEN
+6497,10098,existing,59.4,Onshore Wind Turbine,CEN
+6498,10099,existing,76.3,Onshore Wind Turbine,N_CEN
+6499,10100,existing,12,Onshore Wind Turbine,N_CEN
+6528,10132,existing,85.5,Onshore Wind Turbine,N_CEN
+6544,10154,existing,11.5,Onshore Wind Turbine,N_CEN
+6576,10186,existing,22.4,Onshore Wind Turbine,CA
+6577,10187,existing,160,Onshore Wind Turbine,TX
+6580,10190,existing,30,Onshore Wind Turbine,NW
+6592,10202,existing,61.5,Onshore Wind Turbine,N_CEN
+6595,10205,existing,204,Onshore Wind Turbine,SW
+6596,10206,existing,51,Onshore Wind Turbine,CEN
+6597,10207,existing,51,Onshore Wind Turbine,CEN
+6598,10208,existing,144,Onshore Wind Turbine,NW
+6599,10209,existing,40.5,Onshore Wind Turbine,CEN
+6603,10213,existing,74.3,Onshore Wind Turbine,CEN
+6608,10231,existing,16.2,Onshore Wind Turbine,CA
+6609,10232,existing,145.8,Onshore Wind Turbine,CA
+6623,10254,existing,3,Onshore Wind Turbine,N_CEN
+6624,10255,existing,8,Onshore Wind Turbine,N_CEN
+6625,10256,existing,32,Onshore Wind Turbine,N_CEN
+6629,10260,existing,30,Onshore Wind Turbine,MID_AT
+6667,10302,existing,61.5,Onshore Wind Turbine,CA
+6668,10303,existing,41,Onshore Wind Turbine,CA
+6669,10304,existing,98,Onshore Wind Turbine,N_CEN
+6679,10315,existing,3.8,Onshore Wind Turbine,N_CEN
+6680,10316,existing,64.5,Onshore Wind Turbine,MID_AT
+6694,10330,existing,4.5,Onshore Wind Turbine,CEN
+6695,10331,existing,2.6,Onshore Wind Turbine,CEN
+6696,10332,existing,167.7,Onshore Wind Turbine,TX
+6709,10345,existing,122.8,Onshore Wind Turbine,NW
+6718,10354,existing,66,Onshore Wind Turbine,MID_AT
+6724,10360,existing,2,Onshore Wind Turbine,N_CEN
+6725,10361,existing,2,Onshore Wind Turbine,N_CEN
+6738,10374,existing,152,Onshore Wind Turbine,TX
+6755,10397,existing,1.8,Onshore Wind Turbine,N_CEN
+6808,10461,existing,24.5,Onshore Wind Turbine,NW
+6847,10526,existing,42,Onshore Wind Turbine,N_CEN
+6853,10532,existing,1.5,Onshore Wind Turbine,N_CEN
+6856,10535,existing,15,Onshore Wind Turbine,MID_AT
+6857,10536,existing,80,Onshore Wind Turbine,N_CEN
+6858,10537,existing,9,Onshore Wind Turbine,MID_AT
+6869,10550,existing,82,Onshore Wind Turbine,TX
+6870,10551,existing,78,Onshore Wind Turbine,TX
+6871,10552,existing,30,Onshore Wind Turbine,NE
+6876,10557,existing,1.5,Onshore Wind Turbine,N_CEN
+6901,10584,existing,11.5,Onshore Wind Turbine,NE
+6933,10638,existing,82.5,Onshore Wind Turbine,TX
+6934,10639,existing,30,Onshore Wind Turbine,N_CEN
+6935,10640,existing,29.7,Onshore Wind Turbine,SW
+6936,10641,existing,50,Onshore Wind Turbine,NW
+6937,10642,existing,25.2,Onshore Wind Turbine,NW
+6938,10643,existing,24.6,Onshore Wind Turbine,NW
+6947,10652,existing,112,Onshore Wind Turbine,CEN
+6951,10656,existing,44.4,Onshore Wind Turbine,CA
+6952,10657,existing,22.2,Onshore Wind Turbine,CA
+7090,10808,existing,16.8,Onshore Wind Turbine,NW
+7091,10809,existing,24.8,Onshore Wind Turbine,NW
+7092,10810,existing,1.8,Onshore Wind Turbine,NW
+7093,10811,existing,41.4,Onshore Wind Turbine,NW
+7131,10874,existing,278,Onshore Wind Turbine,TX
+7132,10875,existing,80,Onshore Wind Turbine,CEN
+7133,10877,existing,1.9,Onshore Wind Turbine,N_CEN
+7134,10878,existing,1.9,Onshore Wind Turbine,N_CEN
+7135,10879,existing,1.9,Onshore Wind Turbine,N_CEN
+7136,10880,existing,1.9,Onshore Wind Turbine,N_CEN
+7137,10881,existing,1.9,Onshore Wind Turbine,N_CEN
+7138,10882,existing,1.9,Onshore Wind Turbine,N_CEN
+7139,10883,existing,1.9,Onshore Wind Turbine,N_CEN
+7140,10884,existing,1.9,Onshore Wind Turbine,N_CEN
+7141,10885,existing,1.9,Onshore Wind Turbine,N_CEN
+7142,10886,existing,1.9,Onshore Wind Turbine,N_CEN
+7143,10887,existing,1.9,Onshore Wind Turbine,N_CEN
+7144,10888,existing,1.9,Onshore Wind Turbine,N_CEN
+7145,10889,existing,1.9,Onshore Wind Turbine,N_CEN
+7146,10890,existing,1.9,Onshore Wind Turbine,N_CEN
+7147,10891,existing,1.9,Onshore Wind Turbine,N_CEN
+7148,10892,existing,176.9,Onshore Wind Turbine,NW
+7402,11176,existing,16.5,Onshore Wind Turbine,CA
+7459,11256,existing,6.6,Onshore Wind Turbine,NE
+7460,11257,existing,75,Onshore Wind Turbine,TX
+7485,11282,existing,11.8,Onshore Wind Turbine,N_CEN
+7486,11283,existing,11.2,Onshore Wind Turbine,N_CEN
+7507,11304,existing,10.2,Onshore Wind Turbine,N_CEN
+7597,11411,existing,80.2,Onshore Wind Turbine,N_CEN
+7667,11490,existing,103.5,Onshore Wind Turbine,N_CEN
+7861,11696,existing,107.2,Onshore Wind Turbine,N_CEN
+7869,11704,existing,5.2,Onshore Wind Turbine,SW
+8052,11899,existing,25,Onshore Wind Turbine,NW
+8298,12196,existing,34.3,Onshore Wind Turbine,TX
+8336,12258,existing,46.8,Onshore Wind Turbine,CA
+8379,12315,existing,13.6,Onshore Wind Turbine,CA
+8380,12316,existing,8.3,Onshore Wind Turbine,CA
+8482,12533,existing,112.5,Onshore Wind Turbine,N_CEN
+8483,12534,existing,0.7,Onshore Wind Turbine,N_CEN
+8484,12535,existing,0.7,Onshore Wind Turbine,N_CEN
+8582,12666,existing,6.5,Onshore Wind Turbine,CA
+8683,12803,existing,11.7,Onshore Wind Turbine,CA
+8684,12804,existing,5.5,Onshore Wind Turbine,CA
+8685,12805,existing,7.3,Onshore Wind Turbine,CA
+8739,12872,existing,9.6,Onshore Wind Turbine,CA
+8740,12873,existing,9.1,Onshore Wind Turbine,CA
+8741,12874,existing,28.7,Onshore Wind Turbine,CA
+8903,13138,existing,49.5,Onshore Wind Turbine,CA
+8904,13139,existing,15.5,Onshore Wind Turbine,CA
+9002,13332,existing,0.1,Onshore Wind Turbine,CA
+9003,13333,existing,4.5,Onshore Wind Turbine,CA
+9005,13335,existing,3,Onshore Wind Turbine,CA
+9007,13337,existing,7.5,Onshore Wind Turbine,CA
+9201,13644,existing,1.8,Onshore Wind Turbine,CA
+9202,13645,existing,21.2,Onshore Wind Turbine,CA
+9203,13646,existing,14.1,Onshore Wind Turbine,CA
+9204,13647,existing,18.4,Onshore Wind Turbine,CA
+9205,13648,existing,22,Onshore Wind Turbine,CA
+9212,13686,existing,22.5,Onshore Wind Turbine,CA
+9213,13687,existing,23.5,Onshore Wind Turbine,CA
+9214,13688,existing,29,Onshore Wind Turbine,CA
+9429,14136,existing,40.5,Onshore Wind Turbine,CA
+9430,14137,existing,48,Onshore Wind Turbine,CA
+9431,14138,existing,3,Onshore Wind Turbine,CA
+9500,14224,existing,22,Solar Photovoltaic,SW
+9521,14268,existing,3.7,Onshore Wind Turbine,CA
+9522,14269,existing,23.1,Onshore Wind Turbine,CA
+9523,14270,existing,4.2,Onshore Wind Turbine,CA
+9524,14271,existing,3.5,Onshore Wind Turbine,CA
+9566,14343,existing,43.4,Onshore Wind Turbine,CA
+9697,14506,existing,20,Onshore Wind Turbine,CA
+9698,14507,existing,38.9,Onshore Wind Turbine,CA
+9709,14524,existing,76.9,Onshore Wind Turbine,CA
+9710,14525,existing,29.9,Onshore Wind Turbine,CA
+9711,14527,existing,19,Onshore Wind Turbine,CA
+9712,14528,existing,17.3,Onshore Wind Turbine,CA
+9713,14529,existing,1.5,Onshore Wind Turbine,CA
+9740,14574,existing,3.4,Onshore Wind Turbine,CA
+9741,14575,existing,21.7,Onshore Wind Turbine,CA
+9863,14772,existing,15.3,Onshore Wind Turbine,CA
+9962,14935,existing,31,Onshore Wind Turbine,CA
+9970,14943,existing,5.9,Onshore Wind Turbine,CA
+10253,15394,existing,0.6,Onshore Wind Turbine,NE
+10254,15395,existing,0.6,Onshore Wind Turbine,NE
+10256,15397,existing,0.1,Solar Photovoltaic,NE
+10365,15532,existing,11.7,Onshore Wind Turbine,CA
+10442,15667,existing,29,Onshore Wind Turbine,CA
+10445,15670,existing,59.6,Onshore Wind Turbine,CA
+10575,15841,existing,92,Solar Thermal without Energy Storage,CA
+10576,15842,existing,92,Solar Thermal without Energy Storage,CA
+10577,15843,existing,35,Solar Thermal without Energy Storage,CA
+10578,15844,existing,35,Solar Thermal without Energy Storage,CA
+10579,15845,existing,34.2,Solar Thermal without Energy Storage,CA
+10580,15846,existing,34.2,Solar Thermal without Energy Storage,CA
+10581,15847,existing,34.2,Solar Thermal without Energy Storage,CA
+10582,15848,existing,13.8,Solar Photovoltaic,CA
+10584,15850,existing,20,Solar Photovoltaic,CA
+10744,16151,existing,8.7,Onshore Wind Turbine,CA
+10861,16333,existing,9.4,Onshore Wind Turbine,CA
+10935,16432,existing,8.3,Solar Photovoltaic,SW
+10936,16433,existing,1.4,Solar Photovoltaic,SW
+10937,16434,existing,3.7,Solar Photovoltaic,SW
+11180,16746,existing,1.3,Onshore Wind Turbine,CEN
+11181,16747,existing,1.3,Onshore Wind Turbine,CEN
+11214,16792,existing,2.3,Onshore Wind Turbine,N_CEN
+11215,16793,existing,0.6,Onshore Wind Turbine,CEN
+11216,16794,existing,0.6,Onshore Wind Turbine,CEN
+11275,16863,existing,95.9,Onshore Wind Turbine,NW
+11309,16897,existing,0.6,Onshore Wind Turbine,SE
+11310,16898,existing,0.6,Onshore Wind Turbine,SE
+11311,16899,existing,0.6,Onshore Wind Turbine,SE
+11363,16951,existing,0.7,Onshore Wind Turbine,N_CEN
+11364,16952,existing,0.7,Onshore Wind Turbine,N_CEN
+11390,16995,existing,11,Onshore Wind Turbine,N_CEN
+11454,17068,existing,0.7,Onshore Wind Turbine,CEN
+11455,17069,existing,0.7,Onshore Wind Turbine,CEN
+11678,17293,existing,1.5,Onshore Wind Turbine,CEN
+11679,17294,existing,1.5,Onshore Wind Turbine,CEN
+11832,17507,existing,128,Onshore Wind Turbine,CA
+11833,17508,existing,63,Onshore Wind Turbine,CA
+11834,17509,existing,24,Onshore Wind Turbine,CA
+11835,17510,existing,13.2,Onshore Wind Turbine,CA
+11847,17536,existing,3,Onshore Wind Turbine,NE
+11964,17751,existing,6,Onshore Wind Turbine,NE
+13089,19263,existing,3,Solar Photovoltaic,CEN
+15188,21523,existing,2.5,Solar Photovoltaic,CEN
+15324,21690,existing,1.1,Solar Photovoltaic,MID_AT
+16356,22863,existing,1,Solar Photovoltaic,CEN
+16357,22864,existing,1.3,Solar Photovoltaic,CEN
+16358,22865,existing,40.9,Onshore Wind Turbine,CEN
+16807,23349,existing,0.9,Onshore Wind Turbine,N_CEN
+16808,23350,existing,0.9,Onshore Wind Turbine,N_CEN
+16815,23357,existing,1,Onshore Wind Turbine,N_CEN
+16816,23358,existing,1,Onshore Wind Turbine,N_CEN
+16817,23359,existing,0.9,Onshore Wind Turbine,N_CEN
+16818,23360,existing,0.9,Onshore Wind Turbine,N_CEN
+16824,23366,existing,2,Onshore Wind Turbine,N_CEN
+16825,23367,existing,2,Onshore Wind Turbine,N_CEN
+16911,23457,existing,1.2,Onshore Wind Turbine,N_CEN
+18012,24691,existing,10,Solar Photovoltaic,SE
+18467,25183,existing,1.6,Onshore Wind Turbine,N_CEN
+18468,25184,existing,0.8,Solar Photovoltaic,N_CEN
+18916,25674,existing,0.3,Solar Photovoltaic,N_CEN
+19034,25771,existing,1.2,Solar Photovoltaic,N_CEN
+19035,25772,existing,1.5,Onshore Wind Turbine,N_CEN
+19036,25773,existing,1.5,Onshore Wind Turbine,N_CEN
+19425,26345,existing,0.7,Onshore Wind Turbine,NW
+19426,26346,existing,0.7,Onshore Wind Turbine,NW
+19427,26347,existing,0.7,Onshore Wind Turbine,NW
+19428,26348,existing,0.7,Onshore Wind Turbine,NW
+19429,26349,existing,0.7,Onshore Wind Turbine,NW
+19431,26351,existing,0.6,Onshore Wind Turbine,NW
+19432,26352,existing,0.6,Onshore Wind Turbine,NW
+19435,26355,existing,0.7,Onshore Wind Turbine,NW
+19436,26356,existing,0.7,Onshore Wind Turbine,NW
+19552,26525,existing,19,Solar Photovoltaic,SE
+19872,26862,existing,1.5,Onshore Wind Turbine,SW
+19873,26863,existing,4.5,Onshore Wind Turbine,SW
+20504,27625,existing,0.2,Solar Photovoltaic,SW
